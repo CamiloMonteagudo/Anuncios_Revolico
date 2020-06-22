@@ -1,0 +1,2108 @@
+// Url-Txt = https://www.revolico.com/compra-venta/otros/insertar-anuncio.html
+// Titulo-TagName = input
+// Titulo-AttrName = ad-title
+// Descripción-TagName = textarea
+// Descripción-AttrName = ad-description
+// Mail-TagName = input
+// Mail-AttrName = ad-email
+// Mail-Txt = {EMAIL}
+// Telef-TagName = input
+// Telef-AttrName = ad-phone
+// Telef-Txt = 7 832 8768, 5 331 7003
+
+// WordsKey1-Txt = Acido Folico, Amonio, Ampula, Artritis, Artritol, Aspirina, Atenolol, Azitromicina, Benadrilina, Betametasona, Bismuto, Bulsitis, Captopril, Cervical, Cetirizina, Chanca Piedra, Chondrotina, Cialis, Ciprofloxacina, MediSonia, Ciprofloxacino, Clotrimazol, Complejo B, Crema, Diclofenac, Dolores, Estomago, Fin de Semana, Fricciones, Furosemida, Gel, Gentamicina, Glibenclamida, Glucosamina, Hidrocortizona, Higado de Bacalao, Ibuprofeno, Inyectable, Ketoconazol, Lazcovagil, Loperamida, Loratadina, Losartan, Lumbago, Mambo 36, Medicamentos, Medicinas, Mentol, Metformina, Metronidazol, Minerales, MultiVitaminas, Nistatina, Omega 3, Omega 369, Omeprazol, Ovulos, Paracetamol, Pastillero, Pepto-Bismol, Permetrina, Potasico, Potásico, Prueba de Embarazo, Píldora del día después, Píldora del día siguiente, Ranitidina, Reumatismo, Sildena_fil, Sodico, Sulfaprim, Sódico, Tada_lafil, Tetraciclina, Tolnaftato, Atenolol, Tripe antibiotico, Via_gra, Vitamina A, Vitamina B, Vitamina C, Vitamina D, Vitamina E, Voltaren, Fumarato, Sulfato, Ferroso, Amoxicilina, {DiaStr}De{Mes}, {ID}{DiaSem}
+
+// WordsKey2-Txt = Acordeon, Botones, Bomba de Drenaje, Bomba de Agua, Busing, Correa, Lavadoras, Manguera de Salida, MediSonia, MyLavPiezas, Reductor, Respuestos, Piezas, Sello, Tansmisión, Tapón, Reloj, Timer, {DiaStr}De{Mes}, {ID}{DiaSem}
+
+// Anuncio-Txt = 01Medic --------------------------------------------------------------------------------------------------------------------------------
+Tengo.Medicinas{H}: ✔TETRACICLINA ✔OMEGA 369 ✔DICLOFENAC.Tabletas.Crema.Gel ✔SULFAPRIM ✔AZITROMICINA ✔TRIPE.ANTIBIOTICO
+☎7.832.8768  ☎5.331.7003
+
+Productos:
+2.5 cuc (Diclofenac Pótasico con Vitamina B1,B2,B6 y B12) blister de 10 tabletas.
+2 cuc.. (Diclofenac Pótasico con Vitamina B1,B6 y B12) blister de 10 tabletas.
+2 cuc.. (Diclofenac con Paracetamol) blister de 10 tabletas.
+6 cuc.. (Diclofenac Crema) un Frasco de 150 ml.
+4 cuc.. (Diclofenac en Gel) un Tubo.
+1 cuc.. (Omeprazol de 20 mg), blister de 10 capsulas.
+1 cuc.. (Ranitidina) un blister de 10 tabletas.
+12 cuc. (Chanca Piedra) un pomo de 60 tabletas.
+12 cuc. (Omega 369) un pomo de 100 pastillas de 1200 mg.
+15 cuc. (Vitamina E) una caja de 100 capsulas de 1000 UI.
+1 cuc.. (Vitamina C) un blister de 10 tabletas masticables de 500 mg.
+1 cuc.. (Ibuprofeno 600 mg) un blister de 10 tabletas.
+1.5 cuc (Ibuprofeno 800 mg) un blister de 10 tabletas.
+18 cuc. (Glucosamina Chondrotina 1500 mg) un frasco de 60 tabletas.
+4 cuc.. (Lascovagil, ovulos de metronidazol+nistatina) blister de 10 ovulos. 
+3 cuc.. (Tadalafil de 20 mg) un blister de 4 pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+1 cuc.. (Mambo 36 = Tadalafil) a 1 cuc la pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+3 cuc.. (Via_gra de 100 mg) un blister de 8 pastilla.
+3 cuc.. (Prueba de Embarazo).
+5 cuc.. (Píldora del día después).
+8 cuc.. (Vitaminas complejo B) una caja de 100 pastillas.
+8 cuc.. (Acido Folico 5mg) una caja de 100 pastillas.
+10 cuc. (Pepto-Bismol 525 mg) frasco de 236 ml.
+12 cuc. (MultiVitaminas y Minerales) un pomo de 100 capsulas.
+2 cuc.. (Loperamida) un blister de 10 pastilla (Antidiarreico de efecto rápido y prolongado).
+2 cuc.. (Azitromicina) una cajita de 3 pastilla de 500 mg.
+1.5 cuc (Sulfaprim) un bliter de 10 pastilla de (80/400) mg.
+1.5 cuc (Ciprofloxacina) un bliter de 10 pastilla de 500 mg.
+1 cuc.. (Metronidazol) un bliter de 10 pastilla de 500 mg.
+1 cuc.. (Glibenclamida) un bliter de 10 pastilla de 5 mg.
+1 cuc.. (Furosemida) un blister de 10 pastillas de 40 mg
+5 cuc.. (Permetrina en crema) un tubo de 30g
+
+La CHANCA PIEDRA, es para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+
+GLUCOSAMINA CHONDROITINA, Es un generador de cartilogos, para mejorar los dolores de artritis, juega un papel importante en la formación de tendones y ligamentos, regenerando Manos, Pies, Rodillas, Espalda, Cuellos, Caderas, Tobillos.
+
+{WordsKey1/, }
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+// Anuncio-Txt = 02Medic --------------------------------------------------------------------------------------------------------------------------------
+Hay{H} ✔DICLOFENAC_en_Crema ✔OMEGA_369 ✔BENADRILINA ✔CIPROFLOXACINO ✔CETIRIZINA ✔PARACETAMOL ✔TETRACICLINA y mucho más
+☎7.832.8768  ☎5.331.7003
+
+El Diclofenac es una Analgesico, Antineuretico, Antineuralgico y Antirreumatico, que sive para padecimientos como Artritis, Reumatismo, Dolores Lumbargícos, Cervicales, branquiales, faciales, del trigemino intercostal, hepaticos, radiculitis, neuropatias alcohólicas y diabéticas, fibromiología, espndilitis, toceduras, esquinces, fracturas, etc.
+
+Otras presentaciones de DICLOFENAC:
+.... DICLOFENAC POTÁSICO + Vitamina B: 2.5 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12, fecha de vencimiento en 2023.
+.... DICLOFENAC SÓDICO + Vitamina B: 2 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B6 y B12, fecha de vencimiento en 2021.
+.... DICLOFENAC CON PARACETAMOL: 2 cuc x blister de 10, son tabletas de 50 y 500 mg respectivamente.
+.... DICLOFENAC EN GEL: 4 cuc x tubo al 1%, para dolores e inflamaciones localizadas, similar al Voltaren.
+.... DICLOFENAC EN CREMA: 6 cuc el pomo de 150 ml, para dolores e inflamaciones localizadas, similar al Voltaren, pero contiene otras sustancias realajantes y antimflamatorias como el Aceite de Eucalito, la Escencia de Pino, Silicato de Mentol y otros.
+
+Tambien tengo:
+OMEPRAZOL a 1 cuc x blister de 10 capsulas de 20 mg.
+RANITIDINA a 1 cuc x blister con 10 capsulas de 300 mg
+LASCOVAGIL (ovulos de metronidazol y nistatina) a 4 cuc x un blister con 10 ovulos. 
+CHANCA PIEDRA a 12 cuc, pomo que contiene 60 capsulas de 500 mg, para eliminar sustancis nocivas en el higado y calculos renales ó biliares.
+IBUPROFENO 600 mg a 1 cuc x un blister de 10 capsulas.
+IBUPROFENO 800 mg a 1.5 cuc x un blister de 10 capsulas.
+GLUCOSAMINA Y CHONDROTINA 1500 mg a 18 cuc x un frasco de 60 capsulas.
+OMEGA 369 1200 mg a 12 cuc x pomo de 100 pastillas.
+VITAMINA E 1000 UI a 15 cuc x caja de 100 capsulas.
+VITAMINA C 500 mg a 1 cuc x por blister de 10 tableta masticables.
+VITAMINAS COMPLEJO B a 8 cuc x una caja de 100 tabletas.
+MULTIVITAMINAS Y MINERALES a 12 cuc x un pomo de 100 capsulas.
+TADALAFIL de 20 mg a 3 cuc x un blister de 4 pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+MAMBO 36 (Tadalafil) de 20 mg a 1 cuc, por un sobre de una la pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+VIA_GRA de 100 mg a 3 cuc x un blister de 8 pastilla.
+PRUEBA DE EMBARAZO a 3 cuc x un Kit.
+ACIDO FOLICO, a 8 cuc, una caja de 100 pastillas de 5 mg.
+PÍLDORA DEL DÍA DESPUÉS a 5 cuc x pastilla.
+AZITROMICINA a 2 cuc x una cajita de 3 cápsulas de 500 mg.
+SULFAPRIM a 1.5 cuc x un bliter de 10 cápsulas de (80/400) mg.
+CIPROFLOXACINA a 1.5 cuc x un bliter de 10 pastilla de 500 mg.
+METRONIDAZOL a 1 cuc x un bliter de 10 pastilla de 500 mg.
+GLIBENCLAMIDA a 1 cuc x un bliter de 10 pastilla de 5 mg.
+LOPERAMIDA a 2 cuc x un blister de 10 pastilla.
+PEPTO-BISMOL a 10 cuc x frasco de 236 ml.
+FUROSEMIDA a 1 cuc x blister de 10 pastillas de 40 mg
+PERMETRINA (crema) a 5 cuc x un tubo de 30g
+
+{WordsKey1/, }
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+// Anuncio-Txt = 03Viag --------------------------------------------------------------------------------------------------------------------------------
+Tengo.Medicinas.Importadas{H}: ✔TA_DA_LA_FIL ✔V_I_A_G_R_A ✔SULFAPRIM 160/800 mg ✔AMPICILINA ✔CETIRIZINA ✔MENTOL+Diclof.
+☎7.832.8768  ☎5.331.7003
+
+1 blíster de 8 por 3 cuc, son adquiridas en el extranjero
+cada via_gra tiene 100mg de Side_nafil Citrato, con lo que se logra la potencia y máxima duración.
+
+Tambien tengo:
+Diclofenac Potásico + Vitamina B: 2.5 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12, fecha de vencimiento en 2023
+Diclofenac Sódico   + Vitamina B: 2 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B6 y B12, fecha de vencimiento en 2020
+Diclofenac + Paracetamol: 2 cuc x blister de 10, son tabletas de 50mg y 500mg respectivamente.
+Diclofenac Potasico: 2 cuc x blister de 10, son tabletas de 100mg, vencen en el 2021.
+Diclofenac en Gel: 4 cuc x tubo al 1%, para dolores e inflamaciones localizadas, similar al Voltaren
+Diclofenac en Crema: 6 cuc el pomo de 150 ml, para dolores e inflamaciones localizadas, similar al Voltaren, pero contiene otras sustancias realajantes y antimflamatorias como el Aceite de Eucalito, la Escencia de Pino, Silicato de Mentol y otros.
+Diclofenac Inyectable: 1 cuc x Ampula, cada ampula contiene 75 mg, fecha de vencimiento noviembre de 2020.
+Frinciones de Mentol: 4 cuc x el pomo de 150 ml, uso externo para dolores localizados.
+Omeprazol a 1 cuc x capsula de 20 mg. 
+Ranitidina a 1 cuc x blister con 10 capsulas
+Acido Folico a 8 cuc x una caja de 100 pastillas de 5 mg.
+Omega 369 a 12 cuc x pomo de 100 pastillas
+Vitamina E a 15 cuc x caja de 100 capsulas
+Vitamina C a 1 cuc x blister de 10 tabletas de 500 mg.
+Tadalafil (Mambo 36) a 1 cuc la pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+Tadalafil a 3 cuc blister de 4 pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+Chanca Piedra a 12 cuc, pomo de 60 capsulas de 500 mg, para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+Ibuprofeno 600 mg a 1 cuc el blister de 10 capsulas.
+Ibuprofeno 800 mg a 1.5 cuc el blister de 10 capsulas.
+Glucosamina Chondrotina 1500 mg a 18 cuc el frasco de 60 capsulas.
+Píldora del día después a 5 cuc cada pastilla.
+Prueba de Embarazo a 3 cuc el Kit
+Permetrina en crema a 5 cuc el tubo de 30g
+Vitaminas complejo B a 8 cuc una caja de 100 tabletas.
+MultiVitaminas y Minerales a 12 cuc un pomo de 100 capsulas.
+Pepto-Bismol a 10 cuc un frasco de 236 ml.  (Para el estomago, Acidez, Indigestión, Diarreas, Malestar)
+Loperamida a 2 cuc un blister de 10 cápsulas de 2 mg.      (Para las diarreas agudas o cronicas)
+Azitromicina a 2 cuc una cajita de 3 tabletas de 500 mg.
+Sulfaprim a 1.5 cuc un bliter de 10 cápsulas de (80/400) mg.
+Ciprofloxacina a 1.5 cuc un bliter de 10 pastilla de 500 mg.
+Metronidazol a 1 cuc un bliter de 10 pastilla de 500 mg.
+Glibenclamida a 1 cuc un bliter de 10 pastilla de 5 mg.
+Furosemida a 1 cuc un blister de 10 pastillas de 40 mg
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+{WordsKey1/, }
+
+// Anuncio-Txt = 04Lavad --------------------------------------------------------------------------------------------------------------------------------
+Tengo.Pzas.para.su.Lavadora{H} ✔Selenides ✔Correas ✔Mangueras ✔Bomba de Agua ✔Sellos ✔Busing ✔Relojes ✔Reductor y más..
+☎7.832.8768  ☎5.331.7003
+
+
+Piezas de lavadoras Semi-Automaticas:
+30 cup...(Botones)
+.5 cuc...(Correa A620)
+.5 cuc...(Correa A700)
+.5 cuc...(Correa A785)
+.5 cuc...(Correa M20.5)
+.5 cuc...(Correa M22)
+.6 cuc...(Manguera de Salida (lavadoras semi-automaticas))
+12 cuc...(Manguera de Salida (lavadoras automaticas))
+15 cuc...(Manguera de entrada de aqua)
+10 cuc...(Manguera de drenaje (corta)) ----------- Va entre el tanque y la bomba de drenaje en las lavadoras automaticas
+.6 cuc...(Sellos) -------------------------------- Es el que impide que salga el agua de la centrifuga
+.4 cuc...(Tapon con muelle) ---------------------- Es el que sella la salida del agua
+.8 cuc...(Timer de lavado) ----------------------- Son de 6 o 7 cables, se pueden adactar a cualquier lavadora 
+.7 cuc...(Timer de secado) ----------------------- Son de 3 cables
+.8 cuc...(Transmisión (Busing) para LG ----------- Es la pieza que una el poledor con las paletas de lavado
+.8 cuc...(Transmisión (Busing) K500 para Daewoo -- Es la pieza que una el poledor con las paletas de lavado
+25 cuc...(Bomba de Drenaje, sin cuerpo platico) -- Es la bomba que saca el agua en las lavadoras automaticas
+30 cuc...(Bomba de Drenaje, completa) ------------ Es la bomba que saca el agua en las lavadoras automaticas
+20 cuc...(Reductor) ------------------------------ Es transmisión con el poleador de algunas lavadoras semi-automaticas
+
+Puede pedir la pieza que usted necesita y si la encontramos en menos de 1 mes la puede tener.
+ 
+{WordsKey2/, }
+
+Todas las piezas son nuevas, traidas del extranjero.
+
+// Anuncio-Txt = 05Medic --------------------------------------------------------------------------------------------------------------------------------
+Acabados.de.traer{H}: ✔AZITROMICINA ✔METFORMINA  ✔DICLOFENAC(con Paracetamol) ✔CHANCA.PIEDRA ✔CIPROFLOXACINA ✔OMEGA
+☎7.832.8768  ☎5.331.7003
+
+
+Además tengo:
+-Ranitidina, para el estomago - 1 cuc.
+-Omeprazol, para el estomago - 1 cuc.
+-Omega 639, suplemento nutracional - 12 cuc
+-Loscovagil, ovulos - 4 cuc
+-Chanca Piedra, a 12 cuc un pomo de 60 capsulas de 500 mg, sirve para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+-Diclofenac, para los dolores ...
+.....Sodico con vitam. B1,B6,B12 - 2 cuc.
+.....Sodico con Paracetamol - 2 cuc.
+.....Potasico con vitam. B1,B2,B6,B12 - 2.5 cuc.
+.....En crema - 6 cuc.
+.....En Gel - 4 cuc.
+.....Inyectable - 1 cuc.
+-Ibuprofeno 600 mg - 1 cuc.
+-Ibuprofeno 800 mg - 1.5 cuc.
+-Glucosamina Chondrotina 1500 mg, para la Artritis - 18 cuc.
+-MultiVitaminas y Minerales, un pomo de 100 capsulas - 12 cuc.
+-Vitamina E de 1000 UI, suplemento nutricional, 15 cuc x caja de 100 Capsulas blandas.
+-Vitamina C de 500 mg, suplemento nutricional, 1 cuc x blister de 10 tabletas.
+-Azitromicina de 500 mg, antibiotico en 3 dosis - 2 cuc.
+-Sulfaprim de (80/400)mg, antibiotico - 1.5 cuc.
+-Ciprofloxacina de 500mg, antibiotico - 1.5 cuc.
+-Metronidazol de 500mg, antibiotico - 1 cuc.
+-Glibenclamida de 5 mg, para los diabeticos - 1 cuc.
+-Mambo 36 (Tadalafil) de 20 mg, a 1 cuc la pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+-Tadalafil de 20 mg, a 3 cuc blister de 4 pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+-Via_gra de 10 mg a 3 cuc blister de 8 pastilla
+-Permetrina en crema a 5 cuc x un tubo de 30g
+-Prueba de Embarazo a 3 cuc el Kit
+-Píldora del día después a 5 cuc cada pastilla.
+-Vitaminas complejo B a 8 cuc una caja de 100 tabletas.
+-Pepto-Bismol de 525 mg a 10 cuc el frasco de 236 ml.
+-Acido Folico de 5 mg a 8 cuc, una caja de 100 pastillas.
+-Loperamida a 2 cuc un blister de 10 cápsulas de 2 mg.
+-Furosemida a 1 cuc un blister de 10 pastillas de 40 mg
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+{WordsKey1/, }
+
+// Anuncio-Txt = 06Medic --------------------------------------------------------------------------------------------------------------------------------
+Vendo{H}: ✔LOPERAMIDA ✔CHANCA.PIEDRA ✔AMOXICILINA ✔CIPROFLOXACINA ✔DICLOFENAC(Sodico+Complejo.B) ✔OMEPRAZOL ✔OMEGA_3 
+☎7.832.8768  ☎5.331.7003
+
+ 
+Diclofenac: (Para los dolores)
+.... Sódico + Vitamina B, 2 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B6 y B12, fecha de vencimiento en 2020
+.... Sódico con Paracetamol, 2 cuc x blister de 10, son tabletas de 50mg y 500mg respectivamente.
+.... Potasico + Vitamina B, 2.5 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12, vencen en el 2023.
+.... En Crema, 6 cuc el pomo de 150 ml, para dolores e inflamaciones localizadas, similar al Voltaren, pero contiene otras sustancias realajantes y antimflamatorias como el Aceite de Eucalito, la Escencia de Pino, Silicato de Mentol y otros.
+.... En Gel, 4 cuc el tubo, para dolores e inflamaciones localizadas, similar al Voltaren.
+.... Inyectable, 1 cuc x Ampula, cada ampula contiene 75 mg, fecha de vencimiento noviembre de 2020.
+Omeprazol: (Para el estomago)
+.... 1 cuc x 10 capsula de 20 mg. 
+Ranitidina: (Para el estomago)
+.... 1 cuc x 10 capsula de 300 mg.
+Chanca Piedra: para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+.... 12 cuc el pomo de 60 capsulas de 500 mg
+Ibuprofeno: (Para los dolores)
+.... 1 cuc el blister de 10 capsulas de 600 mg.
+.... 1.5 cuc el blister de 10 capsulas de 800 mg.
+Glucosamina: (Para la Artritiss)
+.... 18 cuc x un frasco de Glucosamina con Chondrotina 1500 mg.
+Lascovagil: (Para infeciones de las muejeres)
+.... 4 cuc x un blister de 10 Ovulos de Metronidazol + Nistatina.
+Vitamina E: (Suplemento Nutricional)
+.... 15 cuc x por una caja de 100 capsulas blandas de 1000 UI.
+Vitamina C: (Suplemento Nutricional)
+.... 1 cuc x por un blister de 10 tabletas masticables.
+Omega 369: (Suplemento Nutricional)
+.... 12 cuc x un pomo con 100 capsulas de 1200 mg.
+Vitamina complejo B: (Suplemento nutricional)
+.... 8 cuc x una caja de 100 tabletas.
+MultiVitaminas y Minerales: ( Suplemento nutricional)
+.... 12 cuc x un pomo de 100 capsulas.  
+Azitromicina: (Antibiotico en tabletas)
+.... 2 cuc x una cajita de 3 cápsulas de 500 mg.
+Sulfaprim: (Antibiotico en tabletas)
+.... 1.5 cuc x un bliter de 10 cápsulas de (80/400) mg.
+Ciprofloxacina: (Antibiotico en tabletas)
+.... 1.5 cuc x un bliter de 10 pastilla de 500 mg.
+Metronidazol: (Antibiotico en tabletas)
+.... 1 cuc x un bliter de 10 pastilla de 500 mg.
+Glibenclamida: (Para los diabeticos)
+.... 1 cuc x un bliter de 10 pastilla de 5 mg.
+Tadalafil: (Para los hombres) (tambien conocido como Cialis, Mambo o Pildora del fin de semana) 
+.... 3 cuc x un blister de 4 pastillas de Tadalafil de 20 mg.  (Igual a Cialis, Mambo, fin de semana)
+.... 3 cuc x un sobre de 1 pastilla de Mambo 36 (Tadalafil).   (Tambien conocido como Cialis o Pildora del fin de semana)
+Via_gra: (Para los hombres)  
+.... 3 cuc x un blister de 8 pastillas de Via_gra de 100 mg.
+Embarazo: 
+.... 3 cuc x un kit de Prueba de Embarazo.
+.... 5 cuc x una Píldora del día después.
+Acido Folico: (Para salud en general (Anemia))
+.... 8 cuc x una caja de 100 pastillas de 5 mg.
+Loperamida: (Antidiarreico de acción prolongada y efecto rápido)
+.... 2 cuc x un blister de 10 cápsulas de 2 mg.
+Pepto-Bismol: (Problemas estomacales, Acidez, Indigestion, Malestar, Diarrea)
+.... 10 cuc x un pomo de Pepto-Bismol de 236 ml.
+Furosemida: (Diuretico para insuficiencia cardiaca, hipertensión, etc.)
+.... 1 cuc x blister de 10 pastillas de 40 mg
+Permetrina en crema: (Para la escabiosis (sarna))
+.... 5 cuc x un tubo de 30 g
+
+ 
+Glucosamina Chondroitina, es un generador de cartilogos, para mejorar los dolores de artritis, juega un papel importante en la formación de tendones y ligamentos, regenerando Manos, Pies, Rodillas, Espalda, Cuellos, Caderas, Tobillos.
+
+{WordsKey1/, }
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+// Anuncio-Txt = 07Viag --------------------------------------------------------------------------------------------------------------------------------
+Para los hombres{H}: ✔T_A_D_A_L_A_F_I_L ✔MAMBO.36 ✔VIA_GRA + ✔LORATADINA ✔PÍLDORA.DÍA.DESPUÉS ✔SULFAPRIM ✔METFORMINA
+☎7.832.8768  ☎5.331.7003
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Frinciones de Mentol: 4 cuc x el pomo de 150 ml, uso externo para dolores localizados.
+Omeprazol a 1 cuc x blister de 10 capsulas de 20 mg.
+Ranitidina a 1 cuc x blister con 10 capsulas
+Omega 369 a 12 cuc x pomo de 100 pastillas
+Vitamina E a 15 cuc x caja de 100 capsulas
+Vitamina C a 1 cuc x blister de 10 tabletas de 500 mg.
+Vitaminas complejo B a 8 cuc una caja de 100 tabletas.
+MultiVitaminas y Minerales a 12 cuc un pomo de 100 capsulas.
+Azitromicina a 2 cuc una cajita de 3 tabletas de 500 mg.
+Sulfaprim a 1.5 cuc un bliter de 10 cápsulas de (80/400) mg.
+Ciprofloxacina a 1.5 cuc un bliter de 10 pastilla de 500 mg.
+Metronidazol a 1 cuc un bliter de 10 pastilla de 500 mg.
+Glibenclamida a 1 cuc un bliter de 10 pastilla de 5 mg.
+Tadalafil (Mambo 36) a 1 cuc la pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+Tadalafil a 3 cuc blister de 4 pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+Chanca Piedra a 12 cuc, pomo que contiene 60 capsulas de 500 mg, para eliminar sustancis nocivas en el higado y calculos renales ó biliares.
+Ibuprofeno 600 mg a 1 cuc el blister de 10 capsulas.
+Ibuprofeno 800 mg a 1.5 cuc el blister de 10 capsulas.
+Glucosamina Chondrotina 1500 mg a 18 cuc el frasco de 60 capsulas.
+Acido Folico 5mg a 8 cuc la caja de 100 pastillas.
+Furosemida 40 mg a 1 cuc, blister de 10 pastillas
+Prueba de Embarazo a 3 cuc el Kit.
+Píldora del día después a 5 cuc cada pastilla.
+Pepto-Bismol a 10 cuc, un frasco de 236 ml.  (Para el estomago, Indigestión, Acidez, Malestar, Diarreas)
+Loperamida a 2 cuc, un blister de 10 cápsulas de 2 mg.      (Antidiarreico de acción prolongada y efecto rápido)
+Permetrina (crema) a 5 cuc x un tubo de 30g.                 (Para la escabiosis (Sarna)) 
+
+El Diclofenac es en todas sus presentaciones: 
+.... Diclofenac Potásico + Vitamina B: 2.5 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12, fecha de vencimiento en 2023
+.... Diclofenac Sódico   + Vitamina B: 2 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B6 y B12, fecha de vencimiento en 2020
+.... Diclofenac Sódico  + Paracetamol: 2 cuc x blister de 10 tabletas que contienen 50mg de Diclofenac y 500 de Paracetamol.
+.... Diclofenac Potasico: 2 cuc x blister de 10, son tabletas de 100mg, vencen en el 2021.
+.... Diclofenac en Gel: 4 cuc x tubo al 1%, para dolores e inflamaciones localizadas, similar al Voltaren
+.... Diclofenac en Crema: 6 cuc el pomo de 150 ml, para dolores e inflamaciones localizadas, similar al Voltaren, pero contiene otras sustancias realajantes y antimflamatorias como el Aceite de Eucalito, la Escencia de Pino, Silicato de Mentol y otros.
+.... Diclofenac Inyectable: 1 cuc x Ampula, cada ampula contiene 75 mg, fecha de vencimiento noviembre de 2020.
+   
+Key Words: {WordsKey1/, }
+
+// Anuncio-Txt = 08Lavad --------------------------------------------------------------------------------------------------------------------------------
+Renueve.su.Lavadora{H}.Piezas: ✔Relot(lavado|secado) ✔Sello ✔Mangueras ✔Correas ✔Bomba.de.agua ✔Busing(Transmición)
+☎7.832.8768  ☎5.331.7003
+
+
+Listado de piezas:
+Bomba de Drenaje a 25 cuc (Sin cuerpo platico) ............ (Bomba que saca el agua en las lavadoras automaticas)
+Bomba de Drenaje a 30 cuc (Completa) ...................... (Bomba que saca el agua en las lavadoras automaticas)
+Reductor a 20 cuc ......................................... (Transmisión con el poleador de algunas lavadoras semi-automaticas)
+Timer de lavado a 8 cuc ................................... (de 6 cables, se adapta a todas las lavadoras)
+Timer de secado a 7 cuc ................................... (de 3 cables)
+Transmisión (Busing) de LG a 8 cuc ........................ (Une las paletas de lavado con el poleador)
+Transmisión (Busing) K500 de Daewoo a 8 cuc ............... (Une las paletas de lavado con el poleador)
+Botones a 30 cup .......................................... (Es el boton que maneja el timer)
+Correas A(620|700|720|785|850)+ M(20.5|22|30.5) a 5 cuc
+Sellos a 6 cuc ............................................ (Impide la salida de agua del compartimento de secado)
+Tapon con muelle a 4 cuc .................................. (Cierra la salida de agua del compartimiento de lavado)
+Manguera de Salida de lavadoras semi-automaticas a 6 cuc .. (Manguera que va por atras para la salida del agua)
+Manguera de Salida de lavadoras automaticas a 12 cuc ...... (Manguera que va por atras para la salida del agua)
+Manguera de drenaje (corta)) a 10 cuc ..................... (Va entre el tanque y la bomba de drenaje en las lavadoras automaticas)
+Manguera de entrada de aqua a 15 cuc ...................... (Es la que va de la pila a la lavadora)  
+  
+Si necesita otra pieza puede pedirla y trataremos de buscarla, si la encontramos en menos de 1 mes la puede tener.
+   
+{WordsKey2/, }
+
+Todos los piezas son nuevas.
+
+// Anuncio-Txt = 09Medic --------------------------------------------------------------------------------------------------------------------------------
+Vendo.medicinas.imporadas{H}: ✔SULFAPRIM ✔IBUPROFENO ✔LORATADINA ✔CIPROFLOXACINA ✔DICLOFENAC ✔OVULOS ✔CLOTRIMAZOL(crema)
+☎7.832.8768  ☎5.331.7003
+
+
+Para otros tipos de dolores tengo:
+.... Diclofenac Potásico + Complejo B: 2.50 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12, fecha de vencimiento en 2020
+.... Diclofenac Sodico + Complejo B: 2 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B6 y B12, fecha de vencimiento en 2020
+.... Diclofenac con Paracetamol: 2 cuc x blister de 10, son tabletas de 50 mg y 500 mg respectivamente
+.... Diclofenac en Gel, 4 cuc el tubo, para dolores e inflamaciones localizadas, similar al Voltaren.
+.... Diclofenac en Crema, 6 cuc el pomo de 150 ml, para dolores e inflamaciones localizadas, similar al Voltaren, pero contiene otras sustancias realajantes y antimflamatorias como el Aceite de Eucalito, la Escencia de Pino, Silicato de Mentol y otros.
+
+.... Ibuprofeno a 1 cuc el blister de 10 capsulas de 600 mg.
+.... Ibuprofeno a 1.5 cuc el blister de 10 capsulas de 800 mg.
+
+Para problemas estomacales tengo:
+.... Omeprazol a 1 cuc x capsulas de 20 mg. 
+.... Ranitidina a 1 cuc x capsulas de 300 mg. 
+.... Pepto-Bismol de 525 mg a 10 cuc el frasco de 236 ml.
+
+Para infeciones de las muejeres tengo:
+.... Lascovagil a 4 cuc x 10 ovulos con Metornidazol + Nistatina. 
+
+Para tratamiento de la Artritis:
+.... Glucosamina Chondrotina 1500 mg, 18 cuc el frasco de 60 capsulas.
+
+Para Calculos Renales y Biliares:
+.... Chanca Piedra, 12 cuc el pomo con 60 capsulas de 500 mg.
+
+Para la salud en general (Colesterol, triglicedidos, etc.):  
+.... Omega 369 a 12 cuc, pomo de 100 capsulas de 1200 mg 
+.... Vitamina E a 15 cuc, caja de 100 capsulas blandas de 1000 UI
+.... Vitaminas complejo B a 8 cuc, una caja de 100 tabletas.
+.... MultiVitaminas y Minerales a 12 cuc, un pomo de 100 capsulas.
+.... Vitamina C a 1 cuc, blister de 10 tabletas.
+.... Acido Folico a 8 cuc una caja de 100 pastillas.
+ 
+Para los hombres:
+.... Tadalafil de 20 mg a 3 cuc blister de 4 pastilla (tambien conocido como Cialis o Pildora del fin de semana).
+.... Via_gra de 100 mg a 3 cuc blister de 8 pastillas.
+.... Mambo 36 de 20 mg, a 1 cuc sobre de una pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+
+Para en Embarazos:
+.... Prueba de Embarazo a 3 cuc el Kit
+.... Píldora del día después a 5 cuc cada pastilla.
+ 
+Para la dierrea:
+.... Loperamida de 2 mg a 2 cuc un blister de 10 cápsulas.
+ 
+Para las infecciones: (Antibiotico)
+.... Azitromicina de 500 mg a 2 cuc una cajita de 3 pastillas.
+.... Sulfaprim de (80/400)mg a 1.5 cuc un bliter de 10 cápsulas.
+.... Ciprofloxacina de 500 mg a 1.5 cuc un bliter de 10 pastilla.
+.... Metronidazol de 500 mg a 1 cuc un bliter de 10 pastilla.
+
+Para los Diabeticos:
+.... Glibenclamida a 1 cuc un bliter de 10 pastilla de 5 mg.
+
+Para hipertensión y el corazon:
+.... Furosemida a 1 cuc un blister de 10 tabletas de 40 mg.
+ 
+Para la Escabiosis (Sarna)
+.... Permetrina en Crema a 5 cuc x un tubo de 30g
+
+Glucosamina Chondroitina , Es un generador de cartilogos, para mejorar los dolores de artritis, juega un papel importante en la formación de tendones y ligamentos, regenerando Manos, Pies, Rodillas, Espalda, Cuellos, Caderas, Tobillos.
+
+Las Friciones de Mentol, son un ungüento efectivo contra los dolores e inflamaciones localizadas como: Dolores musculares, Artritis, Dolores en la espalda, Golpes, Toceduas, Bronquitis, Dolor de garganta, Dolor de cabeza, Reumatismo, Picaduras de insertos.
+
+Envase cellado, comprado en el extranjero y contiene 150 ml. 
+
+Items: {WordsKey1/, }
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales, Fecha de vencimiento Agosto del 2020
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+// Anuncio-Txt = 10Medic --------------------------------------------------------------------------------------------------------------------------------
+Tengo{H}: ✔SULFAPRIM ✔CIPROFLOXACINA ✔AZITROMICINA ✔LORATADINA ✔BENADRILINA ✔RANITIDINA ✔CLOTRIMAZOL(crema) ✔OMEPRAZOL
+☎7.832.8768  ☎5.331.7003
+
+
+El Diclofenac es una Analgesico, Antineuretico, Antineuralgico y Antirreumatico, que sive para padecimientos como Artritis, Reumatismo, Dolores Lumbargícos, Cervicales, branquiales, faciales, del trigemino intercostal, hepaticos, radiculitis, neuropatias alcohólicas y diabéticas, fibromiología, espondilitis, toceduras, esquinces, fracturas, etc.
+
+Diclofenac Potásico + Vitamina B: 2.5 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12, fecha de vencimiento en 2023
+Diclofenac Sódico + Vitamina B: 2 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B6 y B12, fecha de vencimiento en 2021
+Diclofenac con Paracetamol: 2 cuc x blister de 10, son tabletas combinadas con 50 mg de diclofenac y 500 mg de paracetamol.
+Diclofenac en Gel: 4 cuc x tubo al 1%, para dolores e inflamaciones localizadas, similar al Voltaren
+Diclofenac en Crema: 6 cuc el pomo de 150 ml, para dolores e inflamaciones localizadas, similar al Voltaren, pero contiene otras sustancias realajantes y antimflamatorias como el Aceite de Eucalito, la Escencia de Pino, Silicato de Mentol y otros.
+
+Omeprazol a 1 cuc x 10 capsulas de 20 mg. 
+Ranitidina a 1 cuc x 10 capsulas de 300 mg.
+
+Lascovagil a 4 cuc por 10 ovulos con metronidazol + nistatina.
+
+Chanca Piedra a 12 cuc, pomo de 60 capsulas de 500 mg, para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+
+Ibuprofeno 600 mg a 1 cuc el blister de 10 capsulas.
+Ibuprofeno 800 mg a 1.5 cuc el blister de 10 capsulas.
+
+Glucosamina Chondroitina, 18 cuc, pomo de 60 pastillas de 1500 mg, Es un generador de cartilogos, para mejorar los dolores de artritis.
+
+Omega 369 a 12 cuc x un pomo de 100 pastillas de 3000 mg
+Vitamina E a 15 cuc x una caja de 100 capsulas blandas de 1000 UI
+Vitamina C a 1 cuc x un blister de 10 pastillas de 500mg
+Vitaminas complejo B a 8 cuc x una caja de 100 tabletas.
+MultiVitaminas y Minerales a 12 cuc x un pomo de 100 capsulas.
+Acido Folico a 8 cuc, una caja de 100 pastillas de 5 mg.
+Permetrina (crema) a 5 cuc x un tubo de 30g
+
+Tadalafil de 20 mg a 3 cuc blister de 4 pastilla (tambien conocido como Cialis, Mambo o Pildora del fin de semana).
+Mambo 36 (Tadalafil) a 1 cuc la pastilla, igual al Tadalafil.
+Via_gra de 100 mg a 3 cuc blister de 8 pastillas.
+
+Prueba de Embarazo a 3 cuc el Kit
+Píldora del día después a 5 cuc cada pastilla.
+
+Loperamida a 2 cuc un blister de 10 cápsulas de 2 mg.      (Antidiarreico de acción prolongada y efecto rápido)
+Pepto-Bismol a 10 cuc el frasco de 236 ml.
+ 
+Azitromicina de 500 mg a 2 cuc una cajita de 3 tabletas.
+Sulfaprim de (80/400) mg a 1.5 cuc un bliter de 10 cápsulas.
+Ciprofloxacina de 500 mg a 1.5 cuc un bliter de 10 pastilla.
+Metronidazol de 500 mg a 1 cuc un bliter de 10 pastilla.
+
+Glibenclamida de 5 mg a 1 cuc un bliter de 10 pastilla.
+
+Furosemida de 40 mg a 1 cuc un blister de 10 tabletas
+ 
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+Productos: {WordsKey1/, }
+
+// Anuncio-Txt = 11Viag --------------------------------------------------------------------------------------------------------------------------------
+Medicamentos Importados{H}: ✔TADA_LAFIL ✔V_I_A_G_R_A ✔SULFAPRIM ✔CIPROFLOXACINA ✔RANITIDINA ✔OMEPRAZOL ✔OMEGA.369 otros 
+☎7.832.8768  ☎5.331.7003
+
+
+El S_i_l_d_e_n_a_f_i_l (más conocido como V_I_A_G_R_A) es de 100 mg, es un estimulante sexual para lograr más fortaleza y duración de la erección, para disfrutar de las relaciones con tu pareja con más potencia, más poder y más placer. Se toma 1 hora aproximadamente antes de tener relaciones.
+
+Tambien vendo:
+2.5 cuc x 10 pastillas de Diclofenac Potasico, 100mg + Vitamina B1, B2, B6 y B12.
+2.. cuc x 10 pastillas de Diclofenac Potasico, 100mg.
+2.. cuc x 10 pastillas de Diclofenac Sódico, 100mg + Vitamina B1, B6 y B12.
+2.. cuc x 10 pastillas de Diclofenac+Paracetamol, 50mg y 500mg respectivamente
+6.. cuc x 1 pomo de Diclofenac en Crema de 150 ml.
+4.. cuc x 1 tubo de Diclofenac en Gel.
+1.. cuc x 1 Ampula de Diclofenac Inyectable, 75 mg
+1.. cuc x 10 Capsulas de Omeprazol, 20 mg. 
+1.. cuc x 10 Capsulas de Ranitidina, 300 mg.
+15. cuc x 100 Capsulas blandas de Vitamina E, 1000 UI
+1.. cuc x 10 pastillas de Vitamina C de 500 mg.
+8.. cuc x 100 tabletas de Vitaminas complejo B.
+8.. cuc x 100 tabletas de Acido Folico de 5mg.
+12. cuc x 1 Frasco de Omega 369, 1200 mg.
+1.. cuc x 1 tableta de Mambo 36 (Tadalafil), tambien conocido como Cialis o Pildora del fin de semana.
+3.. cuc x 4 tabletas de Tadalafil, tambien conocido como Cialis, Mambo 36 o Pildora del fin de semana.
+12. cuc x 1 pomo de Chanca Piedra, tubo con 60 capsulas de 500 mg, para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+1.. cuc x 10 pastillas de Ibuprofeno 600 mg.
+1.5 cuc x 10 pastillas de Ibuprofeno 800 mg.
+18. cuc x 1 pomo de Glucosamina + Chondrotina 1500 mg el frasco de 60 capsulas.
+2.. cuc x 1 cajita de Azitromicina de 500 mg.
+1.5 cuc x 1 blister de 10 pastillas de Sulfaprim de (80/400) mg.
+1.5 cuc x 1 bliter de Ciprofloxacina de 500 mg con 10 pastilla.
+1.. cuc x 1 bliter de Metronidazol de 500 mg con 10 pastilla.
+1.. cuc x 1 bliter de 10 pastilla de Glibenclamida de 5 mg.
+3.. cuc x 1 kit, de Prueba de Embarazo.
+5.. cuc x 1 pastilla, de la Píldora del día después.
+12. cuc x 1 pomo con 100 capsulas de MultiVitaminas y Minerales.
+10. cuc x 1 pomo de 236 ml de Pepto-Bismol.  (Para el estomago, Diarreas, Acidez, Malestar, Indigestión)
+2.. cuc x 1 blister de Loperamida con 10 cápsulas de 2 mg.       (Antidiarreico de acción prolongada y efecto rápido)
+1.. cuc x 1 blister de Furosemida con 10 tabletas de 40 mg.
+5.. cuc x 1 tubo de Permetrina en crema de 30g
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Nombres: {WordsKey1/, }
+
+// Anuncio-Txt = 12Lavad --------------------------------------------------------------------------------------------------------------------------------
+Piezas{H} nuevas para su lavadora: ✔Correas ✔Timers ✔Tramisiones ✔Manguersa ✔Sellos ✔Bomba de agua ✔Reductores
+☎7.832.8768  ☎5.331.7003
+
+
+Litado de las piezas que tengo:
+Correas .............................................. 5 cuc
+Manguera de Salida de Lavadora Semi-Automaticas ...... 6 cuc
+Manguera de Salida de lavadoras Automaticas .......... 12 cuc
+Manguera de drenaje (corta) .......................... 10 cuc 
+Manguera de entrada de aqua .......................... 15 cuc
+Tapon con muelle de lavadora ......................... 4 cuc
+Sellos de lavadora ................................... 6 cuc
+Bomba de Drenaje (Sin Cuerpo Plastico) ............... 25 cuc
+Bomba de Drenaje (Completa) .......................... 30 cuc
+Reductor ............................................. 20 cuc 
+Timer de lavado de Lavadora .......................... 8 cuc
+Timer de secado de Lavadora .......................... 7 cuc
+Botones de Lavadora .................................. 30 cup
+Transmisión (Busing) de lavadora LG .................. 8 cuc
+Transmisión (Busing) K500 de lavadora Daewoo ......... 8 cuc
+ 
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Todos las piezas son traidas del extranjero y son nuevas.
+
+{WordsKey2/, }
+
+// Anuncio-Txt = 13Medic --------------------------------------------------------------------------------------------------------------------------------
+✔DICLOFENAC SODICO Y PLASTICO ✔IBUPROFENO ✔AZITROMICINA ✔SULFAPRIM ✔CHANCA.PIEDRA ✔CETIRIZINA ✔OMEPRAZOL ✔COMPLEJO.B{H}
+☎7.832.8768  ☎5.331.7003
+
+El diclofenac en crema es un ungüento efectivo contra los dolores e inflamaciones localizadas, Además es microrelajante, Actua contra Dolores musculares, Artritis, Dolores en la espalda, Golpes, Toceduas, Bronquitis, Dolor de garganta, Dolor de cabeza, Reumatismo, Picaduras de insertos, etc.
+
+Envase cellado, comprado en el extranjero y contiene 150 ml. 
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Tambien vendo:
+2.5 cuc, x 10 pastillas de DICLOFENAC POTASICO, 100mg + Vitamina B1, B2, B6 y B12.
+2.. cuc, x 10 pastillas de DICLOFENAC SODICO, 100mg + Vitamina B1, B6 y B12.
+2.. cuc, x 10 pastillas de DICLOFENAC CON PARACETAMOL, 50 / 500 mg
+6.. cuc, x 1 pomo de DICLOFENAC EN CREMA de 150 ml.
+4.. cuc, x 1 tubo de DICLOFENAC EN GEL.
+1.. cuc, x 10 Capsulas de OMEPRAZOL, 20 mg. 
+1.. cuc, x 10 Capsulas de RANITIDINA, 300 mg.
+4.. cuc, x 10 Ovulos de LASCOVAGIL (Metronidazol + Nistatina)
+12. cuc, x 60 capsulas de CHANCA PIEDRA, de 500 mg, para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+1.. cuc, x 10 capsulas de IBUPROFENO 600 mg.
+1.5 cuc, x 10 capsulas de IBUPROFENO 800 mg.
+18. cuc, x 60 capsulas de GLUCOSAMINA CHONDROTINA 1500 mg.
+12. cuc, x 100 Capsulas de OMEGA 369, 1200 mg. 
+15. cuc, x 100 Capsulas de Vitamina E, 1000 UI. 
+15. cuc, x 10 tabletas de Vitamina C, 500 mg. 
+3.. cuc, x 4 pastillas de Tadalafil de 20 mg (tambien conocido como Cialis o Pildora del fin de semana).
+3.. cuc, x 8 pastillas de Via_gra de 100 mg.
+1.. cuc, x 1 pastilla de Mambo 36 (Tadalafil) de 20 mg.
+2.. cuc, x 1 cajita de Azitromicina de 500 mg.
+1.5 cuc, x 1 bliter de 10 pastillas Sulfaprim de (80/400) mg.
+1.5 cuc, x 1 bliter de 10 pastillas Ciprofloxacina de 500 mg.
+1.. cuc, x 1 bliter de 10 pastillas Metronidazol de 500 mg.
+1.. cuc, x 1 bliter de 10 pastillas Glibenclamida de 5 mg.
+3.. cuc, x 1 Prueba de Embarazo.
+5.. cuc, x 1 Píldora del día después.
+8.. cuc, x 1 caja de 100 pastillas de Acido Folico de 5mg.
+8.. cuc, x 100 pastilla de Vitaminas complejo B.
+12. cuc, x 100 capsulas de MultiVitaminas y Minerales.
+2.. cuc, x 10 cápsulas de Loperamida de 2 mg.           (Antidiarreico de acción prolongada y efecto rápido)
+10. cuc, x 1 frasco de 236 ml de Pepto-Bismol de 525 mg.
+1.. cuc, x 1 blister de 10 pastillas de Furosemida de 40 mg.
+5.. cuc, x 1 Tubo de Permetrina (crema) de 30g
+
+{WordsKey1/, }
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+// Anuncio-Txt = 14Medic --------------------------------------------------------------------------------------------------------------------------------
+Los más baratos: ✔IBUPROFENO ✔CLOTRIMAZOL(crema) ✔CHANCA.PIEDRA ✔CETIRIZINA ✔SULFAPRIM ✔CIPROFLOXACINA ✔BENADRILINA{H}
+☎7.832.8768  ☎5.331.7003
+
+El Diclofenac es una Analgesico, Antineuretico, Antineuralgico y Antirreumatico, que sive para padecimientos como Artritis, Reumatismo, Dolores Lumbargícos, Cervicales, branquiales, faciales, del trigemino intercostal, hepaticos, radiculitis, neuropatias alcohólicas y diabéticas, fibromiología, espndilitis, toceduras, esquinces, fracturas, etc.
+
+EL OMEPRAZOL es a 1 cuc o 2 cuc y sive para problemas estomacales.
+LA RANITIDINA es a 1 cuc y sive para problemas estomacales.
+LA CHANCA PIEDRA, es a 12 cuc un pomo de 60 capsulas de 500 mg, sirve para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+
+LASCOVAGIL, es a 4 cuc el bister 10 ovulos, es para las infecciones que contiene Metronidazol y Nistatina.
+
+EL DICLOFENAC, Potasico de 100mg con Vitamina B1, B2, B6 y B12 es a 2.5 cuc.
+EL DICLOFENAC, Sodico de 100mg con Vitamina B1, B6 y B12 es a 2 cuc.
+EL DICLOFENAC, En Crema es a 6 cuc el pomo de 150 ml.
+EL DICLOFENAC, En Gel es a 4 cuc el tubo.
+EL DICLOFENAC CON PARACETAMOL, Es a 4 cuc el blister de 10 tabletas.
+
+EL IBUPROFENO 600 mg, es a 1 cuc el blister de 10 capsulas.
+EL IBUPROFENO 800 mg, es a 1.5 cuc el blister de 10 capsulas.
+LA GLUCOSAMINA Chondrotina 1500 mg, es a 18 cuc el frasco de 60 capsulas. (Es un generador de cartilogos, para mejorar los dolores de artritis)
+
+LA VITAMINA E es a 15 cuc la caja de 100 capsulas de 1000 UI.
+LA VITAMINA C es a 1 cuc el blister de 10 tabletas masticables de 500 mg.
+LAS VITAMINAS COMPLEJO B son a 8 cuc una caja de 100 tabletas.
+EL OMEGA 369 es a 12 cuc el pomo de 100 capsulas de 1200 mg.
+LAS MULTIVITAMINAS Y MINERALES son a 12 cuc el pomo de 100 capsulas.
+EL ACIDO FOLICO es a 8 cuc, una caja de 100 pastillas de 5 mg.
+
+EL TADALAFIL, es a 3 cuc el blister de 4 pastilla (tambien conocido como Cialis, Mambo 36 o Pildora del fin de semana).
+EL MAMBO 36, es a 1 cuc la pastilla (Equivalente a Tadalafil)
+LA VIA_GRA, es a 3 cuc el blister de 8 pastillas.
+
+LA PRUEBA DE EMBARAZO, es a 3 cuc el Kit
+LA PÍLDORA DEL DÍA DESPUÉS, es a 5 cuc cada pastilla.
+
+LA LOPERAMIDA, es a 2 cuc un blister de 10 cápsulas de 2 mg. (Es un Antidiarreico de acción prolongada y efecto rápido)
+EL PEPTO-BISMOL, es a 10 cuc, un frasco de 236 ml. (Para problemas estomacales Acidez, Indigestion, Malestar, Diarrea)
+
+LA AZITROMICINA es a 2 cuc una cajita de 3 cápsulas de 500 mg.
+EL SULFAPRIM es a 1.5 cuc un bliter de 10 pastillas de (80/400) mg.
+LA CIPROFLOXACINA es a 1.5 cuc un bliter de 10 pastillas de 500 mg.
+EL METRONIDAZOL es a 1 cuc un bliter de 10 pastillas de 500 mg.
+LA PERMETRINA en crema es a 5 cuc x un tubo de 30g
+
+LA GLIBENCLAMIDA es a 1 cuc un bliter de 10 pastillas de 5 mg.
+
+LA FUROSEMIDA es a 1 cuc un blister de 10 tabletas de  40 mg.
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Palabras: {WordsKey1/, }
+
+// Anuncio-Txt = 15Viag --------------------------------------------------------------------------------------------------------------------------------
+Medicinas Importadas{H} ✔ MAMBO36 ✔VIA_GRA ✔TADALAFIL ✔SULFAPRIM ✔OVULOS ✔LORATADINA ✔BENADRILINA ✔PÍLDORA DÍA DESPUÉS
+☎7.832.8768  ☎5.331.7003
+
+LA VIA_GRA es a 3 cuc x bister de 8 tambletas.
+EL OMEPRAZOL es a 1 cuc o 2 cuc y sive para problemas estomacales.
+LA RANITIDINA es a 1 cuc y sive para problemas estomacales.
+LA VITAMINA E, es 15 cuc la caja, es un suplemanto nutricional que sirve para mejorar la salud en general.
+LA VITAMINA C, es a 1 cuc un blister de 10 tabletas de 500 mg.
+LAS VITAMINAS COMPLEJO B, son a 8 cuc una caja de 100 tabletas.
+LAS MULTIVITAMINAS Y MINERALES, son a 12 cuc un frasco de 100 capsulas.
+EL OMEGA 369, es a 12 cuc, es un suplemanto nutricional que sirve para mejorar la salud en general.
+EL MAMBO 36 (Tadalafil), es a 1 cuc la tableta, tambien conocido como Cialis o Pildora del fin de semana.
+LA CHANCA PIEDRA, es a 12 cuc un pomo de 60 capsulas de 500 mg, sirve para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+
+EL DICLOFENAC, Potasico de 100mg es a 2 cuc.
+EL DICLOFENAC, Potasico de 100mg con Vitamina B1,B2,B6 y B12 es a 2.5 cuc.
+EL DICLOFENAC, Sodico de 100mg con Vitamina B1,B6 y B12 es a 2 cuc.
+EL DICLOFENAC+PARACETAMOL, es a 2 cuc.
+EL DICLOFENAC, En Crema es a 6 cuc el pomo de 150 ml.
+EL DICLOFENAC, En Gel es a 4 cuc el tubo.
+EL DICLOFENAC, Inyectable es a 1 cuc el ampula de 75 mg.
+
+LA PERMETRINA (CREMA) a 5 cuc el tubo de 30g
+LA AZITROMICINA es a 2 cuc la cajita de 3 tabletas de 500 mg.
+EL SULFAPRIM es a 1.5 cuc un bliter de 10 pastillas de (80/400) mg.
+LA CIPROFLOXACINA es a 1.5 cuc un bliter de 10 pastillas de 500 mg.
+EL METRONIDAZOL es a 1 cuc un bliter de 10 pastillas de 500 mg.
+LA GLIBENCLAMIDA es a 1 cuc un bliter de 10 pastillas de 5 mg.
+LAS FRICIONES DE MENTOL, son a 4 cuc el pomo de 150 ml.
+EL IBUPROFENO 600 mg, es a 1 cuc el blister de 10 capsulas.
+EL IBUPROFENO 800 mg, es a 1.5 cuc el blister de 10 capsulas.
+LA GLUCOSAMINA Chondrotina 1500 mg, es a 18 cuc el frasco de 60 capsulas.
+EL ACIDO FOLICO, es 8 cuc, una caja de 100 pastillas de 5 mg.
+LA PÍLDORA DEL DÍA DESPUÉS, es a 5 cuc cada pastilla.
+LA PRUEBA DE EMBARAZO, es a 3 cuc el Kit.
+EL PEPTO-BISMOL es a 10 cuc, un frasco de 236 ml.  (Para el estomago, Diarreas, Acidez, Malestar, Indigestión)
+LA LOPERAMIDA es a 2 cuc, el blister de 10 cápsulas.       (Para las diarreas agudas o cronicas)
+
+LA FUROSEMIDA es a 1 cuc un blister de 10 tabletas de  40 mg.
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Key Words: {WordsKey1/, }
+
+// Anuncio-Txt = 16Lavad --------------------------------------------------------------------------------------------------------------------------------
+Piezas de lavadoras originales Importadas{H}: ✔Busing ✔Bombas de drenaje ✔Timer ✔Correa ✔Sello ✔Mangueras{H} y mas
+☎7.832.8768  ☎5.331.7003
+
+30 cup x 1 Botón de Lavadora
+6. cuc x 1 Manguera de Salida de Lavadora Semi-Automaticas
+12 CUC X 1 Manguera de Salida de lavadoras Automaticas
+15 cuc x 1 Manguera de entrada de aqua
+10 cuc x 1 Manguera de drenaje (corta)
+6. cuc x 1 Sello de lavadora
+4. cuc x 1 Tapon con muelle de lavadora
+8. cuc x 1 Timer de lavado de Lavadora
+7. cuc x 1 Timer de secado de Lavadora
+8. cuc x 1 Transmisión (Busing) de lavadora LG
+8. cuc x 1 Transmisión (Busing) K500 de lavadora Daewoo
+20 cuc x 1 Reductor (Transmisión de algunas Lavadora Semi-Automaticas)
+25 cuc x 1 Bomba de Drenaje (Sin Cuerpo Plastico)
+30 cuc x 1 Bomba de Drenaje (Completa)
+5. cuc x 1 Correa de Lavadora A620
+5. cuc x 1 Correa de Lavadora A700
+5. cuc x 1 Correa de Lavadora A785
+5. cuc x 1 Correa de Lavadora M20.5
+5. cuc x 1 Correa de Lavadora M22
+
+Si la pieza que necesita no esta en la lista, haganolo saber y nostros trataremos de buscarla.
+
+{WordsKey2/, }
+
+Todas las piezas son traidos del extranjero.
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+// Anuncio-Txt = 17Medic --------------------------------------------------------------------------------------------------------------------------------
+Medicinas{H} compradas en el extranjero ✔KETOCONAZOL ✔IBUPROFENO ✔CHANCA.PIEDRA ✔CIPROFLOXACINA ✔SULFAPRIM ✔AZITROMICINA
+☎7.832.8768  ☎5.331.7003
+
+Se usa para el tratamiento de dolore agudo y padecimientos infamatorios, de naturaleza reumatico y no reumetica
+
+Otras medicinas:
+2.5.cuc, DICLOFENAC POTÁSICO+Complejo B, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12.
+2...cuc, DICLOFENAC SODICO+Complejo B, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B6 y B12.
+2...cuc, DICLOFENAC + PARACETAMOL, 10 pastillas de 50mg y 500 mg respectivamente.
+6...cuc, DICLOFENAC EN CREMA, Pomo de 150 ml, dolores e inflamaciones localizadas, similar a voltaren.
+4...cuc, DICLOFENAC EN GEL, tubo de 25g al 1%, dolores e inflamaciones localizadas, similar a voltaren.
+1...cuc, OMEPRAZOL, 10 capsulas de 20 mg. 
+1...cuc, RANITIDINA, blister con 10 capsulas
+4...cuc, LASCOVAGIL, blister con 10 ovulos (Contienen Metronidazol y Nistatina)
+12..cuc, CHANCA PIEDRA, frasco con 60 capsulas de 500 mg, para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+12..cuc, OMEGA 369, frasco de 100 capsulas de 1200 mg. 
+1...cuc, VITAMINA C, blister de 10 capsulas de 500 mg. 
+15..cuc, VITAMINA E, caja de 100 capsulas de 1000 UI. 
+1...cuc, IBUPROFENO 600 mg el blister de 10 capsulas.
+1.5.cuc, IBUPROFENO 800 mg el blister de 10 capsulas.
+18..cuc, GLUCOSAMINA CHONDROITINA: Es un generador de cartilogos, para mejorar los dolores de artritis, juega un papel importante en la formación de tendones y ligamentos, regenerando Manos, Pies, Rodillas, Espalda, Cuellos, Caderas, Tobillos.
+1...cuc, MAMBO 36 20 mg a 1 cuc la pastilla (Similar al Tadalafil).
+3...cuc, TADALAFIL, blister de 4 pastillas de 20 mg (tambien conocido como Cialis o Pildora del fin de semana).
+3...cuc, VIA_GRA, blister de 8 pastillas de 100 mg.
+2...cuc, AZITROMICINA, cajita de 3 tabletas de 500 mg.
+1.5 cuc, SULFAPRIM, bliter de 10 pastillas de (80/400) mg.
+1.5 cuc, CIPROFLOXACINA, bliter de 10 pastillas de 500 mg.
+1.. cuc, METRONIDAZOL, bliter de 10 pastillas de 500 mg.
+1.. cuc, GLIBENCLAMIDA, bliter de 10 pastillas de 5 mg.
+3...cuc, PRUEBA DE EMBARAZO.
+5...cuc, PÍLDORA DEL DÍA DESPUÉS.
+5...cuc, PERMETRINA EN CREMA a 5 cuc x un tubo de 30g
+8...cuc, VITAMINAS COMPLEJO B, una caja de 100 tabletas.
+8...cuc, ACIDO FOLICO 5mg, una caja de 100 tabletas.
+12..cuc, MULTIVITAMINAS Y MINERALES, un pomo de 100 capsulas.
+2...cuc, LOPERAMIDA, un blister de 10 cápsulas de 2 mg.   (Antidiarreico de acción prolongada y efecto rápido)
+10..cuc, PEPTO-BISMOL, frasco de 236 ml. (Para el estomago, Acidez, Dierrea, Indigestion, Malestar)
+1...cuc, FUROSEMIDA, blister de 10 tabletas de 40 mg.
+
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+{WordsKey1/, }
+
+// Anuncio-Txt = 18Medic --------------------------------------------------------------------------------------------------------------------------------
+Medicinas{H} las más baratas: ✔RANITIDINA ✔OMEPRAZOL ✔DICLOFENAC(Sodico/Potasico) ✔SULFAPRIM ✔CIPROFLOXACINA ✔COMPLEJO.B
+☎7.832.8768  ☎5.331.7003
+
+Formas de DICLOFENAC:
+Potasico ...........(2.5 cuc), 10 pastillas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12.
+Sodico .............(2 cuc), 10 pastillas de 100mg, Ademas contiene Vitamina B1, B6 y B12.
+Con Paracetamol ....(2 cuc), 10 pastillas de 50 / 500 mg
+En Crema ...........(6 cuc), Pomo de 150 ml, dolores e inflamaciones localizadas, similar a voltaren.
+En Gel .............(4 cuc), para los dolores e inflamaciones localizadas, similar a voltaren.
+
+Otras medicinas:
+OMEPRAZOL -------------------(1. cuc ), 10 capsulas de 20 mg. 
+RANITIDINA ------------------(1. cuc ), la tira de 10 tabletas
+GLUCOSAMINA CHONDROITINA ----(18 cuc), frascos de 60 tabletas.
+CHANCA PIEDRA ---------------(12 cuc), un pomo de 60 tabletas.
+OMEGA 369 -------------------(12 cuc), un pomo de 100 tabletas de 1200 mg.
+VITAMINA E ------------------(15 cuc), una caja de 100 capsulas blandas de 1000 UI.
+VITAMINA C ------------------(1. cuc), un blister de 10 tabletas de 500 mg.
+LASCOVAGIL ------------------(4. cuc), un blister de 10 ovulos con Metronidazol y Nistatina.
+IBUPROFENO 600 mg -----------(1. cuc ), un blister de 10 tabletas.
+IBUPROFENO 800 mg -----------(1.5 cuc), un blister de 10 tabletas.
+TADALAFIL de 20 mg ----------(3. cuc), un blister de 4 tabletas (tambien conocido como Cialis, Mambo 36 o Pildora del fin de semana).
+VIA_GRA de 100 mg -----------(3. cuc), un blister de 8 tabletas.
+MAMBO 36 DE 20 MG -----------(1. cuc),(un sobre de 1 pastilla (igual al Tadalafil).
+PRUEBA DE EMBARAZO ----------(3. cuc), el Kit
+PÍLDORA DEL DÍA DESPUÉS -----(5. cuc), cada pastilla.
+VITAMINAS COMPLEJO B --------(8. cuc), una caja de 100 tabletas.
+ACIDO FOLICO 5mg ------------(8. cuc), una caja de 100 tabletas.
+MULTIVITAMINAS Y MINERALES --(12 cuc), un pomo de 100 capsulas.
+AZITROMICINA ----------------(2. cuc), cajita de 3 tabletas de 500 mg.
+SULFAPRIM -------------------(1.5 cuc), un bliter de 10 tabletas de (80/400) mg.
+CIPROFLOXACINA --------------(1.5 cuc), un bliter de 10 tabletas de 500 mg.
+METRONIDAZOL ----------------(1 cuc), un bliter de 10 tabletas de 500 mg.
+PERMETRINA EN CREMA ---------(5 cuc), un tubo de 30g
+GLIBENCLAMIDA ---------------(1 cuc), un bliter de 10 tabletas de 5 mg.
+LOPERAMIDA ------------------(2. cuc), un blister de 10 cápsulas de 2 mg.  (Antidiarreico de acción prolongada y efecto rápido)
+PEPTO-BISMOL ----------------(10 cuc), frasco de 236 ml. (Para el estomago, Malestar, Acidez, Diarrea, Indigestion)
+FUROSEMIDA ------------------(1 cuc), un blister de 10 tabletas de  40 mg.
+
+
+Glucosamina Chondroitina: Es un generador de cartilogos, para mejorar los dolores de artritis, juega un papel importante en la formación de tendones y ligamentos, regenerando Manos, Pies, Rodillas, Espalda, Cuellos, Caderas, Tobillos.
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Todo: {WordsKey1/, }
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+// Anuncio-Txt = 19Viag --------------------------------------------------------------------------------------------------------------------------------
+✔PASTILLA AZUL O AMARILLA(Via_gra/Tadalafil/Mambo36) ✔CHANCA_PIEDRA ✔SULFAPRIM ✔DICLOFENAC ✔CLOTRIMAZOL ✔CIPROFLOXACINA
+☎7.832.8768  ☎5.331.7003
+
+Además: 
+__2 cuc (Diclofenac Sódico con Vitam. B1,B6,B12)
+__2 cuc (Diclofenac Pótasico)
+2.5 cuc (Diclofenac Pótasico con Vitamina B1,B2,B6 y B12)
+1.5 cuc (Diclofenac Sódico)
+__2 cuc (Diclofenac+Paracetamol)
+__6 cuc (Diclofenac Crema)
+__4 cuc (Diclofenac en Gel)
+__1 cuc (Diclofenac Inyectable)
+__5 cuc (Fricciones de Mentol)
+__1 cuc (Omeprazol de 20 mg) 
+__1 cuc (Ranitidina) 
+_12 cuc (Omega 369) 
+_15 cuc (Caja Vitamina E)
+__1 cuc (Blister de Vitamina C 500 mg)
+__1 cuc (Mambo 36)
+__3 cuc (Tadalafil)
+_12 cuc (Chanca Piedra)
+__1 cuc (Ibuprofeno 600 mg)
+1.5 cuc Ibuprofeno 800 mg)
+_18 cuc (Glucosamina Chondrotina 1500 mg)
+__3 cuc (Prueba de Embarazo)
+__5 cuc (Píldora del día después)
+__8 cuc (Vitaminas complejo B)
+__8 cuc (Acido Folico 5mg) una caja de 100 pastillas.
+_12 cuc (MultiVitaminas y Minerales)
+__2 cuc (Azitromicina de 500 mg)
+1.5 cuc (Sulfaprim de (80/400) mg)
+1.5 cuc (Ciprofloxacina de 500 mg)
+__1 cuc (Metronidazol de 500 mg)
+__5 cuc (Permetrina en crema al 5%)
+__1 cuc (Glibenclamida de 5 mg)
+_10 cuc (Pepto-Bismol un frasco de 236 ml). (Para el estomago, Acidez, Indigestión, Malestar, Diarreas)
+__2 cuc (Loperamida)                        (Para las diarreas agudas o cronicas)
+__1 cuc (Furosemida de 40 mg)
+
+La CHANCA PIEDRA, es para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+{WordsKey1/, }
+
+// Anuncio-Txt = 20Lavad --------------------------------------------------------------------------------------------------------------------------------
+Piezas para Lavadoras{H} ⭐Nuevas⭐ ⭐Originales⭐ ⭐Baratas⭐ ✔Muelles ✔Correas ✔Busings ✔Mangueras ✔Sellos ✔Tapóns ✔Timers
+☎7.832.8768  ☎5.331.7003
+
+1 Botón de Lavadora x 30 cup
+1 Correa de Lavadora A620 x 5 cuc
+1 Correa de Lavadora A700 x 5 cuc
+1 Correa de Lavadora A785 x 5 cuc
+1 Correa de Lavadora M20.5 x 5 cuc
+1 Correa de Lavadora M22 x 5 cuc
+1 Manguera de Salida de Lavadora Semi-Automaticas x 6 cuc
+1 Manguera de Salida de lavadoras Automaticas x 12 cuc
+1 Manguera de drenaje (corta) x 10 cuc .......... (Va entre el tanque y la bomba de drenaje en las lavadoras automaticas)
+1 Manguera de entrada de aqua x 15 cuc .......... (Va de la pila a la lavadora)
+1 Sello de lavadora x 6 cuc ..................... (Impide la salida de agua de la centrifuga)
+1 Tapón con muelle de lavadora x 4 cuc .......... (Entrada/Salida de agua de lavado)
+1 Timer de lavado de Lavadora x 8 cuc ........... (Botón de mado para la parte de lavado)
+1 Timer de secado de Lavadora x 7 cuc ........... (Botón de mado para la parte de secado)
+1 Bomba de Drenaje (Sin Cuerpo Plastico) x 25 cuc (Saca el agua del tanque de lavado)
+1 Bomba de Drenaje (Completa) x 30 cuc .......... (Saca el agua del tanque de lavado)
+1 Reductor x 20 cuc ............................. (Transmisión de algunas Lavadora Semi-Automaticas)
+1 Busing de lavadora LG x 8 cuc ................. (Union entre el poleador y las paletas de lavado)
+1 Busing K500 de lavadora Daewoo x 8 cuc ........ (Union entre el poleador y las paletas de lavado)
+
+
+Si necesita otra pieza puede pedirla y trataremos de buscarla, si la encontramos en menos de 1 mes la puede tener.
+
+{WordsKey2/, }
+
+Todas las piezas son nuevas.
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+// Anuncio-Txt = 21Medic --------------------------------------------------------------------------------------------------------------------------------
+Vendo{H} barato: ✔PÍLDORA DÍA DESPUÉS ✔TEST.DE.EMBARAZO ✔DICLOFENACO ✔BENADRILINA ✔CHANCA.PIEDRA ✔SULFAPRIM ✔COMPLEJO.B
+☎7.832.8768  ☎5.331.7003
+
+Diclofenac con mentol, es un ungüento efectivo contra los dolores e inflamaciones localizadas, devido a la eficiencia de sus componetes activos, como el DICLOFENAC. Además es microrelajante devido a que contiene ACEITE DE EUCALIPTO y ESENCIA DE PINO. Actua contra Dolores musculares, Artritis, Dolores en la espalda, Golpes, Toceduas, Bronquitis, Dolor de garganta, Dolor de cabeza, Reumatismo, Picaduras de insertos, etc.
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Otras medicinas:
+2.5 cuc, DICLOFENAC POTASICO, 10 pastillas de 100mg, además contiene Vitamina B1, B2, B6 y B12.
+..2 cuc, DICLOFENAC SÓDICO, 10 pastillas de 100mg, además contiene Vitamina B1, B6 y B12.
+..2 cuc, DICLOFENAC CON PARACETAMOL, 10 pastillas de 50mg de Diclofenac y 500 mg de Paracetamol.
+..6 cuc, DICLOFENAC en crema, pomo de 150 ml, además contiene mentol, alcafor, aceite de eucalipto y escencia de pino.
+..4 cuc, DICLOFENAC en gel, tubo de 25 g al 1%.
+..1 cuc, RANITIDINA, 10 capsulas de 300 mg
+..1 cuc, OMEPRAZOL, 10 capsulas de 20 mg. 
+.12 cuc, CHANCA PIEDRA un pomo de 60 tabletas.
+.12 cuc, OMEGA 369 un pomo de 100 tabletas de 1200 mg.
+..1 cuc, VITAMINA C un blister de 10 tabletas de 500 mg.
+.15 cuc, VITAMINA E una caja de 100 capsulas blandas de 1000 UI.
+..4 cuc, LASCOVAGIL 10 ovulos de Metornidazol y Nistatina.
+..1 cuc, IBUPROFENO 600 mg, un blister de 10 tabletas.
+1.5 cuc, IBUPROFENO 800 mg, un blister de 10 tabletas.
+.18 cuc, GLUCOSAMINA CHONDROITINA, frasco de 60 tabletas, Es un generador de cartilogos, para mejorar los dolores de artritis, juega un papel importante en la formación de tendones y ligamentos, regenerando Manos, Pies, Rodillas, Espalda, Cuellos, Caderas, Tobillos.
+..3 cuc, TADALAFIL de 20 mg, un blister de 4 pastilla (tambien conocido como Cialis, Mambo 36 o Pildora del fin de semana).
+..1 cuc, MAMBO 36 (Tadalafil) de 20 mg, un sobre de una pastilla.
+..3 cuc, VIA_GRA de 100 mg, un blister de 8 pastilla.
+..3 cuc, PRUEBA DE EMBARAZO, un kit.
+..5 cuc, PÍLDORA DEL DÍA DESPUÉS, una pastilla.
+..2 cuc, AZITROMICINA, una cajita de 3 tabletas de 500 mg.
+1.5 cuc, SULFAPRIM, un bliter de 10 cápsulas de (80/400) mg.
+1.5 cuc, CIPROFLOXACINA, un bliter de 10 pastilla de 500 mg.
+..1 cuc, METRONIDAZOL, un bliter de 10 pastilla de 500 mg.
+..1 cuc, GLIBENCLAMIDA, un bliter de 10 pastilla de 5 mg.
+..8 cuc, VITAMINAS COMPLEJO B, una caja de 100 tabletas.
+.12 cuc, MULTIVITAMINAS Y MINERALES, un pomo de 100 capsulas.
+..8 cuc, ACIDO FOLICO, una caja de 100 pastillas de 5 mg.
+.10 cuc, PEPTO-BISMOL, frasco de 236 ml. (Diarrea, Acidez, Malestar, Indigestion)
+..2 cuc, LOPERAMIDA, un blister de 10 cápsulas de 2 mg. (Antidiarreico de acción prolongada y efecto rápido)
+..1 cuc, FUROSEMIDA 40 mg, un blister de 10 tabletas
+..5 cuc, PERMETRINA 5% (crema), un tubo de 30g
+
+{WordsKey1/, }
+
+Envase sellado, comprado en el extranjero y contiene 150 ml. 
+
+// Anuncio-Txt = 22Medic --------------------------------------------------------------------------------------------------------------------------------
+La mejor oferta en Medicina{H} ✔SULFAPRIM ✔AZITROMICINA ✔BENADRILINA ✔CHANCA.PIEDRA ✔IBUPROFENO ✔METFORMINA ✔LORATADINA
+☎7.832.8768  ☎5.331.7003
+
+El Diclofenac es una Analgesico, Antineuretico, Antineuralgico y Antirreumatico, que sive para padecimientos como Artritis, Reumatismo, Dolores Lumbargícos, Cervicales, branquiales, faciales, del trigemino intercostal, hepaticos, radiculitis, neuropatias alcohólicas y diabéticas, fibromiología, espndilitis, toceduras, esquinces, fracturas, etc.
+
+Tambien vendo: 
+DICLOFENAC en Crema: ------------- 6 cuc. (150 ml) 
+DICLOFENAC en Gel: --------------- 4 cuc.
+DICLOFENAC POTASICO: ----------- 2.5 cuc. (10 tabletas) (Contine vitamina B1, B2, B6 y B12) 
+DICLOFENAC SODICO: --------------- 2 cuc. (10 tabletas) (Contine vitamina B1, B6 y B12) 
+DICLOFENAC CON PARACETAMOL: ------ 2 cuc. (10 tabletas) (Combinados 50mg Diclofenac y 500mg Paracetamol)
+DICLOFENAC SODICO: ------------- 1.5 cuc. (10 tabletas) 
+OMEPRAZOL: ----------------------- 1 cuc. (10 tabletas)
+RANITIDINA: ---------------------- 1 cuc. (10 tabletas)
+GLUCOSAMINA CHONDROITINA: ------- 18 cuc. (60 tabletas)
+CHANCA PIEDRA: ------------------ 12 cuc. (60 tabletas)
+OMEGA 369: ---------------------- 12 cuc. (100 tabletas)
+VITAMINA E: --------------------- 15 cuc. (100 tabletas)
+VITAMINA C: ---------------------- 1 cuc. (10 tabletas)
+LASCOVAGIL: ---------------------- 4 cuc. (10 tabletas) (Ovulos de Metornidazol y Nistatina)
+IBUPROFENO 600 mg: --------------- 1 cuc. (10 tabletas)
+IBUPROFENO 800 mg: --------------- 1 cuc. (10 tabletas)
+TADALAFIL de 20 mg: -------------- 3 cuc. (4 tabletas)    (tambien conocido como Cialis, Mambo 36 o Pildora del fin de semana)
+VIA_GRA de 20 mg: ---------------- 3 cuc. (8 tabletas)
+MAMBO 36 de 20 mg: --------------- 1 cuc. (1 tabletas)    (Igual al Tadalafil)
+AZITROMICINA de 500 mg ----------- 2 cuc. (3 tabletas)
+SULFAPRIM de (80/400) mg ------- 1.5 cuc. (10 tabletas) 
+CIPROFLOXACINA de 500 mg ------- 1.5 cuc. (10 tabletas)
+METRONIDAZOL de 500 mg ----------- 1 cuc. (10 tabletas)
+PERMETRINA EN CREMA 5% ------------ 5 cuc. (Tubo de 30g)
+GLIBENCLAMIDA de 5 mg ------------- 1 cuc. (10 tabletas)
+PRUEBA DE EMBARAZO: -------------- 3 cuc. (el Kit)
+PÍLDORA DEL DÍA DESPUÉS: --------- 5 cuc. (1 tableta)
+VITAMINAS COMPLEJO B: ------------ 8 cuc. (100 tabletas)
+MULTIVITAMINAS Y MINERALES ------ 12 cuc. (100 capsulas)
+ACIDO FOLICO --------------------- 8 cuc. (100 pastillas)
+PEPTO-BISMOL -------------------- 10 cuc. (1 frasco de 236 ml)
+LOPERAMIDA ----------------------- 2 cuc. (10 tabletas)
+
+La loperamida es un Antidiarreico de acción prolongada y efecto rápido.
+
+Glucosamina Chondroitina: Es un generador de cartilogos, para mejorar los dolores de artritis, juega un papel importante en la formación de tendones y ligamentos, regenerando Manos, Pies, Rodillas, Espalda, Cuellos, Caderas, Tobillos.
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+Listdo: {WordsKey1/, }
+
+// Anuncio-Txt = 23Viag --------------------------------------------------------------------------------------------------------------------------------
+✔Para hombres(⭐V*I*A*G*R*A⭐TA_DA_LA_FIL⭐MAMBO36⭐) ✔Para Mujeres(⭐PILDORA_DIA_DESPUES⭐PRUEBA_DE_EMBARAZO⭐) y mucho más ...
+☎7.832.8768  ☎5.331.7003
+ 
+Además tengo:
+-Mambo 36 (Tadalafil), Para los hombres, 1 cuc la pastilla.
+-Tadalafil, Para los hombres, a 3 cuc blister de 4 pastilla.
+-Ranitidina, para el estomago - 1 cuc.
+-Omeprazol, para el estomago - 1 cuc.
+-Omega 639, suplemento nutracional - 12 cuc
+-Vitamina E, es un antioxidante y protector celular - 15 cuc la caja de 100 tabletas.
+-Vitamina C, es un antioxidante y captador de radicales libres - 2 cuc un blister de 10 tabletas de 500 mg.
+-Vitaminas complejo B - 8 cuc una caja de 100 tabletas.
+-MultiVitaminas y Minerales - 12 cuc un pomo de 100 capsulas.
+-Tadalafil (Mambo 36) a 1 cuc la pastilla, tambien conocido como Pildora del fin de semana o Cialis.
+-Chanca Piedra, a 12 cuc un pomo de 60 capsulas de 500 mg, sirve para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+-Diclofenac, para los dolores ...
+.... Sodico con vitam. B1,B6,B12 - 2 cuc.
+.... Potasico - 2 cuc.
+.... Potasico con vitam. B1,B2,B6,B12 - 2 cuc.
+.... Sodico - 1.5 cuc.
+.... Con Paracetamol - 2 cuc.
+.... En crema - 6 cuc.
+.... En Gel - 4 cuc.
+.... Inyectable - 1 cuc.
+.... Ibuprofeno 600 mg - 1 cuc.
+.... Ibuprofeno 800 mg - 1.5 cuc.
+-Frinciones de Mentol, para los dolores 4 cuc.
+-Azitromicina de 500 mg, es una antibiotico para las infecciones - 2 cuc.
+-Sulfaprim de (80/400) mg a 1.5 cuc un bliter de 10 tabletas.
+-Ciprofloxacina de 500 mg a 1.5 cuc un bliter de 10 tabletas.
+-Metronidazol de 500 mg a 1 cuc un bliter de 10 tabletas.
+-Glibenclamida de 5 mg a 1 cuc un bliter de 10 tabletas.
+-Glucosamina Chondrotina 1500 mg, para la Artritis - 18 cuc.
+-Píldora del día después - 5 cuc.
+-Prueba de Embarazo - 3 cuc.
+-Loperamida - 2 cuc.              (Antidiarreico de acción prolongada y efecto rápido)
+-Pepto-Bismol - 10 cuc.  (Para el estomago, Acidez, Malestar, Indigestión, Diarreas)
+-Acido Folico - 8 cuc, 100 pastillas.
+-Permetrina 5% (crema) - 5 cuc, un tubo de 30g
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Key Words: {WordsKey1/, }
+
+// Anuncio-Txt = 24Lavad --------------------------------------------------------------------------------------------------------------------------------
+Tengo la pieza para arreglar su Lavadora{H} ✔Bomba ✔Timer ✔Correa(Serie A Y M) ✔Manguera(entrada/salida) ✔Busing ✔Boton
+☎7.832.8768  ☎5.331.7003
+
+.6 cuc Manguera de Salida de Lavadoras Semi-Automaticas               
+12 cuc Manguera de Salida de lavadoras Automaticas
+10 cuc Manguera de drenaje (corta)
+15 cuc Manguera de entrada de aqua
+.4 cuc Tapon con muelle de lavadora                
+.6 cuc Sellos de lavadora                          
+.8 cuc Timer de lavado de Lavadora                           
+.7 cuc Timer de secado de Lavadora                           
+.8 cuc Transmisión (Busing) de lavadora LG         
+.8 cuc Transmisión (Busing) K500 de lavadora Daewoo
+20 Bomba de Drenaje (Sin Cuerpo Plastico) 
+25 Bomba de Drenaje (Completa)
+20 Reductor de Lavadora Semi-Automaticas)
+.5 cuc Correa de Lavadora A620                     
+.5 cuc Correa de Lavadora A700                     
+.5 cuc Correa de Lavadora A785                     
+.5 cuc Correa de Lavadora M20.5                    
+.5 cuc Correa de Lavadora M22
+30 cup Botones de Lavadora                         
+
+Todas las piezas son nuevas, compradas en el exterior. 
+Si necesita otra pieza puede solicitarla y en menos de un mes te daremos respuesta.
+ 
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+{WordsKey2/, }
+
+// Anuncio-Txt = 25Medic --------------------------------------------------------------------------------------------------------------------------------
+Lo mejor en Medicamentos{H} ✔CIPROFLOXACINA ✔AZITROMICINA ✔SULFAPRIM ✔SULFATO_FERROSO ✔OMEGA_369 ✔OMEPRAZOL ✔RANITIDINA
+☎7.832.8768  ☎5.331.7003
+
+CHANCA PIEDRA, 12 cuc x pomo con 60 capsulas de 500 mg.
+RANITIDINA a 1 cuc x 10 capsulas de 300 mg.
+OMEPRAZOL a 1 cuc x 10 capsulas de 20 mg. 
+LASCOVAGIL, ovulos de metronidazol+nistatina a 4 cuc blister con 10 ovulos. 
+OMEGA 369 a 12 cuc x pomo de 100 pastillas de 3000 mg
+VITAMINA E a 15 cuc x caja de 100 capsulas de 1000 UI
+VITAMINAS COMPLEJO B a 8 cuc x caja de 100 tabletas.
+VITAMINA C a 1 cuc, un blister de 10 tabletas de 500 mg.
+MULTIVITAMINAS Y MINERALES a 12 cuc x un pomo de 100 capsulas.
+AZITROMICINA a 2 cuc x cajita de 3 tabletas de 500 mg.
+SULFAPRIM a 1.5 cuc x bliter de 10 tabletas de (80/400) mg.
+CIPROFLOXACINA a 1.5 cuc x bliter de 10 tabletas de 500 mg.
+METRONIDAZOL a 1 cuc x bliter de 10 tabletas de 500 mg.
+GLIBENCLAMIDA a 1 cuc x bliter de 10 tabletas de 5 mg.
+IBUPROFENO 600 mg a 1 cuc x el blister de 10 capsulas.
+IBUPROFENO 800 mg a 1.5 cuc x el blister de 10 capsulas.
+GLUCOSAMINA CHONDROITINA a 18 cuc x frasco de 60 capsulas, Regenera coyunturas, ligamentos
+DICLOFENACO:
+.... POTÁSICO: 2.5 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12, fecha de vencimiento en 2023
+.... SODICO: 2 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B6 y B12, fecha de vencimiento en 2020
+.... CREMA: 6 cuc el pomo de 150 ml, para dolores e inflamaciones localizadas, contiene otras sustancias realajantes y antimflamatorias como el Aceite de Eucalito, la Escencia de Pino, Silicato de Mentol y otros.
+.... GEL: 4 cuc el tubo de 25g al 1%.
+.... CON PARACETAMOL: 2 cuc x blister de 10, son tabletas de Diclofenac 50 mg + Paracetamol 500 mg 
+TADALAFIL 20 mg a 3 cuc blister de 4 pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+MAMBO 36 (Tadalafil) a 1 cuc la pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+VIA_GRA 100 mg a 3 cuc blister de 8 pastillas de 100mg.
+PRUEBA DE EMBARAZO a 3 cuc el Kit
+PÍLDORA DEL DÍA DESPUÉS a 5 cuc cada pastilla.
+ACIDO FOLICO 5mg a 8 cuc, una caja de 100 pastillas.
+LOPERAMIDA a 2 cuc un blister de 10 cápsulas de 2 mg.     (Antidiarreico de acción prolongada y efecto rápido)
+PEPTO-BISMOL a 10 cuc un Pomo de 236 ml.
+PERMETRINA EN CREMA 5% a 5 cuc un tubo de 30g
+ 
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+-> {WordsKey1/, }
+
+// Anuncio-Txt = 26Medic --------------------------------------------------------------------------------------------------------------------------------
+Tengo{H} lo que necesita ✔IBUPROFENO ✔DICLOFENACO(Tabletas|Gel)(Sodico|Potasico) ✔PARACETAMOL ✔OMEGA.369 ✔CLOTRIMAZOL
+☎7.832.8768  ☎5.331.7003
+
+OMEPRAZOL 10 encapsualdos de 20 mg por 1 CUC. 
+RANITIDINA 10 capsulas de 300 mg por 1 CUC.
+OMEGA 369 1 pomo con 100 capsulas de 1200 mg por 12 CUC.
+VITAMINA E 1 caja de 100 capsulas de 1000 UI por 15 CUC
+VITAMINA C 1 blister de 10 tabletas de 500 mg por 1 CUC.
+VITAMINAS COMPLEJO B 1 caja de 100 tabletas por 8 CUC.
+MULTIVITAMINAS Y MINERALES un pomo de 100 capsulas por 12 CUC.
+CHANCA PIEDRA 1 frasco con 60 capsulas de 500 mg por 12 CUC.
+DICLOFENAC INYECTABLE 1 ampula de 75 mg por 1 CUC.
+DICLOFENAC EN CREMA 1 pomo de 150 ml por 6 CUC (para dolores e inflamaciones localizadas).
+DICLOFENAC EN GEL 1 tubo de 25 g por 4 CUC (para dolores e inflamaciones localizadas).
+DICLOFENAC POTASICO con Vitamina: 1 blister con 10 tabletas de 100 mg por 2.5 CUC.
+DICLOFENAC SÓDICO con Vitamina: 1 blister con 10 tabletas de 100 mg por 2 CUC.
+DICLOFENAC con PARACETAMOL: 1 blister con 10 tabletas de 50/500 mg por 2 CUC.
+LASCOVAGIL, bister con 10 ovulos por 4 cuc, es para las infecciones y contiene Metronidazol y Nistatina.
+IBUPROFENO 600 mg, 1 blister de 10 capsulas por 1 CUC.
+IBUPROFENO 800 mg, 1 blister de 10 capsulas por 1.50 CUC.
+AZITROMICINA, cajita de 3 tabletas de 500 mg por 2 cuc.
+SULFAPRIM, bliter de 10 tabletas de (80/400) mg por 1.5 cuc.
+CIPROFLOXACINA, bliter de 10 tabletas de 500 mg por 1.5 cuc.
+METRONIDAZOL, bliter de 10 tabletas de 500 mg por 1 cuc.
+GLIBENCLAMIDA, bliter de 10 tabletas de 5 mg por 1 cuc.
+PERMETRINA 5% (crema) un tubo de 30g por 5 cuc.
+GLUCOSAMINA CHONDROITINA, frasco con 60 capsulas, por 18 cuc; Regenera coyunturas, ligamentos
+TADALAFIL, tambien conocido como Cialis o Pildora del fin de semana, blister de 4 pastillas por 3 cuc.
+MAMBO 36 (Tadalafil, tambien conocido como Cialis o Pildora del fin de semana) por 1 cuc el sobre de 1 pastilla.
+VIA_GRA, blister de 8 pastillas de 100 mg por 3 cuc.
+ACIDO FOLICO 5mg, una caja de 100 pastillas por 8 cuc.
+PÍLDORA DEL DÍA DESPUÉS a 5 cuc cada pastilla.
+PRUEBA DE EMBARAZO, un Kit por 3 cuc.
+PEPTO-BISMOL, un frasco de 236 ml por 10 cuc, (Para el estomago: Diarreas, Acidez, Malestar, Indigestión)
+LOPERAMIDA, un blister de 10 cápsulas a 2 cuc.  
+
+La Loperamida es un Antidiarreico de acción prolongada y efecto rápido.
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+-> {WordsKey1/, }
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+// Anuncio-Txt = 27Viag --------------------------------------------------------------------------------------------------------------------------------
+Se acaban, llama ya {H} ✔V*I*A*G*R*A ✔CIALIS ✔TEST.DE.EMBARAZO ✔PÍLDORA.DEL.DÍA.DESPUÉS ✔TRIPE.ANTIBIOTICO ✔OMEGA3
+☎7.832.8768  ☎5.331.7003
+
+Diclofenac: (Para los dolores)
+... Sódico + Vitamina B, 2 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B6 y B12, fecha de vencimiento en 2020
+... Potasico + Vitamina B, 2 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12, vencen en el 2023.
+... Potasico , 2 cuc x blister de 10, son tabletas de 100mg, vencen en el 2023.
+... Con Paracetamol , 2 cuc x blister de 10 tabletas de 50/500 mg
+... En Crema, 6 cuc el pomo de 150 ml, para dolores e inflamaciones localizadas, similar al Voltaren, pero contiene otras sustancias realajantes y antimflamatorias como el Aceite de Eucalito, la Escencia de Pino, Silicato de Mentol y otros.
+... En Gel, 4 cuc el tubo, para dolores e inflamaciones localizadas, similar al Voltaren.
+... Inyectable, 1 cuc x Ampula, cada ampula contiene 75 mg, fecha de vencimiento noviembre de 2020.
+Omeprazol: (Para el estomago)
+... 1 cuc x 10 capsula de 20 mg. 
+Ranitidina: (Para el estomago)
+... 1 cuc x 10 capsula de 300 mg.
+Vitamina E: (Suplemento nutracional)
+... 15 cuc x 100 capsula de 1000 UI.
+Vitamina C: (Suplemento nutracional)
+... 1 cuc x 10 tabletas de 500 mg.
+Vitaminas complejo B: (Suplemento nutracional)
+... 8  cuc x una caja de 100 tabletas.
+MultiVitaminas y Minerales
+... 12 cuc x un pomo de 100 capsulas.
+Tadalafil: (Para la disfución sexual), tambien conocido como Cialis o Pildora del fin de semana. 
+... Mambo 36, 1 cuc x tableta de 20 mg
+... 3 cuc x blíster de 4 tableta de 20 mg.
+Chanca Piedra: para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+... 12 cuc el pomo de 60 capsulas de 500 mg
+Frinciones de Mentol: (Para los dolores)
+... 4 cuc x pomo de 150 ml.
+Omega 369: (Suplemento nutracional) 
+... 12 cuc x pomo de 100 pastillas
+Ibuprofeno: (Para los dolores)
+... 1 cuc el blister de 10 capsulas de 600 mg.
+... 1.5 cuc el blister de 10 capsulas de 800 mg.
+Glucosamina: (Para la Artritiss)
+... 18 cuc x un frasco de 60 capsulas de 1500 mg.
+Azitromicina: (Antibiotico para las infecciones por bacterias)
+... 2 cuc x una cajita de 3 tabletas de 500 mg.
+Sulfaprim: (Antibiotico para las infecciones)
+... 1.5 cuc x un bliter de 10 tabletas de (80/400) mg.
+Ciprofloxacina: (Antibiotico para las infecciones)
+... 1.5 cuc x un bliter de 10 tabletas de 500 mg.
+Metronidazol: (Antibiotico para las infecciones)
+... 1 cuc x un bliter de 10 tabletas de 500 mg.
+Glibenclamida: (Para los diabeticos)
+... 1 cuc x un bliter de 10 tabletas de 5 mg.
+Para el Embarazo:
+... 3 cuc x un kit de Prueba de Embarazo
+... 5 cuc x una Píldora del día después.
+Loperamida: (Para las diarreas)
+... 2 cuc x un blister de 10 cápsulas de 2 mg.
+Acido Folico: (Suplemento nutracional)
+... 8 cuc x una caja de 100 pastillas.
+Pepto-Bismol:(Para del estomago, Acidez, Malestar, Indigestión, Diarreas)
+... 10 cuc x un frasco de 236 ml.
+PERMETRINA en crema: (Para la escrabiosis (Sarna))
+... 5 cuc x un tubo de 30g
+  
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+	
+Key Words: {WordsKey1/, }
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+// Anuncio-Txt = 28Lavad --------------------------------------------------------------------------------------------------------------------------------
+Los mejores precios para arreglar su Lavadora{H} ✔Correa ✔Bomba ✔Sello ✔Reloj(Secado|Lavado) ✔Manguera ✔Transmisión etc
+☎7.832.8768  ☎5.331.7003
+
+Timer de lavado por 8 cuc
+Timer de secado por 7 cuc
+Manguera de Salida de lavadoras Automaticas por 12 cuc
+Manguera de Salida de lavadoras Semi-Automaticas por 6 cuc
+Manguera de entrada de aqua por 15 cuc
+Manguera de drenaje (corta) por 10 cuc 
+Tapon con muelle por 4 cuc
+Correa A620 por 5 cuc
+Correa A700 por 5 cuc
+Correa A785 por 5 cuc
+Correa M20.5 por 5 cuc
+Correa M22 por 5 cuc
+Sellos por 6 cuc
+Botones por 30 cup
+Transmisión (Busing) de LG por 8 cuc
+Transmisión (Busing) K500 de Daewoo por 8 cuc
+Bomba de Drenaje (Sin Cuerpo Plastico) por 25 cuc
+Bomba de Drenaje (Completa) por 30 cuc
+Reductor (Lavadoras Semi-Automaticas) por 20 cuc
+
+Puede encarga la pieza que necesite, si la podemos cosequir en menos de 1 mes le avisamos.
+
+{WordsKey2/, }
+
+Todas las piezas son compradas en el exterior y estan sin estrenar.
+
+// Anuncio-Txt = 29Medic --------------------------------------------------------------------------------------------------------------------------------
+✔ANTIBIOTICOS{H} Azitromicina⭐Sulfaprim⭐Ciprofloxacina⭐Amoxicilina ✔ANALGECICOS Diclofenac⭐Ibuprofeno⭐Paracetamol y mas
+☎7.832.8768  ☎5.331.7003
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Otras medicinas:
+2.5 cuc, DICLOFENAC POTASICO + Complejo B, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12.
+2.. cuc, DICLOFENAC SODICO + Complejo B, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B6 y B12.
+2.. cuc, DICLOFENAC + PARACETAMOL, 10 pastillas de 500mg de Paracetamol + 50 mg de Diclofenac
+6.. cuc, DICLOFENAC EN MENTOL, Pomo de 150 ml (Con Mentol, Alcafor, etc.).
+4.. cuc, DICLOFENAC EN GEL, Tubo de 25g con diclofenac al 1%.
+1.. cuc, DICLOFENAC INYECTABLE, cada ampula contiene 75 mg
+4.. cuc, LASCOVAGIL, blister con 10 ovulos (Contienen Metronidazol y Nistatina)
+1.. cuc, OMEPRAZOL, 10 capsulas de 20 mg. 
+1.. cuc, RANITIDINA, 10 capsulas de 300 mg
+1.. cuc, IBUPROFENO 600 mg el blister de 10 capsulas.
+1.5 cuc, IBUPROFENO 800 mg el blister de 10 capsulas.
+2.. cuc, AZITROMICINA de 500 mg, una cajita de 3 tabletas.
+1.5 cuc, SULFAPRIM de (80/400) mg, un bliter de 10 tabletas.
+1.5 cuc, CIPROFLOXACINA de 500 mg, un bliter de 10 tabletas.
+1.. cuc, METRONIDAZOL de 500 mg, un bliter de 10 tabletas.
+1.. cuc, GLIBENCLAMIDA de 5 mg, un bliter de 10 tabletas.
+1.. cuc, VITAMINA C de 500 mg, un blister de 10 tabletas.
+15. cuc, VITAMINA E Natural 1000 UI la caja de 100 Capsulas blandas
+8.. cuc, ACIDO FOLICO la caja de 100 pastillas de 5 mg.
+12. cuc, OMEGA 369, 100 tabletas de 1200 mg.
+12. cuc, CHANCA PIEDRA, pomo con 60 capsulas de 500 mg, para eliminar calculos renales y biliares.
+3.. cuc, TADALAFIL, blister de 4 pastilla (tambien conocido como Cialis o Pildora del fin de semana).
+1.. cuc, MAMBO 36 (Tadalafil), sobre de una pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+3.. cuc, VIA_GRA, blister de 8 pastilla de 100 mg.
+18. cuc, GLUCOSAMINA & CHONDROITINA, frasco con 60 capsulas de 1500 mg.
+3.. cuc, PRUEBA DE EMBARAZO, un Kit.
+5.. cuc, PÍLDORA DEL DÍA DESPUÉS, una pastilla.
+5.. cuc, PERMETRINA EN CREMA 5%, es un tubo de 30g
+8.. cuc, VITAMINAS COMPLEJO B, una caja de 100 tabletas.
+12. cuc, MULTIVITAMINAS Y MINERALES, un pomo de 100 capsulas.
+2.. cuc, LOPERAMIDA, un blister de 10 cápsulas de 2 mg.   (Antidiarreico de acción prolongada y efecto rápido)
+10. cuc. PEPTO-BISMOL, un frasco de 236 ml. (Problemas estomacales, Acidez, Malestar, Diarreas, Indigestión )
+
+{WordsKey1/, }
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+// Anuncio-Txt = 30Medic --------------------------------------------------------------------------------------------------------------------------------
+✔ANTIBIOTICOS(Sulfaprim+Ciprofloxacino+Azitromicina) ✔Antihistaminico(BENADRILINA+LOPERAMIDA) ✔OMEPRAZOL ✔RANITIDINA etc 
+☎7.832.8768  ☎5.331.7003
+
+Todos:
+..1 cuc, Ranitidina
+..1 cuc, Omeprazol (de 20 mg)
+.12 cuc, Omega 369
+.12 cuc, Chanca Piedra.
+..1 cuc, IBUPROFENO 600 mg, un blister de 10 tabletas.
+1.5 cuc, IBUPROFENO 800 mg, un blister de 10 tabletas.
+.18 cuc, Glucosamina Chondroitina frasco con 60 capsulas
+2.5 cuc, Diclofenac Potásico con Vitamina B.
+..2 cuc, Diclofenac con Paracetamol.
+..2 cuc, Diclofenac Sódico con Vitamina B.
+..6 cuc, Diclofenac en Crema, con Mentol, Aceite de Eucalito y Escencia de Pino.
+..4 cuc, Diclofenac en pomada, tubo de 25 mg. (similar al voltaren)
+..1 cuc, Diclofenac Inyectable.
+.15 cuc, Vitamina E 1000 UI, la caja de 100 capsulas.
+..1 cuc, Vitamina C 500 mg, un blister de 10 tabletas.
+..1 cuc, Mambo 36 (Tadalafil) el sobre de una pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+..3 cuc, Tadalafil de 20 mg, el blister de 10 tabletas. tambien conocido como Cialis o Pildora del fin de semana.
+..3 cuc, Via_gra de 100 mg, el bister de 10 tabletas.
+..3 cuc, Prueba de Embarazo, el Kit.
+..5 cuc, Píldora del día después, 1 pastilla.
+..8 cuc, Acido Folico, la caja de 100 pastillas 5 mg.
+..8 cuc, Vitaminas complejo B, una caja de 100 tabletas.
+..2 cuc, Azitromicina, una cajita de 3 tabletas de 500 mg.
+1.5 cuc, Sulfaprim, un bliter de 10 tabletas de (80/400) mg.
+1.5 cuc, Ciprofloxacina, un bliter de 10 tabletas de 500 mg.
+..1 cuc, Metronidazol, un bliter de 10 tabletas de 500 mg.
+..1 cuc, Glibenclamida, un bliter de 10 tabletas de 5 mg.
+..8 cuc, MultiVitaminas y Minerales, un pomo de 100 capsulas.
+..2 cuc, Loperamida, un blister de 10 cápsulas de 2 mg.       (Antidiarreico de acción prolongada y efecto rápido)
+.10 cuc, Pepto-Bismol, un frasco de 236 ml. (Indigestión estomacal, Diarreas, Malestar, Acidez)
+..5 cuc, PERMETRINA en crema 5%, un tubo de 30g
+ 
+Glucosamina Chondroitina: Es un generador de cartilogos, para mejorar los dolores de artritis, juega un papel importante en la formación de tendones y ligamentos, regenerando Manos, Pies, Rodillas, Espalda, Cuellos, Caderas, Tobillos.
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+Palabras: {WordsKey1/, }
+
+// Anuncio-Txt = 31Viag --------------------------------------------------------------------------------------------------------------------------------
+Vendo{H} ✔AZUL y AMARILLO (Via_gra⭐Tadalafil⭐Mambo36) ✔DICLOFENAC(Potasico/Sodico) ✔IBUPROFENO ✔AZITROMICINA ✔SULFAPRIM
+☎7.832.8768  ☎5.331.7003
+
+2.. cuc, Diclofenac Sódico + Vitam. B, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B6 y B12.
+2.5 cuc, Diclofenac Potasico + Vitam. B, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12.
+2.. cuc, Diclofenac Potasico, 10 pastillas de 100mg.
+2.. cuc, Diclofenac Potasico, 10 pastillas de 100mg.
+6.. cuc, Diclofenac con Paracetamol, 10 pastillas de 50/500mg.
+4.. cuc, Diclofenac en Gel, el tubo, dolores e inflamaciones localizadas, similar a voltaren.
+1.. cuc, Diclofenac Inyectable, cada ampula contiene 75 mg
+4.. cuc, Frinciones de Mentol, pomo de 150 ml, uso externo para dolores localizados.
+
+1.. cuc, Omeprazol, 10 capsulas de 20 mg. 
+1.. cuc, Ranitidina, 10 capsulas de 300 mg. 
+1.. cuc, Mambo 36 (Tadalafil), cada pastilla de 20 mg, tambien conocido como Cialis o Pildora del fin de semana.
+1.. cuc, Tadalafil, blíster de 4 pastilla de 20 mg, tambien conocido como Cialis o Pildora del fin de semana.
+15. cuc, Vitamina E, 100 capsulas de 1000 UI.
+1.. cuc, Vitamina C, 10 tabletas de 500 mg.
+8.. cuc, Vitaminas complejo B, caja de 100 tabletas.
+12. cuc, MultiVitaminas y Minerales, pomo de 100 capsulas.
+12. cuc, Chanca Piedra, pomo con 60 capsulas de 500 mg.
+12. cuc, Omega 369, pomo de 100 pastillas.
+1.. cuc, Ibuprofeno 600 mg a el blister de 10 capsulas.
+1.5 cuc, Ibuprofeno 800 mg a el blister de 10 capsulas.
+18. cuc, Glucosamina Chondrotina 1500 mg a el frasco de 60 capsulas.
+5.. cuc, Píldora del día después.
+3.. cuc, Prueba de Embarazo.
+10. cuc, Pepto-Bismol el pomo de 236 ml  (Para el estomago, Acidez, Diarreas, Malestar, Indigestión)
+2.. cuc, Loperamida 2mg, un blister de 10 cápsulas.       (Antidiarreico de acción prolongada y efecto rápido)
+2.. cuc, Azitromicina 500 mg, cajita de 3 tabletas.
+1.5 cuc, Sulfaprim, un bliter de 10 tabletas de (80/400) mg.
+1.5 cuc, Ciprofloxacina un bliter de 10 tabletas de 500 mg.
+1.. cuc, Metronidazol un bliter de 10 tabletas de 500 mg.
+1.. cuc, Glibenclamida un bliter de 10 tabletas de 5 mg.
+8.. cuc, Acido Folico 5mg, una caja de 100 pastillas.
+5.. cuc, Permetrina en crema 5%, un tubo de 30g
+
+Todos estan en sus envases originales y vencen en el 2020 o posterior
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+{WordsKey1/, }
+
+// Anuncio-Txt = 32Lavad --------------------------------------------------------------------------------------------------------------------------------
+Las mejores pzas para su lav{H} ✔Correa ✔Reloj ✔Manguera(Salida|Entrada) ✔Transmisión(LG/Daewoo/Daytron) ✔Sapito ✔Bomba
+☎7.832.8768  ☎5.331.7003
+
+12 cuc por una Manguera de Salida de lavadoras Automaticas
+.6 cuc por una Manguera de Salida de lavadoras Semi-Automaticas
+10 cuc por una Manguera de drenaje (corta)
+15 cuc par uan Manguera de entrada de aqua
+.5 cuc por una Correa A620                     
+.5 cuc por una Correa A700                     
+.5 cuc por una Correa A785                     
+.5 cuc por una Correa M20.5
+.5 cuc por una Correa M22
+.4 cuc por un Tapon con muelle
+.6 cuc por un Sello
+.8 cuc por un Timer de lavado
+.7 cuc por un Timer de secado
+30 cup por un Botón
+25 cuc por Bomba de Drenaje (Sin Cuerpo Plastico)
+30 cuc por Bomba de Drenaje (Completa)
+20 cuc por Reductor (Lavadoras Semi-Automaticas)
+.8 cuc por una Transmisión de LG         
+.8 cuc por una Transmisión K500 de Daewoo
+
+Si necesita otra pieza puede pedirla y trataremos de consequirla. 
+Todas las piezas estan nuevas sin extrenar.
+
+{WordsKey2/, }
+
+// Anuncio-Txt = 33Medic --------------------------------------------------------------------------------------------------------------------------------
+Tengo Medicamentos{H} de Adurtos: ✔CIPROFLOXACINA ✔SULFAPRIM ✔AZITROMICINA ✔BENADRILINA ✔METFORMINA ✔LORATADINA ✔OMEGA3
+☎7.832.8768  ☎5.331.7003
+
+Listado: 
+Ranitidina, a 1 cuc el blister de 10 tabletas
+Chanca Piedra, a 12 cuc, el pomo
+Glucosamina Chondroitina, frasco con 60 capsulas 18 cuc
+Omeprazol, a 1 cuc el blister de 10 capsulas.
+Diclofenac Potásico con Vitamina, B a 2.50 cuc el blister de 10 tabletas.
+Diclofenac Sodico con Vitamina B, a 2 cuc el blister de 10 tabletas.
+Diclofenac Sodico con Paracetamol, a 2 cuc el blister de 10 tabletas.
+Diclofenac en Crema, a 6 cuc un pomo de 150 ml(con Mentol, Aceite de Eucalito y la Escencia de Pino.
+Diclofenac en Gel, a 4 cuc, tubo de 25g.
+Diclofenac Inyectable, a 1 cuc el bulbo.
+Lascovagil, ovulos de metronidazol+nistatina a 4 cuc blister con 10 ovulos. 
+Azitromicina, a 2 cuc unc cajita de 3 tabletas de 500 mg.
+Sulfaprim, a 1.5 cuc un bliter de 10 tabletas de (80/400) mg.
+Ciprofloxacina, a 1.5 cuc un bliter de 10 tabletas de 500 mg.
+Metronidazol, a 1 cuc un bliter de 10 tabletas de 500 mg.
+Permetrina en crema 5%, a 5 cuc, un tubo de 30g
+Glibenclamida, a 1 cuc un bliter de 10 tabletas de 5 mg.
+Omega 369, a 12 cuc x pomo de 100 pastillas de 3000 mg
+Ibuprofeno 600 mg, a 1 cuc el blister de 10 capsulas.
+Ibuprofeno 800 mg, a 1.5 cuc el blister de 10 capsulas.
+Tadalafil 20 mg, a 3 cuc blister de 4 pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+Via_gra 100 mg, a 3 cuc blister de 8 pastillas.
+Mambo 36 (Tadalafil), a 1 cuc la pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+Píldora del día después, a 5 cuc cada pastilla.
+Prueba de Embarazo, a 3 cuc el Kit
+Acido Folico, a 8 cuc una caja con 100 pastillas de 5 mg.
+Vitamina C, a 1 cuc, un blister de 10 tabletas de 500 mg.
+Vitamina E, a 15 cuc x caja de 100 capsulas blandas de 1000 UI
+Vitaminas complejo B, a 8 cuc una caja de 100 tabletas.
+MultiVitaminas y Minerales, a 12 cuc un pomo de 100 capsulas.
+Pepto-Bismol, a 10 cuc x frasco de 236 ml.
+Loperamida, a 2 cuc un blister de 10 cápsulas de 2 mg.  (Antidiarreico de acción prolongada y efecto rápido)
+
+{WordsKey1/, }
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+// Anuncio-Txt = 34Medic --------------------------------------------------------------------------------------------------------------------------------
+Medicinas{H} importadas y baratas: ✔DICLOFENAC(en_varias_presentaciones) ✔TRIPE.ANTIBIOTICO(crema) ✔IBUPROFENO ✔OVULOS
+☎7.832.8768  ☎5.331.7003
+                                                    
+LISTA DE MEDICAMENTOS:
+... Para los dolores tengo:
+... Diclofenac Potásico+Complejo B: 2.50 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B6 y B12, fecha de vencimiento en 2023
+... Diclofenac Sodico+Complejo B: 2 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1 y B12, fecha de vencimiento en 2021
+... Diclofenac Sodico+Paracetamol: 2 cuc x blister de 10, son tabletas de 50mg de diclofenac y 500mg Paracetamol.
+... Diclofenac Inyectable: 1 cuc x Ampula, cada ampula contiene 75 mg, fecha de vencimiento noviembre de 2020.
+... Diclofenac en Crema: 6 cuc, Además contiene, Mentol, Aceite de Eucalito y Escencia de Pino.
+
+... Ibuprofeno a 1 cuc el blister de 10 capsulas de 600 mg.
+... Ibuprofeno a 1.5 cuc el blister de 10 capsulas de 800 mg.
+
+Para problemas estomacales tengo:
+... Omeprazol a 1 cuc x capsulas de 20 mg. 
+... Ranitidina a 1 cuc x capsulas de 300 mg. 
+
+Para problemas de salud en general:
+... OMEGA 369 a 12 cuc x 100 tabletas de 1200 mg.
+
+Para infeciones de las mujeres tengo:
+... Lascovagil a 4 cuc x 10 ovulos con Metornidazol + Nistatina. 
+
+Para los riñones o el higado:
+... CHANCA PIEDRA a 12 cuc, pomo de 60 capsulas de 500 mg, para eliminar calculos renales y biliares.
+
+Para tratamiento de la Artritis:
+... Glucosamina Chondrotina 1500 mg, 18 cuc el frasco de 60 capsulas.
+  
+Para la salud en general (Colesterol, triglicedidos, etc.):  
+... Omega 369 a 12 cuc, pomo de 100 capsulas de 1200 mg 
+... Vitamina C a 1 cuc, un blister de 10 tabletas de 500 mg.
+... Vitamina E a 15 cuc, caja de 100 capsulas blandas de 1000 UI
+... Vitaminas complejo B a 8 cuc, caja de 100 tabletas.
+... MultiVitaminas y Minerales a 12 cuc, un pomo de 100 capsulas.
+... Acido Folico de 5mg a 8 cuc, la caja de 100 pastillas.
+  
+Para los hombres:
+... Tadalafil de 20 mg a 3 cuc blister de 4 pastilla (tambien conocido como Cialis o Pildora del fin de semana).
+... Via_gra de 100 mg a 3 cuc blister de 8 pastillas.
+... Mambo 36 (Tadalafil) de 20 mg a 1 cuc la pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+
+Para el Embarazo:
+... Prueba de Embarazo a 3 cuc el Kit
+... Píldora del día después a 5 cuc cada pastilla.
+  
+Para la diarrea:
+... Loperamida de 2 mg a 2 cuc un blister de 10 cápsulas.
+
+Para las infecciones: (Antibiotico)
+... Azitromicina de 500 mg a 2 cuc una cajita de 3 pastillas.
+... Sulfaprim de (80/400) mg a 1.5 cuc un bliter de 10 tabletas.
+... Ciprofloxacina de 500 mg a 1.5 cuc un bliter de 10 tabletas.
+... Metronidazol de 500 mg a 1 cuc un bliter de 10 tabletas.
+
+Para la escabiosis (Sarna);
+... Permetrina en crema 5% a 5 cuc un tubo de 30g
+
+Para los diabeticos:
+... Glibenclamida a 1 cuc un bliter de 10 tabletas de 5 mg.
+
+Para problemas estomacales: (Acidez, Indigestión, Malestar, Diarreas)
+... Pepto-Bismol a 10 cuc el frasco de 236 ml.
+
+Todo: {WordsKey1/, }
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales, Fecha de vencimiento Agosto del 2020
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+// Anuncio-Txt = 35Viag --------------------------------------------------------------------------------------------------------------------------------
+Medicamentos{H} compradas en el exterior ✔MAMBO36 ✔CIALIS ✔V*I*A*G*R*A ✔PILDORA.DIA.DESPUÉS ✔OMEGA3 ✔OMEPRAZOL ✔OVULOS
+☎7.832.8768  ☎5.331.7003
+ 
+Difrute las relaciones con su pareja al máximo, no deje pasar la oportunidad.
+
+Además tengo otros medicamentos:
+PARA LOS DOLORES
+... 2.. cuc, Diclofenac Sódico + Vitam. B, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B6 y B12.
+... 2.5 cuc, Diclofenac Potasico + Vitam. B, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12.
+... 2.. cuc, Diclofenac Potasico, 10 pastillas de 100mg.
+... 1.5 cuc, Diclofenac Sódico, 10 pastillas de 100mg.
+... 2.. cuc, Diclofenac con Paracetamol, 10 pastillas de 50/500 mg
+... 6.. cuc, Diclofenac en Crema, Pomo de 150 ml, dolores e inflamaciones localizadas, similar a voltaren.
+... 4.. cuc, Diclofenac en Gel, el tubo, dolores e inflamaciones localizadas, similar a voltaren.
+... 1.. cuc, Diclofenac Inyectable, cada ampula contiene 75 mg
+... 
+... 4.. cuc, Frinciones de Mentol, pomo de 150 ml, uso externo para dolores localizados.
+... 
+... 1.. cuc, Ibuprofeno 600 mg a el blister de 10 capsulas.
+... 1.5 cuc, Ibuprofeno 800 mg a el blister de 10 capsulas.
+  
+PARA EL ESTOMAGO: 
+... 1 cuc, Omeprazol de 20 mg.
+... 1 cuc, Ranitidina de 300 mg
+... 10 cuc, Pepto-Bismol un frasco de 236 ml.  (Para el estomago, Acidez, Malestar, Indigestión, Diarreas)
+
+  .
+SIMILAR A LA VIA_GRA: 
+... 1 cuc, Mambo 36 (Tadalafil), tambien conocido como Cialis o Pildora del fin de semana.
+... 3 cuc, Tadalafil, blíster de 4 pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+  
+SUPLEMENTO NUTRICIONAL: 
+... 15 cuc, Vitamina E la Caja de 100 pastillas.
+...  1 cuc, Vitamina C el blister de 10 tabletas 500 mg.
+... 12 cuc, Omega 369, el pomo de 100 pastillas 3000 mg.
+... 8. cuc, Vitaminas complejo B, la caja de 100 tabletas.
+... 12 cuc, MultiVitaminas y Minerales, el pomo de 100 capsulas.
+... 8. cuc, Acido Folico 5mg, la caja de 100 pastillas.
+  
+CALCULOS RENALES O BILIARES: 
+... 12 Chanca Piedra, un pomo de 60 capsulas de 500 mg.
+
+PARA LA ARTRITIS: 
+... 18 cuc, Glucosamina Chondrotina 1500 mg a el frasco de 60 capsulas.
+
+PARA EL EMBARAZO:
+... 3 cuc, Prueba de Embarazo.
+... 5 cuc, Píldora del día después.
+
+PARA LAS DIARREAS:
+... 2 cuc, Loperamida 2mg un blister de 10 cápsulas.
+
+ANTIBIOTICO:
+... 2 cuc, Azitromicina, cajita de 3 tabletas de 500 mg.
+... 1.5 cuc, Sulfaprim, bliter de 10 tabletas de (80/400) mg.
+... 1.5 cuc, Ciprofloxacina, bliter de 10 tabletas de 500 mg.
+... 1 cuc, Metronidazol, bliter de 10 tabletas de 500 mg.
+
+PARA DIABETICOS:
+... 1 cuc, Glibenclamida, bliter de 10 tabletas de 5 mg.
+
+PARA INFECCIÓN POR SARNA:
+... 5 cuc, Permetrina en crema 5%, un tubo de 30g
+
+  
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Key Words: {WordsKey1/, }
+
+// Anuncio-Txt = 36Lavad --------------------------------------------------------------------------------------------------------------------------------
+Pzas para lavadoras{H} automaticas y semi-atomaticas, tengo lo que necesitas, todas Nuevas y Originales, son Importadas
+☎7.832.8768  ☎5.331.7003
+
+Correas (A620, A700, A785, M20.5, M22) a 5 cuc
+Manguera de Salida de Semi-Automaticas a 6 cuc
+Manguera de Salida de Automaticas a 12 cuc
+Manguera de entrada de aqua a 15 cuc
+Manguera de drenaje (corta) a 10 cuc 
+Tapon con muelle a 4 cuc
+Sellos a 6 cuc
+Conmutador(Timer) de lavado a 8 cuc
+Conmutador(Timer) de secado a 7 cuc
+Botones a 30 cup
+Transmisión (Busing) (Daewoo y LG) a 8 cuc
+Bomba de Drenaje (Sin Cuerpo Plastico, Completa) a 25 ó 30 cuc
+Reductor (Lavadoras Semi-Automaticas) a 20 cuc
+
+Si necesita otra pieza puede pedirla y trataremos de buscarla
+
+{WordsKey2/, }
+
+Todas las piezas son compradas en el extranjero.
+
+// Anuncio-Txt = 37Medic --------------------------------------------------------------------------------------------------------------------------------
+Variedad de medicamentos{H} imporados ✔SULFAPRIM ✔CIPROFLOXACINA ✔AZITROMICINA ✔CREMA.TRIPE.ANTIBIOTICO ✔CLOTRIMAZOL ...
+☎7.832.8768  ☎5.331.7003
+
+Lista de Medicinas.
+2.5 cuc, DICLOFENAC POTÁSICO+COMPLEJO B, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12.
+2.. cuc, DICLOFENAC SODICO+COMPLEJO B, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B6 y B12.
+2.. cuc, DICLOFENAC+PARACETAMOL, 10 pastillas de 50mg de Diclofenac y 500mg de Paracetamol.
+2.. cuc, DICLOFENAC POTASICO, 10 pastillas de 100mg.
+6.. cuc, DICLOFENAC EN CREMA, Pomo de 150 ml, dolores e inflamaciones localizadas, similar a voltaren.
+4.. cuc, DICLOFENAC EN POMADA, tubo de 25g al 1%, dolores e inflamaciones localizadas, similar a voltaren.
+1.. cuc, DICLOFENAC INYECTABLE, cada ampula contiene 75 mg
+1.. cuc, OMEPRAZOL, 10 capsulas de 20 mg. 
+1.. cuc, RANITIDINA, 10 capsulas de 300 mg.
+12. cuc, OMEGA 369, 1 pomo con 100 capsulas de 1200mg
+8.. cuc, VITAMINAS COMPLEJO B, 1 caja de 100 tabletas.
+15. cuc, VITAMINA E, 1 caja con 100 capsulas de 1000 UI
+1.. cuc, VITAMINA C, un blister de 10 tabletas de 500 mg.
+12. cuc, CHANCA PIEDRA, pomo de 60 capsulas de 500 mg.
+4.. cuc, LASCOVAGIL, blister con 10 ovulos (Contienen Metronidazol y Nistatina)
+1.. cuc, IBUPROFENO 600 mg el blister de 10 capsulas.
+1.5 cuc, IBUPROFENO 800 mg el blister de 10 capsulas.
+18. cuc, GLUCOSAMINA & CHONDROITINA frasco con 60 capsulas
+3.. cuc, TADALAFIL de 20 mg el blister de 4 pastilla (tambien conocido como Cialis o Pildora del fin de semana).
+1.. cuc, MAMBO 36 (Tadalafil) de 20 mg, 1 una pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+3.. cuc, VIA_GRA de 100 mg el blister de 8 pastilla.
+8.. cuc, ACIDO FOLICO de 5mg, una caja con 100 pastillas.
+3.. cuc, PRUEBA DE EMBARAZO, un Kit.
+5.. cuc, PÍLDORA DEL DÍA DESPUÉS, una pastilla.
+12. cuc, MULTIVITAMINAS Y MINERALES, un pomo de 100 capsulas.
+2...cuc, AZITROMICINA de 500 mg, una cajita de 3 tabletas.
+1.5 cuc, SULFAPRIM de (80/400) mg un bliter de 10 tabletas.
+1.5 cuc, CIPROFLOXACINA de 500 mg un bliter de 10 tabletas.
+1.. cuc, METRONIDAZOL de 500 mg un bliter de 10 tabletas.
+1.. cuc, GLIBENCLAMIDA de 5 mg un bliter de 10 tabletas.
+10. cuc, PEPTO-BISMOL, un frasco de 236 ml.
+2.. cuc, LOPERAMIDA, un blister de 10 cápsulas de 2 mg.  (Es un Antidiarreico de acción prolongada y efecto rápido)
+5.. cuc, PERMETRINA en crema 5%, un tubo de 30g
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+{WordsKey1/, }
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+// Anuncio-Txt = 38Medic --------------------------------------------------------------------------------------------------------------------------------
+Tengo{H} lo que no hay en la farmacia ✔IBUPROFENO ✔DICLOFENAC(Varios tipo) ✔OMEGA369 ✔OMEPRAZOL ✔AZITROMICINA ✔SULFAPRIM
+☎7.832.8768  ☎5.331.7003
+
+Medicinas:
+2-- cuc, DICLOFENAC SÓDICO, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B6 y B12.
+2-- cuc, DICLOFENAC SÓDICO + PARACETAMOL, 10 pastillas de 50mg/500mg respectivamete.
+2-- cuc, DICLOFENAC POTÁSICO, 10 pastillas de 100mg.
+6-- cuc, DICLOFENAC EN CREMA, Pomo de 150 ml, dolores e inflamaciones localizadas, similar a voltaren.
+4-- cuc, DICLOFENAC EN GEL, tubo de 25 g al 1%, dolores e inflamaciones localizadas, similar a voltaren.
+1-- cuc, DICLOFENAC INYECTABLE, cada ampula contiene 75 mg
+1-- cuc, OMEPRAZOL, 10 capsulas de 20 mg. 
+2-- cuc, OMEPRAZOL, 10 capsulas de 40 mg. 
+1-- cuc, RANITIDINA, blister con 10 capsulas
+18- cuc, GLUCOSAMINA + CHONDROITINA frasco con 60 capsulas
+1-- cuc, IBUPROFENO 600 mg el blister de 10 capsulas.
+1.5 cuc, IBUPROFENO 800 mg el blister de 10 capsulas.
+8-- cuc, ACIDO FOLICO 5mg, una caja de 100 pastillas.
+4-- cuc, LASCOVAGIL (Metronidazol + Nistatina), tira de 10 ovulos.
+12- cuc, OMEGA 369, 1200 mg, un frasco de 100 tabletas.
+12- cuc, CHANCA PIEDRA, pomo con 60 capsulas de 500 mg, para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+1-- cuc, VITAMINA C, 10 tabletas de 500 mg.
+15- cuc, VITAMINA E, 100 capsulas de 1000 UI.
+8-- cuc, VITAMINAS COMPLEJO B, 100 tabletas.
+3-- cuc, TADALAFIL de 20 mg, blister de 4 pastilla (tambien conocido como Cialis o Pildora del fin de semana).
+1-- cuc, MAMBO 36 (Tadalafil) a 1 cuc la pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+3-- cuc, VIA_GRA de 100 mg, blister de 8 pastillas.
+2-- cuc, AZITROMICINA, cajita de 3 tabletas de 500 mg.
+1.5 cuc, SULFAPRIM, bliter de 10 tabletas de (80/400) mg.
+1.5 cuc, CIPROFLOXACINA, bliter de 10 tabletas de 500 mg.
+1-- cuc, METRONIDAZOL, bliter de 10 tabletas de 500 mg.
+1-- cuc, GLIBENCLAMIDA, bliter de 10 tabletas de 5 mg.
+3-- cuc, PRUEBA DE EMBARAZO, un Kit.
+5-- cuc, PÍLDORA DEL DÍA DESPUÉS, una pastilla.
+12- cuc, MULTIVITAMINAS Y MINERALES, un pomo de 100 capsulas.
+10- cuc, PEPTO-BISMOL, un frasco de 236 ml. (Para el estomago, Diarreas, Acidez, Indigestión, Malestar, etc.)
+2-- cuc, LOPERAMIDA, un blister de 10 cápsulas de 2 mg.      (Antidiarreico de acción prolongada y efecto rápido)
+5-- cuc, PERMETRINA EN CREMA 5%, un tubo de 30g
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+-> {WordsKey1/, }
+
+// Anuncio-Txt = 39Viag --------------------------------------------------------------------------------------------------------------------------------
+Lo más barato de revolico{H} ✔V_I_A_G_R_A ✔T_A_D_A_L_A_F_I_L  ✔DICLOFENAC(Varios) ✔AZITROMICINA ✔IBUPROFENO ✔OMEGA_369
+☎7.832.8768  ☎5.331.7003
+
+Tambien tengo: DICLOFENAC en Pastillas a 2 cuc y en Crema a 2 cuc, TADALAFIL a 1 cuc, RANITIDINA a 1 cuc, OMEPRAZOL a 1 cuc, VITAMINA E a 15 cuc, CICATRICURE a 10 cuc, CHANCA PIEDRA 12 cuc, Vitaminas complejo B a 8 cuc, Prueba de Embarazo a 3 cuc, Píldora del día después a 5 cuc, Glucosamina con Chondrotina a 18 cuc, MultiVitaminas y Minerales a 12 cuc, Loperamida a 2 cuc, Azitromicina a 2 cuc, Sulfaprim a 1.5, Ciprofloxacina a 1.5, Metronidazol a 1 cuc, Glibenclamida a 1 cuc, Vitamina C a 1 cuc, Ibuprofeno 1 cuc, Acido Folico 8 cuc (100 pastillas), Pepto-Bismol 10 cuc, Permetrina en crema 5 cuc.
+
+El TADALAFIL es una nueva formulación de la Via_gra, que tambien es conocido como Pildora del fin de semana o Cialis, porque su efecto dura mas de 36 horas, mientras que la Via_gra solo dura 4, tambien es bien tolerado cuando se ha ingerido alchol o comidas copiosas, mientras que la Via_gra tiene un efecto limitado en esos casos, tambien tiene menos efectos secundarios que la via_gra.
+
+La CHANCA PIEDRA, es para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+El CICATRICURE es para mejorar notablemente el aspecto y textura de las cicatrices
+
+La Glucosamina con Chondrotina, es para problemas de Artritis, ya que es un analgecio y antimflamatorio que recontrye los cartigolos.
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Todas las palabras: {WordsKey1/, }
+
+// Anuncio-Txt = 40Lavad --------------------------------------------------------------------------------------------------------------------------------
+Partes y Piezas de Lavadora{H}: ✔Bombas de drenaje ✔Timers ✔Busings(K500,LG,Daytron) ✔Correas ✔Sellos ✔Mangueras y mas
+☎7.832.8768  ☎5.331.7003
+
+Piezas de lavadoras:
+30 cup...(Botones)
+.6 cuc...(Manguera de Salida (lavadoras semi-automaticas))
+12 cuc...(Manguera de Salida (lavadoras automaticas))
+15 cuc...(Manguera de entrada de aqua)
+10 cuc...(Manguera de drenaje (corta)) ----------- Va entre el tanque y la bomba de drenaje en las lavadoras automaticas
+.6 cuc...(Sellos) -------------------------------- Es el que impide que salga el agua de la centrifuga
+.4 cuc...(Tapon con muelle) ---------------------- Es el que sella la salida del agua
+.8 cuc...(Timer de lavado) ----------------------- Son de 6 o 7 cables, se pueden adactar a cualquier lavadora 
+.7 cuc...(Timer de secado) ----------------------- Son de 3 cables
+.8 cuc...(Transmisión (Busing) para LG ----------- Es la pieza que una el poledor con las paletas de lavado
+.8 cuc...(Transmisión (Busing) K500 para Daewoo -- Es la pieza que una el poledor con las paletas de lavado
+25 cuc...(Bomba de Drenaje a 25 cuc (Sin cuerpo platico) - Bomba que saca el agua en las lavadoras automaticas
+30 cuc...(Bomba de Drenaje a 30 cuc (Completa) ----------- Bomba que saca el agua en las lavadoras automaticas
+20 cuc...(Reductor) -------------------------------------- Transmisión con el poleador de algunas lavadoras semi-automaticas
+.5 cuc...(Correa A620)
+.5 cuc...(Correa A700)
+.5 cuc...(Correa A785)
+.5 cuc...(Correa M20.5)
+.5 cuc...(Correa M22)
+
+Puede pedir la pieza que usted necesita y si la encontramos en menos de 1 mes la puede tener.
+ 
+{WordsKey2/, }
+
+Todas las piezas son nuevas, traidas del extranjero.
+
+// Anuncio-Txt = 41Medic --------------------------------------------------------------------------------------------------------------------------------
+Vendo varios Medicamentos{H} ✔TRIPLE ANTIBIOTICO(crema) ✔DICLOFENACO(varia presentaciones) ✔IBUPROFENO ✔CHANCA_PIEDRA
+☎7.832.8768  ☎5.331.7003
+ 
+Otras medicinas:
+OMEPRAZOL ------------------- ( 1 cuc), 10 capsulas de 20 mg. 
+RANITIDINA ------------------ ( 1 cuc), la tira de 10 capsulas
+DICLOFENAC SÓDICO ----------- ( 2 cuc), 10 pastillas de 100mg, Ademas contiene Vitamina B1, B6 y B12.
+DICLOFENAC con PARACETAMOL -- ( 2 cuc), 10 pastillas de 100mg, Ademas contiene Vitamina B1, B6 y B12.
+DICLOFENAC SÓDICO ----------- ( 2 cuc), 10 pastillas de 100mg, Sin Vitamina.
+DICLOFENAC POTÁSICO --------- (2.5 cuc), 10 pastillas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12.
+DICLOFENAC EN CREMA --------- ( 6 cuc), Pomo de 150 ml, dolores e inflamaciones localizadas, similar a voltaren.
+DICLOFENAC EN GEL ----------- ( 4 cuc), tubo de 25 g al 1%, dolores e inflamaciones localizadas, similar a voltaren.
+DICLOFENAC INYECTABLE ------- ( 1 cuc), cada ampula contiene 75 mg
+GLUCOSAMINA CHONDROITINA ---- (18 cuc), pomo de 60 pastollas, 1500 mg: Es un generador de cartilogos, para mejorar los dolores de artritis.
+OMEGA 369 ------------------- (12 cuc), un pomo de 100 tabletas de 1200 mg.
+OMEGA 3 --------------------- (10 cuc), un pomo de 100 tabletas de 1000 mg.
+VITAMINA E ------------------ (15 cuc), una caja de 100 capsulas blandas de 1000 UI.
+VITAMINA C ------------------ ( 1 cuc), un blister de 10 tabletas de 500 mg.
+VITAMINAS COMPLEJO B -------- ( 8 cuc), una caja de 100 tabletas.
+LASCOVAGIL ------------------ ( 4 cuc), 10 ovulos con Metronidazol y Nistatina.
+AZITROMICINA ---------------- ( 2 cuc), una cajita de 3 tabletas de 500 mg.
+SULFAPRIM ------------------- (1.5 cuc), 10 tabletas de (80/400) mg.
+CIPROFLOXACINA -------------- (1.5 cuc), 10 tabletas de 500 mg.
+METRONIDAZOL ---------------- (1 cuc), 10 tabletas de 500 mg.
+GLIBENCLAMIDA --------------- (1 cuc), 10 tabletas de 5 mg.
+IBUPROFENO 600 mg ----------- ( 1 cuc), un blister de 10 tabletas.
+IBUPROFENO 800 mg ----------- (1.5 cuc), un blister de 10 tabletas.
+CHANCA PIEDRA --------------- (12 cuc), un pomo de 60 tabletas.
+ACIDO FOLICO 5mg ------------ ( 8 cuc), una caja de 100 pastillas.
+TADALAFIL de 20 mg ---------- ( 3 cuc), un blister de 4 pastilla (tambien conocido como Cialis o Pildora del fin de semana).
+MAMBO 36 (Tadalafil) -------- ( 1 cuc), un sobre con una pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+VIA_GRA de 100 mg ----------- ( 3 cuc), un blister de 8 pastilla.
+PÍLDORA DEL DÍA DESPUÉS ----- ( 5 cuc), una pastilla.
+PRUEBA DE EMBARAZO ---------- ( 3 cuc), un Kit.
+MULTIVITAMINAS Y MINERALES -- (12 cuc), un pomo de 100 capsulas.
+PEPTO-BISMOL ---------------- (10 cuc), un frasco de 236 ml. (Acidez, Indigestión, Malestar, Diarreas)
+LOPERAMIDA ------------------ ( 2 cuc), un blister de 10 cápsulas de 2 mg.      (Para las diarreas agudas o cronicas)
+PERMETRINA EN CREMA 5% ------ ( 5 cuc), un tubo de 30g
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Indice: {WordsKey1/, }
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+// Anuncio-Txt = 42Medic --------------------------------------------------------------------------------------------------------------------------------
+Tengo Medicinas{H} al mejor precio ✔KETOCONAZOL ✔SULFAPRIM ✔CHANCA_PIEDRA ✔RANITIDINA ✔OMEPRAZOL ✔CIPROFLOXACINA ✔OVULOS
+☎7.832.8768  ☎5.331.7003
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Otras medicinas:
+1.. cuc, RANITIDINA, 10 capsulas de 300 mg
+1.. cuc, OMEPRAZOL, 10 capsulas de 20 mg. 
+2.. cuc, DICLOFENAC SÓDICO, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B6 y B12.
+2.. cuc, DICLOFENAC+PARACETAMOL, 10 pastillas de 50mg diclofenac y 500 mg de Paracetamol.
+2.5 cuc, DICLOFENAC POTASICO, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12.
+6.. cuc, DICLOFENAC EN CREMA, frasco de 150 ml, además contiene Mentol, Alcafor, Aceite de Eucalito y escencia de Pino.
+4.. cuc, DICLOFENAC EN GEL, tubo de 25 ml, diclofenac al 1% .
+12. cuc, OMEGA 369, 100 tabletas de 1200 mg.
+10. cuc, OMEGA 3, 100 tabletas de 1000 mg.
+12. cuc, CHANCA PIEDRA, pomo de 60 capsulas de 500 mg, para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+15. cuc, VITAMINA E, 100 tabletas de 1000 UI.
+1.. cuc, VITAMINA C, un blister de 10 pastillas de 500 mg.
+18. cuc, GLUCOSAMINA CHONDROITINA, frasco de 60 pastillas de 1500mg, Es un generador de cartilogos, para mejorar los dolores de artritis.
+4.. cuc, LASCOVAGIL 10 ovulos que contienen Metornidazol y Nistatina.
+1.. cuc, IBUPROFENO 600 mg, un blister de 10 tabletas.
+1.5 cuc, IBUPROFENO 800 mg, un blister de 10 tabletas.
+3.. cuc, TADALAFIL de 20 mg, un blister de 4 tabletas (tambien conocido como Cialis o Pildora del fin de semana).
+3.. cuc, VIA_GRA de 100 mg, un blister de 8 tabletas.
+1.. cuc, MAMBO 36 (Tadalafil) de 20 mg, una pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+1.. cuc, PRUEBA DE EMBARAZO, un kit.
+5.. cuc, PÍLDORA DEL DÍA DESPUÉS, una pastilla.
+8.. cuc, ACIDO FOLICO de 5mg, una caja de 100 pastillas.
+8.. cuc, VITAMINAS COMPLEJO B, una caja de 100 tabletas.
+12. cuc, MULTIVITAMINAS Y MINERALES, un frasco de 100 capsulas.
+2.. cuc, LOPERAMIDA, un blister de 10 cápsulas de 2 mg.       (Para las diarreas agudas o cronicas)
+10. cuc, PEPTO-BISMOL, un frasco de 236 ml. (Problemas del estomago, Diarreas, Indigestión, Malestar, Acidez)
+2...cuc, AZITROMICINA, cajita de 3 tabletas de 500 mg.
+1.5 cuc, SULFAPRIM, un bliter de 10 tabletas de (80/400) mg.
+1.5 cuc, CIPROFLOXACINA, un bliter de 10 tabletas de 500 mg.
+1.. cuc, METRONIDAZOL, un bliter de 10 tabletas de 500 mg.
+1.. cuc, GLIBENCLAMIDA, un bliter de 10 tabletas de 5 mg.
+5.. cuc, PERMETRINA EN CREMA 5%, un tubo de 30g
+
+Listado: {WordsKey1/, }
+
+Envase Sellado, comprado en el extranjero y contiene 150 ml. 
+
+// Anuncio-Txt = 43Viag --------------------------------------------------------------------------------------------------------------------------------
+Vendo{H} Barato ✔SIL_DE_NA_FIL (VIA_GRA) ✔MAMBO_36 ✔TA_DA_LA_FIL ✔CHANCA_PIEDRA ✔TRIPLE ANTIBIOTICO ✔CETIRIZINA ✔OMEGA3
+☎7.832.8768  ☎5.331.7003
+
+Otros productos:
+PARA LOS DOLORES: Diclofenac en todas sus distribuciones, Sódico 2 cuc, Potasico 2 cuc, con Paracetamol 2 cuc, En Gel 4 cuc, En crema 5 cuc e Inyectable 1 cuc.
+PARA EL ESTOMAGO: Omeprazol de 20 mg 1 cuc, Ranitidina 1 cuc.
+PARA LOS HOMBRES: Tadalafil (Mambo 36) a 1 cuc la pastilla, tambien conocido como Cialis o Pildora del fin de semana, Via_gra 3 cuc x 8.
+SUPLEMENTOS: OMEGA 369 a 12 cuc, VITAMINA E 1000 UI a 15 cuc la caja, VITAMINA C 500 mg a 1 cuc el blister, VITAMINAS COMPLEJO B a 8 cuc la caja, MULTIVITAMINAS Y MINERALES a 12 cuc el pomo, ACIDO FOLICO a 8 cuc (100 pastillas).
+
+PARA CICATRICES: Cicatricure a 10 cuc el tubo de 30g.
+CALCULOS RENALES O BILIARES: Chanca Piedra 12 cuc un pomo de 60 capsulas de 500 mg.
+PARA LA ARTRITIS: Glucosamina & Chondrotina 18 cuc un frasco con 60 tabletas de 1500 mg.
+PARA EL EMBARAZO: Kit de Prueba de Embarazo a 3 cuc, Píldora del día después a 5 cuc.
+PARA INFECCIONES: Azitromicina 500 mg a 2 cuc, una cajita de 3 tabletas, Sulfaprim a 1.5 cuc un bliter de 10 tabletas de (80/400) mg, Ciprofloxacina a 1.5 cuc un bliter de 10 tabletas de 500 mg, Metronidazol a 1 cuc un bliter de 10 tabletas de 500 mg.
+PARA INFECCIONES DE SARNA: Permetrina en crema 5%, un tubo de 30g
+
+PARA LA DIABETIS: Glibenclamida a 1 cuc un bliter de 10 tabletas de 5 mg.
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Palabras: {WordsKey1/, }
+
+// Anuncio-Txt = 44Lavad --------------------------------------------------------------------------------------------------------------------------------
+Pzas Importadas y economicas{H} ✔Bomba ✔Timer(varios) ✔Mangueras(Entrada|Salida) ✔Correas ✔Busing(Transmisión) ✔Sello
+☎7.832.8768  ☎5.331.7003
+
+Listado de piezas:
+Correa A620 a 5 cuc
+Correa A700 a 5 cuc
+Correa A720 a 5 cuc
+Correa A785 a 5 cuc
+Correa M20.5 a 5 cuc
+Correa M30.5 a 5 cuc
+Correa M22 a 5 cuc
+Sellos a 6 cuc ............................................ (Impide la salida de agua del compartimento de secado)
+Tapon con muelle a 4 cuc .................................. (Cierra la salida de agua del compartimiento de lavado)
+Manguera de Salida de lavadoras semi-automaticas a 6 cuc .. (Manguera que va por atras para la salida del agua)
+Manguera de Salida de lavadoras automaticas a 12 cuc ...... (Manguera que va por atras para la salida del agua)
+Manguera de drenaje (corta)) a 10 cuc ..................... (Va entre el tanque y la bomba de drenaje en las lavadoras automaticas)
+Manguera de entrada de aqua a 15 cuc ...................... (Es la que va de la pila a la lavadora)  
+Timer de lavado a 8 cuc ................................... (de 6 cables, se adapta a todas las lavadoras)
+Timer de secado a 7 cuc ................................... (de 3 cables)
+Transmisión (Busing) de LG a 8 cuc ........................ (Une las paletas de lavado con el poleador)
+Transmisión (Busing) K500 de Daewoo a 8 cuc ............... (Une las paletas de lavado con el poleador)
+Botones a 30 cup .......................................... (Es el boton que maneja el timer)
+Bomba de Drenaje a 25 cuc (Sin cuerpo platico) ............ (Es la que saca el agua en las lavadoras automaticas)
+Bomba de Drenaje a 30 cuc (Completa) ...................... (Es la que saca el agua en las lavadoras automaticas)
+Reductor a 20 cuc ......................................... (Transmisión con el poleador de algunas lavadoras semi-automaticas)
+  
+Si necesita otra pieza puede pedirla y trataremos de buscarla, si la encontramos en menos de 1 mes la puede tener.
+   
+{WordsKey2/, }
+
+Todos los piezas son nuevas.
+
+// Anuncio-Txt = 45Medic --------------------------------------------------------------------------------------------------------------------------------
+Medicinas{H} compradas afuera: ✔OMEGA369 ✔AZITROMICINA ✔CIPROFLOXACINA ✔OMEPRAZOL ✔IBUPROFENO ✔DICLOFENACO ✔RANITIDINA
+☎7.832.8768  ☎5.331.7003
+
+Omeprazol a 1 cuc x tira de 10 capsulas de 20 mg. 
+Ranitidina a 1 cuc x 10 capsulas de 300 mg.
+Vitamina E a 15 cuc x 1 caja con 100 capsulas de 1000 UI.
+Vitamina C a 1 cuc x 1 blister con 10 tabletas de 500 mg.
+Vitaminas complejo B a 8 cuc x 1 caja con 100 tabletas.
+Omega 369 a 12 cuc x 1 pomo con 100 capsulas de 1200mg
+Ibuprofeno 600 mg a 1 cuc el blister de 10 capsulas.
+Ibuprofeno 800 mg a 1.5 cuc el blister de 10 capsulas.
+Chanca Piedra a 12 cuc pomo con 60 capsulas de 500 mg.
+Lascovagil, ovulos de metronidazol+nistatina a 4 cuc blister con 10 ovulos. 
+Azitromicina a 2 cuc, cajita de 3 tabletas de 500 mg.
+Sulfaprim a 1.5 cuc un bliter de 10 tabletas de (80/400) mg.
+Ciprofloxacina a 1.5 cuc un bliter de 10 tabletas de 500 mg.
+Metronidazol a 1 cuc un bliter de 10 tabletas de 500 mg.
+Glibenclamida a 1 cuc un bliter de 10 tabletas de 5 mg.
+Diclofenac Potásico con Vitamina B a 2.5 cuc x blister de 10, son tabletas de 100mg.
+Diclofenac Potásico a 2 cuc x blister de 10, son tabletas de 100mg.
+Diclofenac Sodico con Vitamina B a 2 cuc x blister de 10, son tabletas de 100mg.
+Diclofenac Sodico a 1.5 cuc x blister de 10, son tabletas de 100mg.
+Diclofenac con Paracetamol a 2 cuc x blister de 10, son tabletas de 50mg y 500mg respectivamete.
+Diclofenac en Crema a 6 cuc el pomo de 150 ml.
+Diclofenac en Gel a 4 cuc el tubo de 25 g al 1%.
+Diclofenac Inyectable a 1 cuc x Ampula, cada ampula contiene 75 mg.
+Glucosamina Chondroitina frasco con 60 capsulas, 18 cuc.
+Tadalafil blister de 4 pastilla de 20 mg, 3 cuc.           (Tambien conocido como Cialis o Pildora del fin de semana)
+Mambo 36 (Tadalafil) a 1 cuc la pastilla.                  (Otra variante del Tadalafil, equivalente a Cialis o Pildora del fin de semana)
+Via_gra blister de 8 pastilla de 100 mg, 3 cuc.
+Acido Folico de 5mg, una caja de 100 pastillas, 8 cuc.
+Prueba de Embarazo, un Kit, 3 cuc.
+Píldora del día después, 5 cuc.
+MultiVitaminas y Minerales, 12 cuc.
+Pepto-Bismol un frasco de 236 ml, a 10 cuc.  (Para el estomago, Acidez, Malestar, Indigestión, Diarreas)
+Loperamida un blister de 10 cápsulas de 2 mg, 2 cuc.       (Antidiarreico)
+Permetrina en crema 5% un tubo de 30g, 5 cuc.
+
+Glucosamina Chondroitina: Es un generador de cartilogos, para mejorar los dolores de artritis, juega un papel importante en la formación de tendones y ligamentos, regenerando Manos, Pies, Rodillas, Espalda, Cuellos, Caderas, Tobillos.
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+-> {WordsKey1/, }
+
+// Anuncio-Txt = 46Medic --------------------------------------------------------------------------------------------------------------------------------
+✔Medicinas{H} para los dolores ⭐DICLOFENAC(Vitam_B|Sodico|Potasico) ⭐IBUPROFENO ✔OMEGA_369 ✔AZITROMICINA ✔CIPROFLOXACINA
+☎7.832.8768  ☎5.331.7003
+
+Vendo: 
+OMEPRAZOL ---------------- : 1 cuc (de 20 mg)
+RANITIDINA --------------- : 1 cuc.
+DICLOFENAC SÓDICO -------- : 2 cuc (Sin vitaminas)
+DICLOFENAC SÓDICO -------- : 2 cuc (Con vitaminas B)
+DICLOFENAC POTASICO ------ : 2 cuc.
+DICLOFENAC POTASICO ------ : 2.5 cuc (Con vitaminas B)
+DICLOFENAC SÓDICO -------- : 2 cuc (Con vitaminas B)
+DICLOFENAC+PARACETAMOL --- : 2 cuc.
+DICLOFENAC EN GEL -------- : 4 cuc.
+DICLOFENAC INYECTABLE ---- : 1 cuc.
+AZITROMICINA ------------- : 2 cuc.
+SULFAPRIM ---------------- : 1.5 cuc.
+CIPROFLOXACINA ----------- : 1.5 cuc.
+METRONIDAZOL ------------- : 1 cuc.
+GLIBENCLAMIDA ------------ : 1 cuc.
+PERMETRINA EN CREMA 5% --- : 5 cuc.
+GLUCOSAMINA CHONDROITINA - : 18 cuc.
+CHANCA PIEDRA ------------ : 12 cuc.
+OMEGA 369 ---------------- : 12 cuc.
+VITAMINA C --------------- : 1 cuc.
+VITAMINA E --------------- : 15 cuc.
+VITAMINAS COMPLEJO B ----- : 8 cuc.
+LASCOVAGIL --------------- : 4 cuc.
+IBUPROFENO 600 mg -------- : 1 cuc.
+IBUPROFENO 800 mg -------- : 1 cuc.
+TADALAFIL 20 mg ---------- : 3 cuc. (= Cialis o Fin de Semana)
+MAMBO 36 20 mg ----------- : 1 cuc. (Ota variante de tadalafil)
+VIA_GRA 100 mg ----------- : 3 cuc.
+PRUEBA DE EMBARAZO ------- : 3 cuc.
+PÍLDORA DEL DÍA DESPUÉS -- : 5 cuc.
+ACIDO FOLICO 5mg --------- : 8 cuc. (una caja de 100 pastillas)
+MULTIVITAMINAS Y MINERALES : 12 cuc.
+PEPTO-BISMOL ------------- : 10 cuc. (Problemas estomacales, Acidez, Diarreas, Indigestión, Malestar)
+LOPERAMIDA --------------- : 2 cuc. (Antidiarreico de acción prolongada y efecto rápido)
+
+El DICLOFENAC es una Analgesico, Antineuretico, Antineuralgico y Antirreumatico, que sive para padecimientos como Artritis, Reumatismo, Dolores Lumbargícos, Cervicales, branquiales, faciales, del trigemino intercostal, hepaticos, radiculitis, neuropatias alcohólicas y diabéticas, fibromiología, espndilitis, toceduras, esquinces, fracturas, etc.
+
+Glucosamina Chondroitina: Es un generador de cartilogos, para mejorar los dolores de artritis, juega un papel importante en la formación de tendones y ligamentos, regenerando Manos, Pies, Rodillas, Espalda, Cuellos, Caderas, Tobillos.
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+{WordsKey1/, }
+
+// Anuncio-Txt = 47Viag --------------------------------------------------------------------------------------------------------------------------------
+✔+Potencia +Poder +Placer{H} ⭐V_I_A_G_R_A ⭐TA_DA_LA_FIL ⭐MAMBO36 ✔DICLOFENAC ✔RANITIDINA ✔AZITROMICINA ✔BENADRILINA
+☎7.832.8768  ☎5.331.7003
+
+Tengo Además estas otras medicinas:
+2.5 cuc, Diclofenac Potasico + Vitam. B, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12.
+2.. cuc, Diclofenac Sódico, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B6 y B12.
+2.. cuc, Diclofenac Potasico, 10 pastillas de 100mg.
+1.5 cuc, Diclofenac Sódico, 10 pastillas de 100mg.
+2.. cuc, Diclofenac + Paracetamol, 10 pastillas de 50 / 500 mg respectivamente.
+5.. cuc, Diclofenac en Crema, Pomo de 150 ml, dolores e inflamaciones localizadas, similar a voltaren.
+1.. cuc, Diclofenac Inyectable, cada ampula contiene 75 mg
+1.. cuc, Ibuprofeno 600 mg a el blister de 10 capsulas.
+1.5 cuc, Ibuprofeno 800 mg a el blister de 10 capsulas.
+1.. cuc, Omeprazol, 10 capsula de 20 mg. 
+2.. cuc, Omeprazol, 10 capsula de 40 mg. 
+1.. cuc, Ranitidina, 10 capsula de 300 mg. 
+1.. cuc, Mambo 36 (Tadalafil), 1 pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+15. cuc, Vitamina E, caja de 100 capsulas de 1000 UI
+1.. cuc, Vitamina C, un blister de 10 tabletas de 500 mg.
+8.. cuc, Vitaminas complejo B, caja de 100 tabletas.
+12. cuc, MultiVitaminas y Minerales, pomo de 100 capsulas.
+2.. cuc, Azitromicina, la cajita de 3 tabletas de 500 mg.
+1.5 cuc, Sulfaprim, el bliter de 10 tabletas de (80/400) mg.
+1.5 cuc, Ciprofloxacina, el bliter de 10 tabletas de 500 mg.
+1.. cuc, Metronidazol, el bliter de 10 tabletas de 500 mg.
+1.. cuc, Glibenclamida, el bliter de 10 tabletas de 5 mg.
+12. cuc, Omega 369, Frasco de 100 capsulas de 1200 mg.
+12. cuc, Chanca Piedra, Pomo de 60 capsulas de 500 mg, sirve para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+10. cuc, Cicatricure, tubo de 30g, mejora notablemente el aspecto y textura de las cicatrices.
+18. cuc, Glucosamina con Chondrotina de 1500 mg, el frasco de 60 capsulas.
+8.. cuc, Acido folico de 5mg, una caja de 100 pastillas.
+3.. cuc, Prueba de Embarazo, a el Kit.
+5.. cuc, Píldora del día después.
+10 .cuc, Pepto-Bismol el pomo de 236 ml.  (Para el estomago, Malestar, Acidez, Indigestión, Diarreas)
+2.. cuc, Loperamida 2mg, 10 cápsulas.     (Antidiarreico de acción prolongada y efecto rápido)
+5.. cuc, Permetrina en crema 5%, un tubo de 30g
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+   
+Key Words: {WordsKey1/, }
+
+// Anuncio-Txt = 48Lavad --------------------------------------------------------------------------------------------------------------------------------
+Arregle su lavadora{H} ✔Correa ✔Bomba_de_Agua ✔Manguera ✔Timer(Simple|Doble) ✔Busing(Transmisión) ✔Reductor ✔Sello
+☎7.832.8768  ☎5.331.7003
+
+Litado de las piezas que tengo:
+Manguera de Salida de Lavadora Semi-Automaticas ...... 6 cuc
+Manguera de Salida de lavadoras Automaticas .......... 12 cuc
+Manguera de drenaje (corta) .......................... 10 cuc 
+Manguera de entrada de aqua .......................... 15 cuc
+Tapon con muelle de lavadora ......................... 4 cuc
+Sellos de lavadora ................................... 6 cuc
+Timer de lavado de Lavadora .......................... 8 cuc
+Timer de secado de Lavadora .......................... 7 cuc
+Botones de Lavadora .................................. 30 cup
+Bomba de Drenaje(Sin cuerpo platico) ................. 25 cuc
+Bomba de Drenaje(Completa) ........................... 30 cuc
+Reductor ............................................. 20 cuc
+Transmisión (Busing) de lavadora LG .................. 8 cuc
+Transmisión (Busing) K500 de lavadora Daewoo ......... 8 cuc
+Correa de Lavadora A620 .............................. 5 cuc
+Correa de Lavadora A700 .............................. 5 cuc
+Correa de Lavadora A785 .............................. 5 cuc
+Correa de Lavadora M20.5 ............................. 5 cuc
+Correa de Lavadora M22 ............................... 5 cuc
+Correa de Lavadora M30.5 ............................. 5 cuc
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Todos las piezas son traidas del extranjero y son nuevas.
+
+{WordsKey2/, }
+
+

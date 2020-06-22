@@ -1,0 +1,100 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Actualizar Anuncios</title>
+  
+  <style type="text/css">
+    li a { background-color:#FFFFFF; text-decoration:none; color:#000000; font-size:medium; }
+    .selected a { color:#07861C; font-weight:bold; background-color:#CEFAF6; }
+  </style>
+</head>
+
+<body>
+
+<ol>
+  <li><a target="_blank" href="https://www.revolico.com/modificar-anuncio.html?key=4xMz3jE972Dt33585022">
+    Vendo Pulidoras INGCO, disco de 115 mm, sellada en su caja 0 kilometro</a>
+  </li><br/>
+  <li><a target="_blank" href="https://www.revolico.com/modificar-anuncio.html?key=l6wTke1NsHF933587500">
+    Pulidoras de 4 1/2 marca INGCO de 12500 rmp y 1010 Watts de potencia</a>
+  </li><br/>
+  <li><a target="_blank" href="https://www.revolico.com/modificar-anuncio.html?key=Axr3CHMABgHP33589410">
+    Tengo Pulidoras INGCO, Celladas es su caja y buen precio, mas de 1000 watts de potencia</a>
+  </li><br/>
+  <li><a target="_blank" href="https://www.revolico.com/modificar-anuncio.html?key=b0xTjQhEXOwN33592668">
+    Nuevas sin abir, Vendo Pulidoras INGCO de disco de 4.5 pulgadas</a>
+  </li><br/>
+  <li><a target="_blank" href="https://www.revolico.com/modificar-anuncio.html?key=7r22bUPwNyxU33597153">
+    Pulidoras profecionales de gran potencia marca INGCO con disco de cuatro pulgadas y media</a>
+  </li><br/>
+  <li><a target="_blank" href="https://www.revolico.com/modificar-anuncio.html?key=XnmchDuMrSZS33601977">
+    Vendo Pulidora profecional INGCO gran potencia y acabado, de color amarilla y 1010 watts ☎5.331.7003 ☎7.832.8768
+	</a>
+  </li><br/>
+  <li><a target="_blank" href="https://www.revolico.com/modificar-anuncio.html?key=7ivIEKOzSpCy33604425">
+    Llame al ☎7.832.8768 ó al ☎5.331.7003, tengo PULIDORAS INGCO sin estrenar de color amatillo y machas cosas más
+	</a>
+  </li><br/>
+  <li><a target="_blank" href="https://www.revolico.com/modificar-anuncio.html?key=HuLqfx3pVJI933604461">
+    Compre su Pulidoras INGCO profecional de mas de mil watts de potencia y 12500 revoluciones ☎7.832.8768 ☎5.331.7003
+	</a>
+  </li><br/>
+  <li><a target="_blank" href="https://www.revolico.com/modificar-anuncio.html?key=HGuheBSU45xV33607146">
+    Compra ahora que se acaban, PULIDORAS INGCO de 1010 watts de power y disco de 4.5
+	</a>
+  </li><br/>
+  <li><a target="_blank" href="https://www.revolico.com/modificar-anuncio.html?key=SvhmRxfnagQU33613473">
+    No se la pierda, llame ya, PULIDORAS INGCO profecionales de un elgante color amarillo ☎7.832.8768 ☎5.331.7003
+	</a>
+  </li><br/>
+  <li><a target="_blank" href="https://www.revolico.com/modificar-anuncio.html?key=3aqP1s7bybsR33617422">
+    Pulidoras INGCO UAG10108-3, Amarilla, 115 mm, 12 500 rmp, 1010 watts, 110 volt, 60 Hz ☎7.832.8768 ☎5.331.7003
+	</a>
+  </li><br/>
+  <li><a target="_blank" href="https://www.revolico.com/modificar-anuncio.html?key=PRBivbHwtsxk33619496">
+    PULIDORAS marca INGCO, nuevas de pakete en su caja, de gran potencia al mejor precio ☎7.832.8768 ☎5.331.7003
+	</a>
+  </li><br/>
+</ol>  
+  
+<script type="text/javascript">
+function SelectClick()
+  {
+  var items = document.getElementsByTagName("li");
+  
+  for( var i=0; i<items.length; ++i )
+    {
+	if( localStorage ) 
+	  {
+	  var sel = localStorage.getItem("LastPulid");
+	  if( sel == items[i].innerText )  
+	  items[i].className = "selected";
+	  }
+      
+    items[i].onclick = function(e)
+      {
+      for( var j=0; j<items.length; ++j )
+        {
+        var elem = items[j];  
+        if( elem===this ) 
+          {
+          elem.className = "selected";
+	      if( localStorage ) 
+            localStorage.setItem("LastPulid", elem.innerText );
+          }
+        else              
+          elem.className = "";
+        }
+      };
+    }
+  }
+
+SelectClick();
+</script>  
+  
+</body>
+</html>

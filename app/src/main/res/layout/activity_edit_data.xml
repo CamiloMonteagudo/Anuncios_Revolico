@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  tools:context=".EditDataActivity">
+  
+  <com.google.android.material.appbar.AppBarLayout
+    android:id="@+id/appBarLayout2"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:theme="@style/AppTheme.AppBarOverlay"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent">
+    
+    <androidx.appcompat.widget.Toolbar
+      android:id="@+id/toolbar"
+      android:layout_width="match_parent"
+      android:layout_height="?attr/actionBarSize"
+      android:background="?attr/colorPrimary"
+      app:popupTheme="@style/AppTheme.PopupOverlay" />
+  
+  </com.google.android.material.appbar.AppBarLayout>
+  
+  
+  <ScrollView
+    android:layout_width="0dp"
+    android:layout_height="0dp"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintHorizontal_bias="1.0"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/appBarLayout2">
+  
+    <TableLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="8dp"
+      android:layout_marginEnd="8dp">
+  
+      <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+  
+        <TextView
+          android:id="@+id/lbIdAnunc"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:labelFor="@id/txtIdAnunc"
+          android:paddingStart="4dp"
+          android:paddingEnd="0dp"
+          android:text="@string/lbIdAnunc"
+          android:textAlignment="viewEnd"
+          android:textStyle="bold" />
+  
+        <EditText
+          android:id="@+id/txtIdAnunc"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:ems="4"
+          android:inputType="text"
+          android:paddingTop="0dp"
+          android:paddingBottom="6dp"
+          android:textSize="16sp"
+          android:importantForAutofill="no" />
+  
+        <Space
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:layout_weight="1" />
+  
+      </LinearLayout>
+  
+      <TextView
+        android:id="@+id/lbUrls"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="4dp"
+        android:paddingEnd="0dp"
+        android:textStyle="bold"
+        android:text="@string/lbUrls"
+        android:textAlignment="viewEnd" />
+  
+      <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+    
+        <TextView
+          android:id="@+id/lbUrlIsertar"
+          android:labelFor="@id/txtUrlIsertar"
+          android:layout_width="40dp"
+          android:layout_height="wrap_content"
+          android:gravity="end"
+          android:paddingStart="4dp"
+          android:paddingEnd="0dp"
+          android:text="@string/lbInsertar"
+          android:textAlignment="viewEnd"
+          tools:ignore="SmallSp"
+          android:textSize="8sp" />
+    
+        <EditText
+          android:id="@+id/txtUrlIsertar"
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:ems="4"
+          android:inputType="textUri"
+          android:paddingTop="0dp"
+          android:paddingBottom="6dp"
+          android:layout_weight="1"
+          android:importantForAutofill="no"
+          android:textSize="16sp" />
+      </LinearLayout>
+  
+      <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+    
+        <TextView
+          android:id="@+id/lbUrlMostrar"
+          android:labelFor="@id/txtUrlMostrar"
+          android:layout_width="40dp"
+          android:layout_height="wrap_content"
+          android:gravity="end"
+          android:paddingStart="4dp"
+          android:paddingEnd="0dp"
+          android:text="@string/lbMostrar"
+          android:textAlignment="viewEnd"
+          tools:ignore="SmallSp"
+          android:textSize="8sp" />
+    
+        <EditText
+          android:id="@+id/txtUrlMostrar"
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:ems="4"
+          android:inputType="textUri"
+          android:paddingTop="0dp"
+          android:paddingBottom="6dp"
+          android:layout_weight="1"
+          android:importantForAutofill="no"
+          android:textSize="16sp" />
+      </LinearLayout>
+  
+      <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+    
+        <TextView
+          android:id="@+id/lbUrlModificar"
+          android:labelFor="@id/txtUrlModificar"
+          android:layout_width="40dp"
+          android:layout_height="wrap_content"
+          android:gravity="end"
+          android:text="@string/lbModificar"
+          tools:ignore="SmallSp"
+          android:textSize="8sp" />
+    
+        <EditText
+          android:id="@+id/txtUrlModificar"
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:ems="4"
+          android:inputType="textUri"
+          android:paddingTop="0dp"
+          android:paddingBottom="6dp"
+          android:layout_weight="1"
+          android:importantForAutofill="no"
+          android:textSize="16sp" />
+      </LinearLayout>
+  
+      <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+    
+        <TextView
+          android:id="@+id/lbUrlBorrar"
+          android:labelFor="@id/txtUrlBorrar"
+          android:layout_width="40dp"
+          android:layout_height="wrap_content"
+          android:gravity="end"
+          android:paddingStart="4dp"
+          android:paddingEnd="0dp"
+          android:text="@string/lbBorrar"
+          android:textAlignment="viewEnd"
+          tools:ignore="SmallSp"
+          android:textSize="8sp" />
+    
+        <EditText
+          android:id="@+id/txtUrlBorrar"
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:ems="4"
+          android:inputType="textUri"
+          android:paddingTop="0dp"
+          android:paddingBottom="6dp"
+          android:layout_weight="1"
+          android:importantForAutofill="no"
+          android:textSize="16sp" />
+      </LinearLayout>
+  
+      <TextView
+        android:id="@+id/lbPrecio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingStart="4dp"
+        android:paddingEnd="0dp"
+        android:text="@string/lbPrecio"
+        android:textAlignment="center"
+        android:textStyle="bold" />
+  
+      <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    
+        <TextView
+          android:id="@+id/lbTagPrecio"
+          android:labelFor="@id/txtTagPrecio"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:paddingStart="4dp"
+          android:paddingEnd="0dp"
+          android:text="@string/lbTagName"
+          tools:ignore="SmallSp"
+          android:textSize="8sp" />
+    
+        <TextView
+          android:id="@+id/lbAttrPrecio"
+          android:labelFor="@id/txtAttrPrecio"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:paddingStart="4dp"
+          android:paddingEnd="0dp"
+          android:text="@string/lbAttrName"
+          tools:ignore="SmallSp"
+          android:textSize="8sp" />
+      </TableRow>
+  
+      <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    
+        <EditText
+          android:id="@+id/txtTagPrecio"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:ems="8"
+          android:importantForAutofill="no"
+          android:inputType="text"
+          android:nextFocusDown="@id/txtAttrPrecio"
+          android:paddingTop="0dp"
+          android:paddingBottom="6dp"
+          android:textSize="16sp" />
+    
+        <EditText
+          android:id="@+id/txtAttrPrecio"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:ems="8"
+          android:inputType="text"
+          android:paddingTop="0dp"
+          android:paddingBottom="6dp"
+          android:importantForAutofill="no"
+          android:textSize="16sp" />
+      </TableRow>
+  
+      <TextView
+        android:id="@+id/lbValuePrecio"
+        android:labelFor="@id/txtValuePrecio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingStart="4dp"
+        android:paddingEnd="0dp"
+        android:text="@string/lbValueName"
+        tools:ignore="SmallSp"
+        android:textSize="8sp" />
+  
+      <EditText
+        android:id="@+id/txtValuePrecio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:inputType="text"
+        android:ems="8"
+        android:paddingTop="0dp"
+        android:paddingBottom="6dp"
+        android:importantForAutofill="no"
+        android:textSize="16sp" />
+  
+      <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+  
+        <TextView
+          android:id="@+id/lbTitle"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:paddingStart="4dp"
+          android:paddingEnd="0dp"
+          android:text="@string/lbTitle"
+          android:textAlignment="center"
+          android:textStyle="bold" />
+  
+        <Space
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:layout_weight="1" />
+  
+        <TextView
+          android:id="@+id/lbTitleCount"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginEnd="8dp"
+          android:textStyle="bold" />
+
+      </LinearLayout>
+  
+      <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+  
+        <TextView
+          android:id="@+id/lbTagTitle"
+          android:labelFor="@id/txtTagTitle"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:paddingStart="4dp"
+          android:paddingEnd="0dp"
+          android:text="@string/lbTagName"
+          tools:ignore="SmallSp"
+          android:textSize="8sp"/>
+  
+        <TextView
+          android:id="@+id/lbAttrTitle"
+          android:labelFor="@id/txtAttrTitle"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:paddingStart="4dp"
+          android:paddingEnd="0dp"
+          android:text="@string/lbAttrName"
+          android:textSize="8sp"
+          tools:ignore="SmallSp" />
+      </TableRow>
+  
+      <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+  
+        <EditText
+          android:id="@+id/txtTagTitle"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:ems="8"
+          android:importantForAutofill="no"
+          android:inputType="text"
+          android:nextFocusDown="@id/txtAttrTitle"
+          android:paddingTop="0dp"
+          android:paddingBottom="6dp"
+          android:textSize="16sp" />
+  
+        <EditText
+          android:id="@+id/txtAttrTitle"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:ems="8"
+          android:inputType="text"
+          android:paddingTop="0dp"
+          android:paddingBottom="6dp"
+          android:importantForAutofill="no"
+          android:textSize="16sp" />
+      </TableRow>
+  
+      <TextView
+        android:id="@+id/lbValueTitle"
+        android:labelFor="@id/txtValueTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingStart="4dp"
+        android:paddingEnd="0dp"
+        android:text="@string/lbValueName"
+        android:textSize="8sp"
+        tools:ignore="SmallSp" />
+  
+      <EditText
+        android:id="@+id/txtValueTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:inputType="textMultiLine"
+        android:ems="8"
+        android:paddingTop="0dp"
+        android:paddingBottom="6dp"
+        android:importantForAutofill="no"
+        android:textSize="16sp" />
+  
+      <TextView
+        android:id="@+id/lbAnuncio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingStart="4dp"
+        android:paddingEnd="0dp"
+        android:text="@string/lbAnuncio"
+        android:textAlignment="center"
+        android:textStyle="bold" />
+  
+      <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+  
+        <TextView
+          android:id="@+id/lbTagAnunc"
+          android:labelFor="@id/txtTagAnunc"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:paddingStart="4dp"
+          android:paddingEnd="0dp"
+          android:text="@string/lbTagName"
+          android:textSize="8sp"
+          tools:ignore="SmallSp" />
+  
+        <TextView
+          android:id="@+id/lbAttrAnunc"
+          android:labelFor="@id/txtAttrAnunc"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:paddingStart="4dp"
+          android:paddingEnd="0dp"
+          android:text="@string/lbAttrName"
+          tools:ignore="SmallSp"
+          android:textSize="8sp" />
+      </TableRow>
+  
+      <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+  
+        <EditText
+          android:id="@+id/txtTagAnunc"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:ems="8"
+          android:importantForAutofill="no"
+          android:inputType="text"
+          android:nextFocusDown="@id/txtAttrAnunc"
+          android:paddingTop="0dp"
+          android:paddingBottom="6dp"
+          android:textSize="16sp" />
+    
+        <EditText
+          android:id="@+id/txtAttrAnunc"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:ems="8"
+          android:inputType="text"
+          android:paddingTop="0dp"
+          android:paddingBottom="6dp"
+          android:importantForAutofill="no"
+          android:textSize="16sp" />
+      </TableRow>
+  
+      <TextView
+        android:id="@+id/lbValueAnunc"
+        android:labelFor="@id/txtValueAnunc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingStart="4dp"
+        android:paddingEnd="0dp"
+        android:text="@string/lbValueName"
+        tools:ignore="SmallSp"
+        android:textSize="8sp" />
+  
+      <EditText
+        android:id="@+id/txtValueAnunc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:inputType="textMultiLine"
+        android:ems="8"
+        android:paddingTop="0dp"
+        android:paddingBottom="6dp"
+        android:importantForAutofill="no"
+        android:textSize="16sp" />
+  
+      <TextView
+        android:id="@+id/lbMail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingStart="4dp"
+        android:paddingEnd="0dp"
+        android:text="@string/lbMail"
+        android:textAlignment="center"
+        android:textStyle="bold" />
+  
+      <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+  
+        <TextView
+          android:id="@+id/lbTagMail"
+          android:labelFor="@id/txtTagMail"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:paddingStart="4dp"
+          android:paddingEnd="0dp"
+          android:text="@string/lbTagName"
+          tools:ignore="SmallSp"
+          android:textSize="8sp" />
+  
+        <TextView
+          android:id="@+id/lbAttrMail"
+          android:labelFor="@id/txtAttrMail"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:paddingStart="4dp"
+          android:paddingEnd="0dp"
+          android:text="@string/lbAttrName"
+          tools:ignore="SmallSp"
+          android:textSize="8sp" />
+      </TableRow>
+  
+      <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+  
+        <EditText
+          android:id="@+id/txtTagMail"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:ems="8"
+          android:importantForAutofill="no"
+          android:inputType="text"
+          android:nextFocusDown="@id/txtAttrMail"
+          android:paddingTop="0dp"
+          android:paddingBottom="6dp"
+          android:textSize="16sp" />
+    
+        <EditText
+          android:id="@+id/txtAttrMail"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:ems="8"
+          android:inputType="text"
+          android:paddingTop="0dp"
+          android:paddingBottom="6dp"
+          android:importantForAutofill="no"
+          android:textSize="16sp" />
+      </TableRow>
+  
+      <TextView
+        android:id="@+id/lbValueMail"
+        android:labelFor="@id/txtValueMail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingStart="4dp"
+        android:paddingEnd="0dp"
+        android:text="@string/lbValueName"
+        tools:ignore="SmallSp"
+        android:textSize="8sp" />
+  
+      <EditText
+        android:id="@+id/txtValueMail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:inputType="textEmailAddress"
+        android:ems="8"
+        android:paddingTop="0dp"
+        android:paddingBottom="6dp"
+        android:importantForAutofill="no"
+        android:textSize="16sp" />
+  
+      <TextView
+        android:id="@+id/lbTelef"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingStart="4dp"
+        android:paddingEnd="0dp"
+        android:text="@string/lbTelef"
+        android:textAlignment="center"
+        android:textStyle="bold" />
+  
+      <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+  
+        <TextView
+          android:id="@+id/lbTagTelef"
+          android:labelFor="@id/txtTagTelef"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:paddingStart="4dp"
+          android:paddingEnd="0dp"
+          android:text="@string/lbTagName"
+          tools:ignore="SmallSp"
+          android:textSize="8sp" />
+  
+        <TextView
+          android:id="@+id/lbAttrTelef"
+          android:labelFor="@id/txtAttrTelef"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:paddingStart="4dp"
+          android:paddingEnd="0dp"
+          android:text="@string/lbAttrName"
+          tools:ignore="SmallSp"
+          android:textSize="8sp" />
+      </TableRow>
+  
+      <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+  
+        <EditText
+          android:id="@+id/txtTagTelef"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:ems="8"
+          android:importantForAutofill="no"
+          android:inputType="text"
+          android:nextFocusDown="@id/txtAttrTelef"
+          android:paddingTop="0dp"
+          android:paddingBottom="6dp"
+          android:textSize="16sp" />
+    
+        <EditText
+          android:id="@+id/txtAttrTelef"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="1"
+          android:ems="8"
+          android:inputType="text"
+          android:paddingTop="0dp"
+          android:paddingBottom="6dp"
+          android:importantForAutofill="no"
+          android:textSize="16sp" />
+      </TableRow>
+  
+      <TextView
+        android:id="@+id/lbValueTelef"
+        android:labelFor="@id/txtValueTelef"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingStart="4dp"
+        android:paddingEnd="0dp"
+        android:text="@string/lbValueName"
+        tools:ignore="SmallSp"
+        android:textSize="8sp" />
+  
+      <EditText
+        android:id="@+id/txtValueTelef"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:inputType="phone"
+        android:ems="8"
+        android:paddingTop="0dp"
+        android:paddingBottom="6dp"
+        android:importantForAutofill="no"
+        android:textSize="16sp" />
+      
+      <TextView
+        android:id="@+id/lbKeyList1"
+        android:labelFor="@id/txtKeyWords1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="4dp"
+        android:paddingEnd="0dp"
+        android:textStyle="bold"
+        android:text="@string/lbKeyList1"
+        android:textAlignment="viewEnd" />
+    
+      <EditText
+        android:id="@+id/txtKeyWords1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="4"
+        android:paddingTop="0dp"
+        android:paddingBottom="6dp"
+        android:layout_weight="1"
+        android:importantForAutofill="no"
+        android:textSize="16sp" />
+  
+      <TextView
+        android:id="@+id/lbKeyList2"
+        android:labelFor="@id/txtKeyWords2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="4dp"
+        android:paddingEnd="0dp"
+        android:textStyle="bold"
+        android:text="@string/lbKeyList2"
+        android:textAlignment="viewEnd" />
+  
+      <EditText
+        android:id="@+id/txtKeyWords2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="4"
+        android:paddingTop="0dp"
+        android:paddingBottom="6dp"
+        android:layout_weight="1"
+        android:textSize="16sp"
+        android:importantForAutofill="no"
+        tools:ignore="TooManyViews" />
+
+    </TableLayout>
+
+  </ScrollView>
+  
+
+</androidx.constraintlayout.widget.ConstraintLayout>

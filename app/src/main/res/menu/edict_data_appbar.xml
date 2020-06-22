@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  
+  <item
+    android:id="@+id/mnuSaveChanges"
+    android:icon="@drawable/ic_save_black_24dp"
+    android:title="@string/mnuSaveChanges"
+    app:showAsAction="ifRoom" />
+  <item
+    android:id="@+id/mnuRestoreSource"
+    android:icon="@drawable/ic_restore_black_24dp"
+    android:title="@string/mnuRestoreSource"
+    app:showAsAction="ifRoom" />
+  <item
+    android:id="@+id/mnuInsertMark"
+    android:icon="@drawable/ic_library_add_black_24dp"
+    android:title="@string/mnuInsertMark"
+    app:showAsAction="ifRoom" />
+  <item
+    android:id="@+id/mnuShowUrls"
+    android:checkable="true"
+    android:checked="false"
+    android:title="@string/mnuShowUrls" />
+  <item
+    android:id="@+id/mnuShowTags"
+    android:checkable="true"
+    android:title="@string/mnuShowTags" />
+</menu>

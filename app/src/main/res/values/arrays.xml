@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="marks_name">
+        <item>Identificador del Anuncio</item>
+        <item>Número del día del mes</item>
+        <item>Nombre del mes</item>
+        <item>Dos letras aleatorias</item>
+        <item>Nombre día de la semana</item>
+        <item>Nombre del día del mes</item>
+        <item>Correo electronico aleatorio</item>
+        <item>Lista de palabras claves 1</item>
+        <item>Lista de palabras claves 2</item>
+    </string-array>
+    
+    <string-array name="marks_code">
+        <item>{Id}</item>
+        <item>{Dia}</item>
+        <item>{Mes}</item>
+        <item>{H}</item>
+        <item>{DiaSem}</item>
+        <item>{DiaStr}</item>
+        <item>{Email}</item>
+        <item>{WordsKey1/, }</item>
+        <item>{WordsKey2/, }</item>
+    </string-array>
+    
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnu_nav_previo"
+        android:icon="@drawable/ic_navigate_before_black_24dp"
+        android:title="@string/navPrevio" />
+    <item
+        android:id="@+id/mnu_nav_publicar"
+        android:icon="@drawable/ic_public_black_24dp"
+        android:title="@string/navPublicar" />
+    <item
+        android:id="@+id/mnu_nav_editar"
+        android:icon="@drawable/ic_edit_black_24dp"
+        android:title="@string/navEditar" />
+    <item
+        android:id="@+id/mnu_nav_proximo"
+        android:icon="@drawable/ic_navigate_next_black_24dp"
+        android:title="@string/navNext" />
+</menu>

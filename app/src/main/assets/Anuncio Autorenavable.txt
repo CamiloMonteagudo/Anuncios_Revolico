@@ -1,0 +1,120 @@
+// Url-Txt = https://www.revolico.com/compra-venta/otros/insertar-anuncio.html
+// Categoria-TagName = select
+// Categoria-AttrName = subcategory
+// Categoria-Txt = 44
+// Titulo-TagName = input
+// Titulo-AttrName = ad-title
+// Descripción-TagName = textarea
+// Descripción-AttrName = ad-description
+// Mail-TagName = input
+// Mail-AttrName = ad-email
+// Mail-Txt = c.monteagudo@gmail.com
+// Telef-TagName = input
+// Telef-AttrName = ad-phone
+// Telef-Txt = 7 832 8768, 5 331 7003
+
+// Anuncio-Txt = 01Medic --------------------------------------------------------------------------------------------------------------------------------
+MEDICINAS:Diclofenac⭐Ibuprofeno⭐Vitaminas⭐Antibioticos⭐Permetrina⭐Chanca piedra⭐Ovulos⭐Omega⭐Glucosamina+Chondrotina
+7 832 8768 ó 5 331 7003
+
+PARA LOS DOLORES TENGO:
+..2.00 cuc Diclofenac Potásico 100 mg, blister de 10 tabletas
+..2.50 cuc Diclofenac Potásico 100 mg + Complejo B (B1, B2, B6 y B12), blister de 10 tabletas
+..1.50 cuc Diclofenac Sodico 100 mg, blister de 10 tabletas
+..2.00 cuc Diclofenac Sodico 100 mg + Complejo B (B6 y B12), blister de 10 tabletas
+..2.00 cuc Diclofenac 50 mg + Paracetamol 500 mg, blister de 10 tabletas
+..4.00 cuc Diclofenac en Gel 1%, tubo de 25 g.
+..8.00 cuc Diclofenac en Gel 1% (Voltaren), tubo de 100 g.
+..6.00 cuc Diclofenac en Crema, pomo de 150 ml (Tambien contiene Aceite de Eucalipto, Esencia de Pino, Salicilato de Metilo,Alcanfor).
+..1.00 cuc Diclofenac Inyectable, Ampula de 75 mg.
+
+..1.00 cuc Ibuprofeno 600 mg, blister de 10 tabletas.
+..1.50 cuc Ibuprofeno 800 mg, blister de 10 tabletas.
+..8.00 cuc Ibuprofeno 200 mg, pomo de 100 tabletas.
+
+..10.0 cuc Paracetamol 500 mg, pomo de 100 tabletas.
+
+..5.00 cuc Fricciones con Mentol, frasco de 150 ml (Contiene Mentol, Alcanfor, Aceite de Eucalipto y Esencia de Pino).
+..5.00 cuc Creama Artritol, frasco de 112 g (Contiene Glucosamina y Mentol, para dolores e inflamaciones producidos por Artritis, Lumbago, Bulsitis, etc.)
+
+PARA PROBLEMAS ESTOMACALES TENGO:
+..1.00 cuc Omeprazol 20 mg, tira de 10 capsulas.
+..1.00 cuc Ranitidina 300 mg, tira de 10 tabletas. 
+..6.00 cuc Pepto-Bismol, Pomo de 4 oz.
+..10.0 cuc Pepto-Bismol, Pomo de 8 oz.
+
+SUPLEMENTOS PARA LA SALUD EN GENERAL TENGO:
+..12.0 cuc Omega 369, pomo de 100 capsulas de 1200 mg. 
+..10.0 cuc Omega 3, pomo de 100 capsulas de 1000 mg. 
+..8.00 cuc Acido Folico, una caja de 100 pastillas.
+
+..12.0 cuc MultiVitaminas y Minerales, un pomo de 100 capsulas (Contiene 16 vitaminas y minerales).
+..8.00 cuc Aceite de Higado de Bacalao (Vitamina A + D), un pomo de 100 capsulas.
+..1.00 cuc Vitamina C 500 mg, blister de 10 tabletas.
+..8.00 cuc Vitamina D 400 IU, un pomo de 100 tabletas.
+..10.0 cuc Vitamina D 1000 IU, un pomo de 120 tabletas
+..15.0 cuc Vitamina E, caja de 100 capsulas blandas de 1000 UI.
+..10.0 cuc Vitamina E, pomo de 100 capsulas blandas de 400 UI.
+..4.00 cuc Complejo B (B1,B2,B6 y B12) inyectable, frasco de 10 ml.
+..8.00 cuc Complejo B tabletas, caja de 100 tabletas.
+
+PARA INFECCIONES, ANTIBIOTICOS Y OTROS:
+..2.00 cuc Azitromicina 500 mg, caja de 3 tabletas.
+..1.50 cuc Sulfaprin (80/400) mg, blister de 10 tabletas.
+..1.50 cuc Ciprofloxacina 500 mg, blister de 10 tabletas.
+..1.50 cuc Tetraciclina 500 mg, blister de 10 tabletas.
+..1.00 cuc Metronidazol 500 mg, blister de 10 tabletas.
+
+..4.00 cuc Tripe antibiotico en crema (Clotrimazol+Gentamicina+Betametasona), tubo de 30g
+..5.00 cuc Ketoconazol 2% en crema, tubo de 30g.
+..4.00 cuc Nistatina en Crema, tubo de 30g.
+..4.00 cuc Permetrina 5% en Crema, tubo de 30g.
+..4.00 cuc Clotrimazol 1% en Crema, tubo de 20g.
+..3.00 cuc Tolnaftato 1% en Crema, tubo de 28 g.
+
+..4.00 cuc Ovulos de Metronidazol y Nistatina (Lazcovagil)
+
+PARA ALERGIAS, ANTIESTAMINICOS:
+..1.00 cuc Benadrilina 25 mg, blister de 10 tabletas.
+..1.50 cuc Cetirizina 10 mg, blister de 10 tabletas. 
+..1.00 cuc Loratadina 10 mg, blister de 10 tabletas.
+ 
+PARA LA DISFUNCIÓN ERÉCTIL:
+..3.00 cuc Sildenafil (Via_gra) de 100 mg, blister de 8 pastillas.
+..3.00 cuc Tadalafi_l de 20 mg, blister de 4 pastilla. (tambien conocido como Cialis o Pildora del fin de semana)
+..1.00 cuc Mambo 36 de 20 mg, sobre de una pastilla .(tambien conocido como Cialis o Pildora del fin de semana)
+
+HIPERTENSIÓN Y CORAZÓN
+..1.00 cuc Aspirina cardilogica 81 mg, blister de 10.
+..15.0 mn Atenolol 50 mg, blister de 10.
+..1.00 cuc Captopril 25 mg, blister de 10.
+..1.00 Losartan potásico 100 mg, blister de 10 tabletas
+..5.00 cuc Losartan potásico 50 mg, frasco de 90 tabletas
+..1.00 Furosemida 40 mg, blister de 10 tabletas
+
+PARA TRATAMIENTO DE LA ARTRITIS:
+..18.0 cuc Glucosamina Chondrotina 1500 mg, frasco de 60 capsulas.
+..20.0 cuc Glucosamina Chondrotina 1500 mg, frasco de 100 capsulas.
+..5.00 cuc Artritol (Glucosamina en crema), frasco de 112 g
+
+PARA CALCULOS RENALES Y BILIARES:
+..12 cuc Chanca Piedra 500 mg, pomo con 60 capsulas.
+
+PARA EVITAR Y CONOCER EL EMBARAZO:
+..3.00 cuc Prueba de Embarazo, un Kit
+..5.00 cuc Píldora del día después, caja de una tableta.
+ 
+PARA LA DIARREA:
+..2.00 cuc Loperamida 2 mg, blister de 10 cápsulas.
+ 
+PARA LA DIABETIS:
+..1.00 cuc Glibenclamida, blister de 10 cápsulas.
+ 
+OTRAS COSAS:
+..3.00 cuc Crema de Hidrocortizona, tubo de 14g.
+..4.00 cuc Creama de lactato de amonio 12%, tubo de 140g.
+
+..2.00 cuc Spray Vaginal
+
+..3.00 cuc Pastillero, de 14 divisiones
+..6.00 cuc Termometro Digital

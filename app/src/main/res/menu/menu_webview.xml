@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+  
+  <item
+    android:id="@+id/mnu_web_getdatos1"
+    android:icon="@drawable/ic_save_black_24dp"
+    android:title="@string/mnu_web_getdatos1"
+    app:showAsAction="ifRoom" />
+  <item
+    android:id="@+id/mnu_web_getdatos2"
+    android:icon="@drawable/ic_save_black_24dp"
+    android:title="@string/mnu_web_getdatos2"
+    app:showAsAction="ifRoom" />
+  <item
+    android:id="@+id/mnu_web_prevpg"
+    android:icon="@drawable/ic_navigate_before_white_24dp"
+    android:title="@string/mnu_web_prevpg"
+    app:showAsAction="ifRoom" />
+  <item
+    android:id="@+id/mnu_web_nextpg"
+    android:icon="@drawable/ic_navigate_next_white_24dp"
+    android:title="@string/mnu_web_nextpg"
+    app:showAsAction="ifRoom" />
+  <item
+    android:id="@+id/mnu_web_reload"
+    android:icon="@drawable/ic_refresh_black_24dp"
+    android:title="@string/mnu_web_reload"
+    app:showAsAction="ifRoom" />
+  <item android:id="@+id/mnu_web_openOut" android:checkable="true" android:title="@string/url_open_out" />
+  <item android:id="@+id/mnu_web_url" android:title="@string/OpenUrl" />
+  <item
+    android:id="@+id/mnu_web_modify"
+    android:title="@string/mnu_web_modify" />
+  <item
+    android:id="@+id/mnu_web_delete"
+    android:title="@string/mnu_web_delete" />
+  <item
+    android:id="@+id/mnu_web_view"
+    android:title="@string/mnu_web_view" />
+</menu>

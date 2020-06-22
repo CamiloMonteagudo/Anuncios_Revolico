@@ -1,0 +1,493 @@
+// Url-Txt = file:///D:/01_Proyectos/Anuncios/Anuncios/bin/Debug/Insertar un anuncio - Revolico.html
+// Url-Txt = https://www.revolico.com/compra-venta/otros/insertar-anuncio.html
+// Titulo-TagName = input
+// Titulo-AttrName = title
+// Descripción-TagName = textarea
+// Descripción-AttrName = description
+// Mail-TagName = input
+// Mail-AttrName = email
+// Mail-Txt = {ID}{Dia}{Mes}@gmail.com
+// Telef-TagName = input
+// Telef-AttrName = phone
+// Telef-Txt = 7 832 8768 ó 5 331 7003
+
+// Anuncio-Txt = 01Viag --------------------------------------------------------------------------------------------------------------------------------
+{H}••••V_I_A_G_R_A.blíster.de.8.pastillas.por.solo.x.3.CUC 5,331,7003\7,832,8768
+1 blíster de 8 por 3 cuc, son adquiridas en el extranjero, fecha de venciento 2021.
+cada viagra tiene 100mg de Sidenafil Citrato, con lo que se logra la potencia y máxima duración.
+
+Tambien tengo:
+Diclofenac Potásico + Vitamina B: 2.5 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12, fecha de vencimiento en 2023
+Diclofenac Sódico   + Vitamina B: 2 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B6 y B12, fecha de vencimiento en 2020
+Diclofenac + Paracetamol: 2 cuc x blister de 10, son tabletas de 50mg y 500mg respectivamente.
+Diclofenac Potasico: 2 cuc x blister de 10, son tabletas de 100mg, vencen en el 2021.
+Diclofenac en Gel: 4 cuc x tubo al 1%, para dolores e inflamaciones localizadas, similar al Voltaren
+Diclofenac en Crema: 6 cuc el pomo de 150 ml, para dolores e inflamaciones localizadas, similar al Voltaren, pero contiene otras sustancias realajantes y antimflamatorias como el Aceite de Eucalito, la Escencia de Pino, Silicato de Mentol y otros.
+Diclofenac Inyectable: 1 cuc x Ampula, cada ampula contiene 75 mg, fecha de vencimiento noviembre de 2020.
+Frinciones de Mentol: 4 cuc x el pomo de 150 ml, uso externo para dolores localizados.
+Omeprazol a 1 cuc x capsula de 20 mg. 
+Ranitidina a 1 cuc x blister con 10 capsulas
+Acido Folico a 8 cuc x una caja de 100 pastillas de 5 mg.
+Omega 369 a 12 cuc x pomo de 100 pastillas
+Vitamina E a 15 cuc x caja de 100 capsulas
+Vitamina C a 1 cuc x blister de 10 tabletas de 500 mg.
+Tadalafil (Mambo 36) a 1 cuc la pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+Tadalafil a 3 cuc blister de 4 pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+Chanca Piedra a 12 cuc, pomo de 60 capsulas de 500 mg, para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+Ibuprofeno 600 mg a 1 cuc el blister de 10 capsulas.
+Ibuprofeno 800 mg a 1.5 cuc el blister de 10 capsulas.
+Glucosamina Chondrotina 1500 mg a 18 cuc el frasco de 60 capsulas.
+Píldora del día después a 5 cuc cada pastilla.
+Prueba de Embarazo a 3 cuc el Kit
+Vitaminas complejo B a 8 cuc una caja de 100 tabletas.
+MultiVitaminas y Minerales a 12 cuc un pomo de 100 capsulas.
+Pepto-Bismol a 10 cuc un frasco de 236 ml.  (Para el estomago, Acidez, Indigestión, Diarreas, Malestar)
+Loperamida a 2 cuc un blister de 10 cápsulas de 2 mg.      (Para las diarreas agudas o cronicas)
+Azitromicina a 2 cuc una cajita de 3 tabletas de 500 mg.
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Teléfono Cel : 5 331 7003
+Teléfono Fijo: 7 832 8768
+
+Key Words: Diclofenac Sódico / Ranitidina / Glucosamina / Diclofenaco Potásico / Acido Folico / Pepto-Bismol / Ibuprofeno / Estomago / Paracetamol / Azitromicina / Medicamentos / Medicinas / Vitamina E / Inyectable / {ID}{DiaSem} / Viagra / {DiaStr}De{Mes} / Voltaren / Chanca Piedra / Cicatricure / Tadalafil / Cialis / Mambo / Fin de Semana / Bismuto / Sodico / Vitamina C / Omeprazol /
+
+// Anuncio-Txt = 02Viag --------------------------------------------------------------------------------------------------------------------------------
+{H}••••Medicamentos:V_I_A_G_R_A, Omeprazol y Diclofenac, Ovulos, Vatamina E
+tel: 5,331,7003 \ 7,832,8768, 8 viagras por 3 cuc, son originales compradas en el extranjero.
+Son de máxima duración y potencia. Cada viagra contiene 100mg de Citrato de Sidenafil, 
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Frinciones de Mentol: 4 cuc x el pomo de 150 ml, uso externo para dolores localizados.
+Omeprazol a 1 cuc x blister de 10 capsulas de 20 mg.
+Ranitidina a 1 cuc x blister con 10 capsulas
+Omega 369 a 12 cuc x pomo de 100 pastillas
+Vitamina E a 15 cuc x caja de 100 capsulas
+Vitamina C a 1 cuc x blister de 10 tabletas de 500 mg.
+Vitaminas complejo B a 8 cuc una caja de 100 tabletas.
+MultiVitaminas y Minerales a 12 cuc un pomo de 100 capsulas.
+Azitromicina a 2 cuc una cajita de 3 tabletas de 500 mg.
+Tadalafil (Mambo 36) a 1 cuc la pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+Tadalafil a 3 cuc blister de 4 pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+Chanca Piedra a 12 cuc, pomo que contiene 60 capsulas de 500 mg, para eliminar sustancis nocivas en el higado y calculos renales ó biliares.
+Ibuprofeno 600 mg a 1 cuc el blister de 10 capsulas.
+Ibuprofeno 800 mg a 1.5 cuc el blister de 10 capsulas.
+Glucosamina Chondrotina 1500 mg a 18 cuc el frasco de 60 capsulas.
+Acido Folico 5mg a 8 cuc la caja de 100 pastillas.
+Prueba de Embarazo a 3 cuc el Kit.
+Píldora del día después a 5 cuc cada pastilla.
+Pepto-Bismol a 10 cuc, un frasco de 236 ml.  (Para el estomago, Indigestión, Acidez, Malestar, Diarreas)
+Loperamida a 2 cuc, un blister de 10 cápsulas de 2 mg.      (Antidiarreico de acción prolongada y efecto rápido)
+
+El Diclofenac es en todas sus presentaciones: 
+.... Diclofenac Potásico + Vitamina B: 2.5 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12, fecha de vencimiento en 2023
+.... Diclofenac Sódico   + Vitamina B: 2 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B6 y B12, fecha de vencimiento en 2020
+.... Diclofenac Sódico  + Paracetamol: 2 cuc x blister de 10 tabletas que contienen 50mg de Diclofenac y 500 de Paracetamol.
+.... Diclofenac Potasico: 2 cuc x blister de 10, son tabletas de 100mg, vencen en el 2021.
+.... Diclofenac en Gel: 4 cuc x tubo al 1%, para dolores e inflamaciones localizadas, similar al Voltaren
+.... Diclofenac en Crema: 6 cuc el pomo de 150 ml, para dolores e inflamaciones localizadas, similar al Voltaren, pero contiene otras sustancias realajantes y antimflamatorias como el Aceite de Eucalito, la Escencia de Pino, Silicato de Mentol y otros.
+.... Diclofenac Inyectable: 1 cuc x Ampula, cada ampula contiene 75 mg, fecha de vencimiento noviembre de 2020.
+  
+Teléfonos:
+   Cel : 5 331 7003
+   Fijo: 7 832 8768
+   
+Key Words: Diclofenac Sódico / Bismuto / Ranitidina / Diclofenaco Potásico / Estomago / Azitromicina / Medicamentos / Ibuprofeno / Paracetamol / Pepto-Bismol / Medicinas / Vitamina E /  Inyectable / {ID}{DiaSem} / Viagra / {DiaStr}De{Mes} / Voltaren / Acido Folico / Chanca Piedra / Cicatricure / Tadalafil / Cialis / Mambo / Fin de Semana / Sodico / Vitamina C / Glucosamina / Omeprazol /
+
+// Anuncio-Txt = 03Viag --------------------------------------------------------------------------------------------------------------------------------
+{H}••••V_I_A_G_R_A.y.T_A_D_A_L_A_F_I_L.compradas.en.el.extranjero, 7•832•8768
+ ó 5,331,7003, una tirilla por 3 cuc, fecha de vencimiento 2021.
+
+El S_i_l_d_e_n_a_f_i_l (más conocido como VIAGRA) es de 100 mg, es un estimulante sexual para lograr más fortaleza y duración de la erección, para disfrutar de las relaciones con tu pareja con más potencia, más poder y más placer. Se toma 1 hora aproximadamente antes de tener relaciones.
+
+Tambien vendo:
+2.5 cuc x 10 pastillas de Diclofenac Potasico, 100mg + Vitamina B1, B2, B6 y B12.
+2.. cuc x 10 pastillas de Diclofenac Potasico, 100mg.
+2.. cuc x 10 pastillas de Diclofenac Sódico, 100mg + Vitamina B1, B6 y B12.
+2.. cuc x 10 pastillas de Diclofenac+Paracetamol, 50mg y 500mg respectivamente
+6.. cuc x 1 pomo de Diclofenac en Crema de 150 ml.
+4.. cuc x 1 tubo de Diclofenac en Gel.
+1.. cuc x 1 Ampula de Diclofenac Inyectable, 75 mg
+1.. cuc x 10 Capsulas de Omeprazol, 20 mg. 
+1.. cuc x 10 Capsulas de Ranitidina, 300 mg.
+15. cuc x 100 Capsulas blandas de Vitamina E, 1000 UI
+1.. cuc x 10 pastillas de Vitamina C de 500 mg.
+8.. cuc x 100 tabletas de Vitaminas complejo B.
+8.. cuc x 100 tabletas de Acido Folico de 5mg.
+12. cuc x 1 Frasco de Omega 369, 1200 mg.
+1.. cuc x 1 tableta de Mambo 36 (Tadalafil), tambien conocido como Cialis o Pildora del fin de semana.
+3.. cuc x 4 tabletas de Tadalafil, tambien conocido como Cialis, Mambo 36 o Pildora del fin de semana.
+12. cuc x 1 pomo de Chanca Piedra, tubo con 60 capsulas de 500 mg, para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+1.. cuc x 10 pastillas de Ibuprofeno 600 mg.
+1.5 cuc x 10 pastillas de Ibuprofeno 800 mg.
+18. cuc x 1 pomo de Glucosamina + Chondrotina 1500 mg el frasco de 60 capsulas.
+2.. cuc x 1 cajita de Azitromicina de 500 mg.
+3.. cuc x 1 kit, de Prueba de Embarazo.
+5.. cuc x 1 pastilla, de la Píldora del día después.
+12. cuc x 1 pomo con 100 capsulas de MultiVitaminas y Minerales.
+10. cuc x 1 pomo de 236 ml de Pepto-Bismol.  (Para el estomago, Diarreas, Acidez, Malestar, Indigestión)
+2.. cuc x 1 blister de Loperamida con 10 cápsulas de 2 mg.       (Antidiarreico de acción prolongada y efecto rápido)
+
+Teléfono Cel : 5 331 7003
+Teléfono Fijo: 7 832 8768
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Key Words: Diclofenac / Sódico / Bismuto / Tadalafil / Voltaren / Ibuprofeno / Azitromicina / {DiaStr}De{Mes} / Medicamentos / Paracetamol / Ranitidina / Cicatricure / Pepto-Bismol / Diclofenaco / Viagra / Potásico / Medicinas / Vitamina E / {ID}{DiaSem}  / Chanca Piedra / Cialis / Mambo / Glucosamina / Vitamina C / Sodico / Acido Folico / Fin de Semana / Omeprazol /
+
+// Anuncio-Txt = 04Viag --------------------------------------------------------------------------------------------------------------------------------
+{H}••••Vendo, V_I_A_G_R_A, la más barata de revolico, Diclofenac y Omeprazol
+ Cel : 5 331 7003, Fijo: 7 832 8768
+
+LA VIAGRA es a 3 cuc x bister de 8 tambletas y sirve para la disfunción eréctil.
+EL OMEPRAZOL es a 1 cuc o 2 cuc y sive para problemas estomacales.
+LA RANITIDINA es a 1 cuc y sive para problemas estomacales.
+LA VITAMINA E, es 15 cuc la caja, es un suplemanto nutricional que sirve para mejorar la salud en general.
+LA VITAMINA C, es a 1 cuc un blister de 10 tabletas de 500 mg.
+LAS VITAMINAS COMPLEJO B, son a 8 cuc una caja de 100 tabletas.
+LAS MULTIVITAMINAS Y MINERALES, son a 12 cuc un frasco de 100 capsulas.
+EL OMEGA 369, es a 12 cuc, es un suplemanto nutricional que sirve para mejorar la salud en general.
+EL MAMBO 36 (Tadalafil), es a 1 cuc la tableta, tambien conocido como Cialis o Pildora del fin de semana.
+LA CHANCA PIEDRA, es a 12 cuc un pomo de 60 capsulas de 500 mg, sirve para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+
+EL DICLOFENAC, Potasico de 100mg es a 2 cuc.
+EL DICLOFENAC, Potasico de 100mg con Vitamina B1,B2,B6 y B12 es a 2.5 cuc.
+EL DICLOFENAC, Sodico de 100mg con Vitamina B1,B6 y B12 es a 2 cuc.
+EL DICLOFENAC+PARACETAMOL, es a 2 cuc.
+EL DICLOFENAC, En Crema es a 6 cuc el pomo de 150 ml.
+EL DICLOFENAC, En Gel es a 4 cuc el tubo.
+EL DICLOFENAC, Inyectable es a 1 cuc el ampula de 75 mg.
+
+La AZITROMICINA es a 2 cuc la cajita de 3 tabletas de 500 mg.
+LAS FRICIONES DE MENTOL, son a 4 cuc el pomo de 150 ml.
+EL IBUPROFENO 600 mg, es a 1 cuc el blister de 10 capsulas.
+EL IBUPROFENO 800 mg, es a 1.5 cuc el blister de 10 capsulas.
+LA GLUCOSAMINA Chondrotina 1500 mg, es a 18 cuc el frasco de 60 capsulas.
+EL ACIDO FOLICO, es 8 cuc, una caja de 100 pastillas de 5 mg.
+LA PÍLDORA DEL DÍA DESPUÉS, es a 5 cuc cada pastilla.
+LA PRUEBA DE EMBARAZO, es a 3 cuc el Kit.
+EL PEPTO-BISMOL es a 10 cuc, un frasco de 236 ml.  (Para el estomago, Diarreas, Acidez, Malestar, Indigestión)
+LA LOPERAMIDA es a 2 cuc, el blister de 10 cápsulas.       (Para las diarreas agudas o cronicas)
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Key Words: Pepto-Bismol / Diclofenac / Acido Folico / Estomago / Tadalafil / Azitromicina / {DiaStr}De{Mes} / Cicatricure / Omega / Sódico / Bismuto / Ibuprofeno / Paracetamol / Fin de Semana / Medicamentos / Potásico / Ranitidina / Medicinas / Inyectable / Diclofenaco / Glucosamina / Chanca Piedra / Viagra / {ID}{DiaSem} / Vitamina C / Voltaren / Vitamina E / Cialis / Mambo /
+
+// Anuncio-Txt = 05Viag --------------------------------------------------------------------------------------------------------------------------------
+{H}••••La.pastilla.azul.para.los.hombres.llamar.al. 5•331•7003 \ 7•832•8768 
+ a 3 cuc x blister de 8 pastillas.
+
+Además: 
+__2 cuc (Diclofenac Sódico con Vitam. B1,B6,B12)
+__2 cuc (Diclofenac Pótasico)
+2.5 cuc (Diclofenac Pótasico con Vitamina B1,B2,B6 y B12)
+1.5 cuc (Diclofenac Sódico)
+__2 cuc (Diclofenac+Paracetamol)
+__6 cuc (Diclofenac Crema)
+__4 cuc (Diclofenac en Gel)
+__1 cuc (Diclofenac Inyectable)
+__5 cuc (Fricciones de Mentol)
+__1 cuc (Omeprazol de 20 mg) 
+__1 cuc (Ranitidina) 
+_12 cuc (Omega 369) 
+_15 cuc (Caja Vitamina E)
+__1 cuc (Blister de Vitamina C 500 mg)
+__1 cuc (Mambo 36)
+__3 cuc (Tadalafil)
+_12 cuc (Chanca Piedra)
+__1 cuc (Ibuprofeno 600 mg)
+1.5 cuc Ibuprofeno 800 mg)
+_18 cuc (Glucosamina Chondrotina 1500 mg)
+__3 cuc (Prueba de Embarazo)
+__5 cuc (Píldora del día después)
+__8 cuc (Vitaminas complejo B)
+__8 cuc (Acido Folico 5mg) una caja de 100 pastillas.
+_12 cuc (MultiVitaminas y Minerales)
+__2 cuc (Azitromicina de 500 mg)
+_10 cuc (Pepto-Bismol un frasco de 236 ml). (Para el estomago, Acidez, Indigestión, Malestar, Diarreas)
+__2 cuc (Loperamida)                        (Para las diarreas agudas o cronicas)
+
+La CHANCA PIEDRA, es para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+Key Words: Diclofenac / Sódico / Pepto-Bismol / Ibuprofeno / Azitromicina / Medicamentos / Viagra / Chanca Piedra / Medicinas / Fin de Semana / Diclofenaco / Paracetamol / Cialis / {DiaStr}De{Mes} / Dolores / Bismuto / Potásico / Acido Folico / Inyectable / Pastillas / Glucosamina / Vitamina E / {ID}{DiaSem} / Voltaren / Vitamina C / Cicatricure / Tadalafil / Mambo / Sodico / Omeprazol /
+
+// Anuncio-Txt = 06Viag --------------------------------------------------------------------------------------------------------------------------------
+{H}••••V*I*A*G*R*A: máx..duración,.máx..potencia.5•331•7003\7•832•8768
+ 3 cuc x blister de 8 pastillas.
+ 
+Además tengo:
+-Mambo 36 (Tadalafil), Para disfunción erétil, 1 cuc la pastilla.
+-Tadalafil, Para disfunción erétil, a 3 cuc blister de 4 pastilla.
+-Ranitidina, para el estomago - 1 cuc.
+-Omeprazol, para el estomago - 1 cuc.
+-Omega 639, suplemento nutracional - 12 cuc
+-Vitamina E, es un antioxidante y protector celular - 15 cuc la caja de 100 tabletas.
+-Vitamina C, es un antioxidante y captador de radicales libres - 2 cuc un blister de 10 tabletas de 500 mg.
+-Vitaminas complejo B - 8 cuc una caja de 100 tabletas.
+-MultiVitaminas y Minerales - 12 cuc un pomo de 100 capsulas.
+-Tadalafil (Mambo 36) a 1 cuc la pastilla, tambien conocido como Pildora del fin de semana o Cialis.
+-Chanca Piedra, a 12 cuc un pomo de 60 capsulas de 500 mg, sirve para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+-Diclofenac, para los dolores ...
+.... Sodico con vitam. B1,B6,B12 - 2 cuc.
+.... Potasico - 2 cuc.
+.... Potasico con vitam. B1,B2,B6,B12 - 2 cuc.
+.... Sodico - 1.5 cuc.
+.... Con Paracetamol - 2 cuc.
+.... En crema - 6 cuc.
+.... En Gel - 4 cuc.
+.... Inyectable - 1 cuc.
+.... Ibuprofeno 600 mg - 1 cuc.
+.... Ibuprofeno 800 mg - 1.5 cuc.
+-Frinciones de Mentol, para los dolores 4 cuc.
+-Azitromicina de 500 mg, es una antibiotico para las infecciones - 2 cuc.
+-Glucosamina Chondrotina 1500 mg, para la Artritis - 18 cuc.
+-Píldora del día después - 5 cuc.
+-Prueba de Embarazo - 3 cuc.
+-Loperamida - 2 cuc.              (Antidiarreico de acción prolongada y efecto rápido)
+-Pepto-Bismol - 10 cuc.  (Para el estomago, Acidez, Malestar, Indigestión, Diarreas)
+-Acido Folico - 8 cuc, 100 pastillas.
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Key Words: Diclofenac / Azitromicina / Sódico / Pepto-Bismol / Vitamina E / Medicamentos / Voltaren / Medicinas / Pastillas / Ibuprofeno / Artritis / Reumatismo / Acido Folico / Paracetamol / Fin de Semana / Diclofenaco / Glucosamina / Ranitidina / {DiaStr}De{Mes} / Potásico / Bismuto / Estomago / Dolores / Viagra / Vitamina C / {ID}{DiaSem} / Chanca Piedra / Tadalafil / Cialis / Cicatricure / Mambo / 
+
+// Anuncio-Txt = 07Viag --------------------------------------------------------------------------------------------------------------------------------
+{H}••••VIA_GRA|SILDENA_FIL llama ya que se acaban, Diclofenac y Omeprazol
+Tef.5,331,7003 \ 7,832,8768 a 3 cuc.
+
+Diclofenac: (Para los dolores)
+... Sódico + Vitamina B, 2 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B6 y B12, fecha de vencimiento en 2020
+... Potasico + Vitamina B, 2 cuc x blister de 10, son tabletas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12, vencen en el 2023.
+... Potasico , 2 cuc x blister de 10, son tabletas de 100mg, vencen en el 2023.
+... Con Paracetamol , 2 cuc x blister de 10 tabletas de 50/500 mg
+... En Crema, 6 cuc el pomo de 150 ml, para dolores e inflamaciones localizadas, similar al Voltaren, pero contiene otras sustancias realajantes y antimflamatorias como el Aceite de Eucalito, la Escencia de Pino, Silicato de Mentol y otros.
+... En Gel, 4 cuc el tubo, para dolores e inflamaciones localizadas, similar al Voltaren.
+... Inyectable, 1 cuc x Ampula, cada ampula contiene 75 mg, fecha de vencimiento noviembre de 2020.
+Omeprazol: (Para el estomago)
+... 1 cuc x 10 capsula de 20 mg. 
+Ranitidina: (Para el estomago)
+... 1 cuc x 10 capsula de 300 mg.
+Vitamina E: (Suplemento nutracional)
+... 15 cuc x 100 capsula de 1000 UI.
+Vitamina C: (Suplemento nutracional)
+... 1 cuc x 10 tabletas de 500 mg.
+Vitaminas complejo B: (Suplemento nutracional)
+... 8  cuc x una caja de 100 tabletas.
+MultiVitaminas y Minerales
+... 12 cuc x un pomo de 100 capsulas.
+Tadalafil: (Para la disfución sexual), tambien conocido como Cialis o Pildora del fin de semana. 
+... Mambo 36, 1 cuc x tableta de 20 mg
+... 3 cuc x blíster de 4 tableta de 20 mg.
+Chanca Piedra: para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+... 12 cuc el pomo de 60 capsulas de 500 mg
+Frinciones de Mentol: (Para los dolores)
+... 4 cuc x pomo de 150 ml.
+Omega 369: (Suplemento nutracional) 
+... 12 cuc x pomo de 100 pastillas
+Ibuprofeno: (Para los dolores)
+... 1 cuc el blister de 10 capsulas de 600 mg.
+... 1.5 cuc el blister de 10 capsulas de 800 mg.
+Glucosamina: (Para la Artritiss)
+... 18 cuc x un frasco de 60 capsulas de 1500 mg.
+Azitromicina: (Antibiotico para las infecciones por bacterias)
+... 2 cuc x una cajita de 3 tabletas de 500 mg.
+Para el Embarazo:
+... 3 cuc x un kit de Prueba de Embarazo
+... 5 cuc x una Píldora del día después.
+Loperamida: (Para las diarreas)
+... 2 cuc x un blister de 10 cápsulas de 2 mg.
+Acido Folico: (Suplemento nutracional)
+... 8 cuc x una caja de 100 pastillas.
+Pepto-Bismol:(Para del estomago, Acidez, Malestar, Indigestión, Diarreas)
+... 10 cuc x un frasco de 236 ml.
+
+  
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+	
+Key Words: Azitromicina / Ibuprofeno / Diclofenac / Dolores / Sódico / Bismuto / Medicamentos / Medicinas / Pastillas / Vitamina E / Cialis / Diclofenaco / Ranitidina / Paracetamol / Inyectable / Omega / Glucosamina / {DiaStr}De{Mes} / Artritis / Cicatricure / {ID}{DiaSem} / Potásico / Viagra / Vitamina C / Voltaren / Tadalafil / Mambo / Pepto-Bismol / Acido Folico / Chanca Piedra / Fin de Semana / Sodico / Omeprazol /
+
+Todos los medicamentos son traidos del extranjero y estan en sus envases originales.
+
+// Anuncio-Txt = 08Viag --------------------------------------------------------------------------------------------------------------------------------
+{H}••••Vendo medicamentos, V_I_A_G_R_A de 100mg y otros, traidos del extranjero
+Tel: 5.331.7003 ó 7.332.8768, 2 cuc la tiera de 825
+
+2.. cuc, Diclofenac Sódico + Vitam. B, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B6 y B12.
+2.5 cuc, Diclofenac Potasico + Vitam. B, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12.
+2.. cuc, Diclofenac Potasico, 10 pastillas de 100mg.
+2.. cuc, Diclofenac Potasico, 10 pastillas de 100mg.
+6.. cuc, Diclofenac con Paracetamol, 10 pastillas de 50/500mg.
+4.. cuc, Diclofenac en Gel, el tubo, dolores e inflamaciones localizadas, similar a voltaren.
+1.. cuc, Diclofenac Inyectable, cada ampula contiene 75 mg
+4.. cuc, Frinciones de Mentol, pomo de 150 ml, uso externo para dolores localizados.
+
+1.. cuc, Omeprazol, 10 capsulas de 20 mg. 
+1.. cuc, Ranitidina, 10 capsulas de 300 mg. 
+1.. cuc, Mambo 36 (Tadalafil), cada pastilla de 20 mg, tambien conocido como Cialis o Pildora del fin de semana.
+1.. cuc, Tadalafil, blíster de 4 pastilla de 20 mg, tambien conocido como Cialis o Pildora del fin de semana.
+15. cuc, Vitamina E, 100 capsulas de 1000 UI.
+1.. cuc, Vitamina C, 10 tabletas de 500 mg.
+8.. cuc, Vitaminas complejo B, caja de 100 tabletas.
+12. cuc, MultiVitaminas y Minerales, pomo de 100 capsulas.
+12. cuc, Chanca Piedra, pomo con 60 capsulas de 500 mg.
+12. cuc, Omega 369, pomo de 100 pastillas.
+1.. cuc, Ibuprofeno 600 mg a el blister de 10 capsulas.
+1.5 cuc, Ibuprofeno 800 mg a el blister de 10 capsulas.
+18. cuc, Glucosamina Chondrotina 1500 mg a el frasco de 60 capsulas.
+5.. cuc, Píldora del día después.
+3.. cuc, Prueba de Embarazo.
+10. cuc, Pepto-Bismol el pomo de 236 ml  (Para el estomago, Acidez, Diarreas, Malestar, Indigestión)
+2.. cuc, Loperamida 2mg, un blister de 10 cápsulas.       (Antidiarreico de acción prolongada y efecto rápido)
+2.. cuc, Azitromicina 500 mg, cajita de 3 tabletas.
+8.. cuc, Acido Folico 5mg, una caja de 100 pastillas.
+
+Todos estan en sus envases originales y vencen en el 2020 o posterior
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Key Words: Diclofenac / Azitromicina / Sódico / Voltaren / Acido Folico / Vitamina E / Tadalafil / Medicamentos / Cialis / {DiaStr}De{Mes} / Ibuprofeno / Medicinas / Pastillas / Pepto-Bismol / Glucosamina / Paracetamol / Inyectable / Ranitidina / Bismuto / Omega / Diclofenaco / Potásico / Vitamina C / {ID}{DiaSem} / Cicatricure / Mambo / Fin de Semana / Sodico / Viagra / Omeprazol / Chanca Piedra /
+
+// Anuncio-Txt = 09Viag --------------------------------------------------------------------------------------------------------------------------------
+{H}••••Medicamentos: V_I_A_G_R_A: MÁS PLACER, MÁS POTENCIA, MÁS PODER 5,331,7003
+ ó 7,832,8768 la tira de 8 pastillas sale a 3 cuc, fecha de caducidad 2021
+ 
+Difrute las relaciones con su pareja al máximo, no deje pasar la oportunidad.
+
+Además tengo otros medicamentos:
+PARA LOS DOLORES
+... 2.. cuc, Diclofenac Sódico + Vitam. B, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B6 y B12.
+... 2.5 cuc, Diclofenac Potasico + Vitam. B, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12.
+... 2.. cuc, Diclofenac Potasico, 10 pastillas de 100mg.
+... 1.5 cuc, Diclofenac Sódico, 10 pastillas de 100mg.
+... 2.. cuc, Diclofenac con Paracetamol, 10 pastillas de 50/500 mg
+... 6.. cuc, Diclofenac en Crema, Pomo de 150 ml, dolores e inflamaciones localizadas, similar a voltaren.
+... 4.. cuc, Diclofenac en Gel, el tubo, dolores e inflamaciones localizadas, similar a voltaren.
+... 1.. cuc, Diclofenac Inyectable, cada ampula contiene 75 mg
+... 
+... 4.. cuc, Frinciones de Mentol, pomo de 150 ml, uso externo para dolores localizados.
+... 
+... 1.. cuc, Ibuprofeno 600 mg a el blister de 10 capsulas.
+... 1.5 cuc, Ibuprofeno 800 mg a el blister de 10 capsulas.
+  
+PARA EL ESTOMAGO: 
+... 1 cuc, Omeprazol de 20 mg.
+... 1 cuc, Ranitidina de 300 mg
+... 10 cuc, Pepto-Bismol un frasco de 236 ml.  (Para el estomago, Acidez, Malestar, Indigestión, Diarreas)
+
+  .
+SIMILAR A LA VIAGRA: 
+... 1 cuc, Mambo 36 (Tadalafil), tambien conocido como Cialis o Pildora del fin de semana.
+... 3 cuc, Tadalafil, blíster de 4 pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+  
+SUPLEMENTO NUTRICIONAL: 
+... 15 cuc, Vitamina E la Caja de 100 pastillas.
+...  1 cuc, Vitamina C el blister de 10 tabletas 500 mg.
+... 12 cuc, Omega 369, el pomo de 100 pastillas 3000 mg.
+... 8. cuc, Vitaminas complejo B, la caja de 100 tabletas.
+... 12 cuc, MultiVitaminas y Minerales, el pomo de 100 capsulas.
+... 8. cuc, Acido Folico 5mg, la caja de 100 pastillas.
+  
+CALCULOS RENALES O BILIARES: 
+... 12 Chanca Piedra, un pomo de 60 capsulas de 500 mg.
+
+PARA LA ARTRITIS: 
+... 18 cuc, Glucosamina Chondrotina 1500 mg a el frasco de 60 capsulas.
+
+PARA EL EMBARAZO:
+... 3 cuc, Prueba de Embarazo.
+... 5 cuc, Píldora del día después.
+
+PARA LAS DIARREAS:
+... 2 cuc, Loperamida 2mg un blister de 10 cápsulas.
+
+ANTIBIOTICO:
+... 2 cuc, Azitromicina, cajita de 3 tabletas de 500 mg.
+
+  
+Telefonos: 5 331 7003 (movil) y 7 832 8768 (fijo) con Camilo.
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Key Words: Diclofenac / Vitamina E / Azitromicina / Chanca Piedra / Viagra / Inyectable / Tadalafil / Cialis / Omega / Sódico / Glucosamina / Ibuprofeno / Medicamentos / Bismuto / Medicinas / Paracetamol / Omeprazol / Pastillas / Ranitidina / Vitamina C / Diclofenaco / Pepto-Bismol / Acido Folico / {DiaStr}De{Mes} / {ID}{DiaSem} / Potásico / Voltaren / Cicatricure / Mambo / Fin de Semana / Sodico /
+
+// Anuncio-Txt = 10Viag --------------------------------------------------------------------------------------------------------------------------------
+{H}••••V_I_A_G_R_A la más económica en revolico, llamar al Tef:5 3317 003
+el costo es 3 cuc la tira de 8 pastillas
+
+Tambien tengo: DICLOFENAC en Pastillas a 2 cuc y en Crema a 2 cuc, TADALAFIL a 1 cuc, RANITIDINA a 1 cuc, OMEPRAZOL a 1 cuc, VITAMINA E a 15 cuc, CICATRICURE a 10 cuc, CHANCA PIEDRA 12 cuc, Vitaminas complejo B a 8 cuc, Prueba de Embarazo a 3 cuc, Píldora del día después a 5 cuc, Glucosamina con Chondrotina a 18 cuc, MultiVitaminas y Minerales a 12 cuc, Loperamida a 2 cuc, Azitromicina a 2 cuc, Vitamina C a 1 cuc, Ibuprofeno 1 cuc, Acido Folico 8 cuc (100 pastillas), Pepto-Bismol 10 cuc.
+
+El TADALAFIL es una nueva formulación de la Viagra, que tambien es conocido como Pildora del fin de semana o Cialis, porque su efecto dura mas de 36 horas, mientras que la Viagra solo dura 4, tambien es bien tolerado cuando se ha ingerido alchol o comidas copiosas, mientras que la Viagra tiene un efecto limitado en esos casos, tambien tiene menos efectos secundarios que la viagra.
+
+La CHANCA PIEDRA, es para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+El CICATRICURE es para mejorar notablemente el aspecto y textura de las cicatrices
+
+La Glucosamina con Chondrotina, es para problemas de Artritis, ya que es un analgecio y antimflamatorio que recontrye los cartigolos.
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+Hablar con Camilo en los telafonos 7 832 8768 y 5 331 7003
+
+Key Words: Diclofenaco / Azitromicina / Voltaren / {DiaStr}De{Mes} / Inyectable / Cicatricure / Glucosamina / Medicamentos / Diclofenac / Sódico / Medicinas / Ranitidina / Pastillas / Vitamina C / Acido Folico / Paracetamol / Cialis / Viagra / Potásico / {ID}{DiaSem} / Vitamina E / Estomago / Tadalafil / Pepto-Bismol / Mambo / Ibuprofeno / Chanca Piedra / Bismuto / Fin de Semana / Sodico / Omeprazol /
+
+// Anuncio-Txt = 11Viag --------------------------------------------------------------------------------------------------------------------------------
+{H}••••S.I.L.D.E.N.A.F.I.L (V_I_A_G_R_A), 0.37 cuc la pastilla, 8 x 1 cuc
+Tel: 78328768 / 53317003 vienen en tiras de 8 pastillas que salen a 3 cuc.
+
+Otros productos:
+PARA LOS DOLORES: Diclofenac en todas sus distribuciones, Sódico 2 cuc, Potasico 2 cuc, con Paracetamol 2 cuc, En Gel 4 cuc, En crema 5 cuc e Inyectable 1 cuc.
+PARA EL ESTOMAGO: Omeprazol de 20 mg 1 cuc, Ranitidina 1 cuc.
+DISFUSIÓN ERÉCTIL: Tadalafil (Mambo 36) a 1 cuc la pastilla, tambien conocido como Cialis o Pildora del fin de semana, Viagra 3 cuc x 8.
+SUPLEMENTOS: OMEGA 369 a 12 cuc, VITAMINA E 1000 UI a 15 cuc la caja, VITAMINA C 500 mg a 1 cuc el blister, VITAMINAS COMPLEJO B a 8 cuc la caja, MULTIVITAMINAS Y MINERALES a 12 cuc el pomo, ACIDO FOLICO a 8 cuc (100 pastillas).
+
+PARA CICATRICES: Cicatricure a 10 cuc el tubo de 30g.
+CALCULOS RENALES O BILIARES: Chanca Piedra 12 cuc un pomo de 60 capsulas de 500 mg.
+PARA LA ARTRITIS: Glucosamina & Chondrotina 18 cuc un frasco con 60 tabletas de 1500 mg.
+PARA EL EMBARAZO: Kit de Prueba de Embarazo a 3 cuc, Píldora del día después a 5 cuc.
+PARA INFECCIONES: Azitromicina 500 mg a 2 cuc, una cajita de 3 tabletas.
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Key Words: Pastillas / Diclofenac / Cicatricure / Acido Folico / Azitromicina / Diclofenaco / Bismuto / Glucosamina / Sódico / Medicamentos / Viagra / Fin de Semana / Medicinas / Mambo / Inyectable / {DiaStr}De{Mes} / Estomago / Paracetamol / Vitamina C / Ranitidina / Potásico / {ID}{DiaSem} / Voltaren / Chanca Piedra / Pepto-Bismol / Vitamina E / Tadalafil / Cialis / Ibuprofeno / Sodico / Omeprazol /
+
+// Anuncio-Txt = 12Viag --------------------------------------------------------------------------------------------------------------------------------
+{H}••••V_I_A_G_R_A: MÁS POTENCIA, MÁS PODER, MÁS PLACER + Diclofenac y Omeprazol
+tel: 5,331,7003 / 7,832,8768, 8 viagras por 3 cuc, son originales compradas en el extranjero.
+
+Tengo Además estas otras medicinas:
+2.5 cuc, Diclofenac Potasico + Vitam. B, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B2, B6 y B12.
+2.. cuc, Diclofenac Sódico, 10 pastillas de 100mg, Ademas contiene Vitamina B1, B6 y B12.
+2.. cuc, Diclofenac Potasico, 10 pastillas de 100mg.
+1.5 cuc, Diclofenac Sódico, 10 pastillas de 100mg.
+2.. cuc, Diclofenac + Paracetamol, 10 pastillas de 50 / 500 mg respectivamente.
+5.. cuc, Diclofenac en Crema, Pomo de 150 ml, dolores e inflamaciones localizadas, similar a voltaren.
+1.. cuc, Diclofenac Inyectable, cada ampula contiene 75 mg
+1.. cuc, Ibuprofeno 600 mg a el blister de 10 capsulas.
+1.5 cuc, Ibuprofeno 800 mg a el blister de 10 capsulas.
+1.. cuc, Omeprazol, 10 capsula de 20 mg. 
+2.. cuc, Omeprazol, 10 capsula de 40 mg. 
+1.. cuc, Ranitidina, 10 capsula de 300 mg. 
+1.. cuc, Mambo 36 (Tadalafil), 1 pastilla, tambien conocido como Cialis o Pildora del fin de semana.
+15. cuc, Vitamina E, caja de 100 capsulas de 1000 UI
+1.. cuc, Vitamina C, un blister de 10 tabletas de 500 mg.
+8.. cuc, Vitaminas complejo B, caja de 100 tabletas.
+12. cuc, MultiVitaminas y Minerales, pomo de 100 capsulas.
+2.. cuc, Azitromicina, cajita de 3 tabletas de 500 mg.
+12. cuc, Omega 369, Frasco de 100 capsulas de 1200 mg.
+12. cuc, Chanca Piedra, Pomo de 60 capsulas de 500 mg, sirve para eliminar calculos renales, biliares y sustancias nocivas en el higado.
+10. cuc, Cicatricure, tubo de 30g, mejora notablemente el aspecto y textura de las cicatrices.
+18. cuc, Glucosamina con Chondrotina de 1500 mg, el frasco de 60 capsulas.
+8.. cuc, Acido folico de 5mg, una caja de 100 pastillas.
+3.. cuc, Prueba de Embarazo, a el Kit.
+5.. cuc, Píldora del día después.
+10 .cuc, Pepto-Bismol el pomo de 236 ml.  (Para el estomago, Malestar, Acidez, Indigestión, Diarreas)
+2.. cuc, Loperamida 2mg, 10 cápsulas.     (Antidiarreico de acción prolongada y efecto rápido)
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Teléfonos:
+   Cel : 5 331 7003
+   Fijo: 7 832 8768
+   
+Key Words: Ibuprofeno / Medicinas / Tadalafil / Chanca Piedra / Glucosamina / Azitromicina / Diclofenac / Sódico / Diclofenaco / Medicamentos / Potásico / Cicatricure / Viagra / Inyectable / Bismuto / Vitamina C / {DiaStr}De{Mes} / Vitamina E / Paracetamol / Ranitidina / {ID}{DiaSem} / Voltaren / Acido Folico / Cialis / Mambo / Fin de Semana / Pepto-Bismol / Potasico / Sodico / Omeprazol /

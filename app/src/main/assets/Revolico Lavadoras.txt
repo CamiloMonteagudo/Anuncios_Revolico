@@ -1,0 +1,268 @@
+// Url-Txt = file:///D:/01_Proyectos/Anuncios/Anuncios/bin/Debug/Insertar un anuncio - Revolico.html
+// Url-Txt = https://www.revolico.com/compra-venta/otros/insertar-anuncio.html
+// Titulo-TagName = input
+// Titulo-AttrName = title
+// Descripción-TagName = textarea
+// Descripción-AttrName = description
+// Mail-TagName = input
+// Mail-AttrName = email
+// Mail-Txt = {ID}{Dia}{Mes}@gmail.com
+// Telef-TagName = input
+// Telef-AttrName = phone
+// Telef-Txt = 7 832 8768 ó 5 331 7003
+
+// Anuncio-Txt = 01Lavad --------------------------------------------------------------------------------------------------------------------------------
+{H}••••Piezas de Lavadora, Timer, Busing, Correas, Sello, Botones, Tapon+muelle
+: 7 832 8768/5 331 7003
+
+Piezas de lavadoras Semi-Automaticas:
+30 cup...(Botones)
+.5 cuc...(Correa A620)
+.5 cuc...(Correa A700)
+.5 cuc...(Correa A785)
+.5 cuc...(Correa M20.5)
+.5 cuc...(Correa M22)
+.6 cuc...(Manguera de Salida (lavadoras semi-automaticas))
+12 cuc...(Manguera de Salida (lavadoras automaticas))
+15 cuc...(Manguera de entrada de aqua)
+13 cuc...(Manguera de drenaje (corta)) ----------- Va entre el tanque y la bomba de drenaje en las lavadoras automaticas
+.6 cuc...(Sellos) -------------------------------- Es el que impide que salga el agua de la centrifuga
+.4 cuc...(Tapon con muelle) ---------------------- Es el que sella la salida del agua
+.8 cuc...(Timer de lavado) ----------------------- Son de 6 o 7 cables, se pueden adactar a cualquier lavadora 
+.7 cuc...(Timer de secado) ----------------------- Son de 3 cables
+.7 cuc...(Transmisión (Busing) para LG ----------- Es la pieza que una el poledor con las paletas de lavado
+.7 cuc...(Transmisión (Busing) K500 para Daewoo -- Es la pieza que una el poledor con las paletas de lavado
+
+Puede pedir la pieza que usted necesita y si la encontramos en menos de 1 mes la puede tener.
+ 
+{ID}{DiaSem} / Lavadoras / Manguera de Salida / {DiaStr}De{Mes} / MyLavPiezas / Acordeon / Botones / Correa / Sello / Tapón / Timer / Busing / Tansmisión / 
+
+Todas las piezas son nuevas, traidas del extranjero.
+
+// Anuncio-Txt = 02Lavad --------------------------------------------------------------------------------------------------------------------------------
+{H}••••Para Lavadora: Busing, Timer, Sello, Manguera, Correa, Tef: 7 832 8768
+ / 5 331 7003 
+
+Listado de piezas:
+Timer de lavado a 8 cuc ................................... (de 6 cables, se adapta a todas las lavadoras)
+Timer de secado a 7 cuc ................................... (de 3 cables)
+Transmisión (Busing) de LG a 7 cuc ........................ (Une las paletas de lavado con el poleador)
+Transmisión (Busing) K500 de Daewoo a 7 cuc ............... (Une las paletas de lavado con el poleador)
+Botones a 30 cup .......................................... (Es el boton que maneja el timer)
+Correa A620 a 5 cuc
+Correa A700 a 5 cuc
+Correa A785 a 5 cuc
+Correa M20.5 a 5 cuc
+Correa M22 a 5 cuc
+Sellos a 6 cuc ............................................ (Impide la salida de agua del compartimento de secado)
+Tapon con muelle a 4 cuc .................................. (Cierra la salida de agua del compartimiento de lavado)
+Manguera de Salida de lavadoras semi-automaticas a 6 cuc .. (Manguera que va por atras para la salida del agua)
+Manguera de Salida de lavadoras automaticas a 12 cuc ...... (Manguera que va por atras para la salida del agua)
+Manguera de drenaje (corta)) a 13 cuc ..................... (Va entre el tanque y la bomba de drenaje en las lavadoras automaticas)
+Manguera de entrada de aqua a 15 cuc ...................... (Es la que va de la pila a la lavadora)  
+  
+Teléfonos:
+   Cel : 5 331 7003
+   Fijo: 7 832 8768
+
+Si necesita otra pieza puede pedirla y trataremos de buscarla, si la encontramos en menos de 1 mes la puede tener.
+   
+Acordeon / Timer / Lavadoras / {DiaStr}De{Mes} / Tapón / Botones / Tansmisión / Correa / {ID}{DiaSem} / MyLavPiezas / Manguera de Salida / Sello / Busing / 
+
+Todos los piezas son nuevas.
+
+// Anuncio-Txt = 03Lavad --------------------------------------------------------------------------------------------------------------------------------
+{H}•••••Vendo piezas de lavadora (Correa, Timer, Busing, Manguera, Sello, Tapon)
+5 331 7003 ó 7 832 8768
+
+Litado de las piezas que tengo:
+Correa de Lavadora A620 .............................. 5 cuc
+Correa de Lavadora A700 .............................. 5 cuc
+Correa de Lavadora A785 .............................. 5 cuc
+Correa de Lavadora M20.5 ............................. 5 cuc
+Correa de Lavadora M22 ............................... 5 cuc
+Manguera de Salida de Lavadora Semi-Automaticas ...... 6 cuc
+Manguera de Salida de lavadoras Automaticas .......... 12 cuc
+Manguera de drenaje (corta) .......................... 13 cuc 
+Manguera de entrada de aqua .......................... 15 cuc
+Tapon con muelle de lavadora ......................... 4 cuc
+Sellos de lavadora ................................... 6 cuc
+Timer de lavado de Lavadora .......................... 8 cuc
+Timer de secado de Lavadora .......................... 7 cuc
+Botones de Lavadora .................................. 30 cup
+Transmisión (Busing) de lavadora LG .................. 7 cuc
+Transmisión (Busing) K500 de lavadora Daewoo ......... 7 cuc
+
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Todos las piezas son traidas del extranjero y son nuevas.
+
+Timer / Sello / MyLavPiezas / Tapón / Acordeon / Busing / {DiaStr}De{Mes} / Botones / Manguera de Salida / Tansmisión / Lavadoras / Correa / {ID}{DiaSem} / 
+
+// Anuncio-Txt = 04Lavad --------------------------------------------------------------------------------------------------------------------------------
+{H}••••Piezas baratas para lavadora, Timer, Correa, Manguera, Tansmisión, Sello
+: 7 832 8768 / 5 331 7003 a 8, 5, 6, 7 y 6 cuc, respectivamente.
+ 
+30 cup x 1 Botón de Lavadora
+6. cuc x 1 Manguera de Salida de Lavadora Semi-Automaticas
+12 CUC X 1 Manguera de Salida de lavadoras Automaticas
+15 cuc x 1 Manguera de entrada de aqua
+13 cuc x 1 Manguera de drenaje (corta)
+6. cuc x 1 Sello de lavadora
+4. cuc x 1 Tapon con muelle de lavadora
+8. cuc x 1 Timer de lavado de Lavadora
+7. cuc x 1 Timer de secado de Lavadora
+7. cuc x 1 Transmisión (Busing) de lavadora LG
+7. cuc x 1 Transmisión (Busing) K500 de lavadora Daewoo
+5. cuc x 1 Correa de Lavadora A620
+5. cuc x 1 Correa de Lavadora A700
+5. cuc x 1 Correa de Lavadora A785
+5. cuc x 1 Correa de Lavadora M20.5
+5. cuc x 1 Correa de Lavadora M22
+
+Si la pieza que necesita no esta en la lista, haganolo saber y nostros trataremos de buscarla.
+
+Busing / MyLavPiezas / Correa / {DiaStr}De{Mes} / Manguera de Salida / Timer / Sello / Tapón / Lavadoras / Botones / Acordeon / Tansmisión / {ID}{DiaSem} / 
+
+Todas las piezas son traidos del extranjero.
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+// Anuncio-Txt = 05Lavad --------------------------------------------------------------------------------------------------------------------------------
+{H}••••Vendo: Manguera|Sello|Tapón|Timer|Busing|Correa|Botón..., para lavadoras
+5,331,7003 / 7,832,8768
+
+1 Botón de Lavadora x 30 cup
+1 Correa de Lavadora A620 x 5 cuc
+1 Correa de Lavadora A700 x 5 cuc
+1 Correa de Lavadora A785 x 5 cuc
+1 Correa de Lavadora M20.5 x 5 cuc
+1 Correa de Lavadora M22 x 5 cuc
+1 Manguera de Salida de Lavadora Semi-Automaticas x 6 cuc
+1 Manguera de Salida de lavadoras Automaticas x 12 cuc
+1 Manguera de drenaje (corta) ................... (Va entre el tanque y la bomba de drenaje en las lavadoras automaticas)
+1 Manguera de entrada de aqua ................... (Va de la pila a la lavadora)
+1 Sello de lavadora x 6 cuc ..................... (Impide la salida de agua de la centrifuga)
+1 Tapón con muelle de lavadora x 4 cuc .......... (Entrada/Salida de agua de lavado)
+1 Timer de lavado de Lavadora x 8 cuc ........... (Botón de mado para la parte de lavado)
+1 Timer de secado de Lavadora x 7 cuc ........... (Botón de mado para la parte de secado)
+1 Busing de lavadora LG x 7 cuc ................. (Union entre el poleador y las paletas de lavado)
+1 Busing K500 de lavadora Daewoo x 7 cuc ........ (Union entre el poleador y las paletas de lavado)
+
+Si necesita otra pieza puede pedirla y trataremos de buscarla, si la encontramos en menos de 1 mes la puede tener.
+
+Manguera de Salida / Timer / Lavadoras / Correa / Sello / Tapón / Botones / {ID}{DiaSem} / Tansmisión / MyLavPiezas / Busing / Acordeon / {DiaStr}De{Mes} / 
+
+Todas las piezas son nuevas.
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+// Anuncio-Txt = 06Lavad --------------------------------------------------------------------------------------------------------------------------------
+{H}••••Vendo Piezas de Lavadoras Semi-Automaticas, Timer, Correa, Manguera, etc. 
+7-832-8768 / 5-331-7003 
+
+.6 cuc Manguera de Salida de Lavadoras Semi-Automaticas               
+12 cuc Manguera de Salida de lavadoras Automaticas
+13 cuc Manguera de drenaje (corta)
+15 cuc Manguera de entrada de aqua
+.4 cuc Tapon con muelle de lavadora                
+.6 cuc Sellos de lavadora                          
+.8 cuc Timer de lavado de Lavadora                           
+.7 cuc Timer de secado de Lavadora                           
+.7 cuc Transmisión (Busing) de lavadora LG         
+.7 cuc Transmisión (Busing) K500 de lavadora Daewoo
+.5 cuc Correa de Lavadora A620                     
+.5 cuc Correa de Lavadora A700                     
+.5 cuc Correa de Lavadora A785                     
+.5 cuc Correa de Lavadora M20.5                    
+.5 cuc Correa de Lavadora M22
+30 cup Botones de Lavadora                         
+
+Todas las piezas son nuevas, compradas en el exterior. 
+Si necesita otra pieza puede solicitarla y en menos de un mes te daremos respuesta.
+ 
+Tengo servicio de mensajeria por un precio adicional, según el lugar de entrega.
+
+Teléfono Cel : 5 331 7003 
+Teléfono Fijo: 7 832 8768
+
+Tapón / Botones / Tansmisión / Manguera de Salida / Timer / Busing / {DiaStr}De{Mes} / Lavadoras / Correa / Sello / MyLavPiezas / {ID}{DiaSem} / Acordeon / 
+
+// Anuncio-Txt = 07Lavad --------------------------------------------------------------------------------------------------------------------------------
+{H}••••Piezas para reparar su Lavadora: Correa, Tapón, Sello, Timer, Manguera...
+telf: 5.331.7003 ó 7.832.8768
+
+Timer de lavado por 8 cuc
+Timer de secado por 7 cuc
+Manguera de Salida de lavadoras Automaticas por 12 cuc
+Manguera de Salida de lavadoras Semi-Automaticas por 6 cuc
+Manguera de entrada de aqua por 15 cuc
+Manguera de drenaje (corta) por 13 cuc 
+Tapon con muelle por 4 cuc
+Correa A620 por 5 cuc
+Correa A700 por 5 cuc
+Correa A785 por 5 cuc
+Correa M20.5 por 5 cuc
+Correa M22 por 5 cuc
+Sellos por 6 cuc
+Botones por 30 cup
+Transmisión (Busing) de LG por 7 cuc
+Transmisión (Busing) K500 de Daewoo por 7 cuc
+
+Puede encarga la pieza que necesite, si la podemos cosequir en menos de 1 mes le avisamos.
+
+Teléfono Cel : 5 331 7003
+Teléfono Fijo: 7 832 8768
+
+Tapón / Botones / Tansmisión / {DiaStr}De{Mes} / Busing / Acordeon / MyLavPiezas / Lavadoras / Correa / Sello / {ID}{DiaSem} / Timer / Manguera de Salida / 
+
+Todas las piezas son compradas en el exterior y estan sin estrenar.
+
+// Anuncio-Txt = 08Lavad --------------------------------------------------------------------------------------------------------------------------------
+{H}••••(Correa | Timer | Manguera | Tapón | Sello | Botón, etc.) de Lavadora
+7.832 8768 / 5.331 7003
+
+.5 cuc por una Correa A620                     
+.5 cuc por una Correa A700                     
+.5 cuc por una Correa A785                     
+.5 cuc por una Correa M20.5
+.5 cuc por una Correa M22
+12 cuc por una Manguera de Salida de lavadoras Automaticas
+.6 cuc por una Manguera de Salida de lavadoras Semi-Automaticas
+13 cuc por una Manguera de drenaje (corta)
+15 cuc par uan Manguera de entrada de aqua
+.4 cuc por un Tapon con muelle
+.6 cuc por un Sello
+.8 cuc por un Timer de lavado
+.7 cuc por un Timer de secado
+30 cup por un Botón
+.7 cuc por una Transmisión de LG         
+.7 cuc por una Transmisión K500 de Daewoo
+
+Si necesita otra pieza puede pedirla y trataremos de consequirla. 
+Todas las piezas estan nuevas sin extrenar.
+
+Sello / {ID}{DiaSem} / Acordeon / Timer / Tapón / Botones / Lavadoras / Correa / Manguera de Salida / Tansmisión / {DiaStr}De{Mes} / Busing / MyLavPiezas / 
+
+// Anuncio-Txt = 09Lavad --------------------------------------------------------------------------------------------------------------------------------
+{H}••••Piezas de Lavadora: Correas (A620,A700,A785,M20.5), Busing (LG,Daewoo) ..
+5 331 7003 ó 7 832 8768
+
+Correas (A620, A700, A785, M20.5, M22) a 5 cuc
+Manguera de Salida de Semi-Automaticas a 6 cuc
+Manguera de Salida de Automaticas a 12 cuc
+Manguera de entrada de aqua a 15 cuc
+Manguera de drenaje (corta) a 13 cuc 
+Tapon con muelle a 4 cuc
+Sellos a 6 cuc
+Conmutador(Timer) de lavado a 8 cuc
+Conmutador(Timer) de secado a 7 cuc
+Botones a 30 cup
+Transmisión (Busing) (Daewoo y LG) a 7 cuc
+
+Si necesita otra pieza puede pedirla y trataremos de buscarla
+
+MyLavPiezas / Manguera de Salida / Busing / Tapón / Timer / Botones / Lavadoras / Correa / Tansmisión / Acordeon / {DiaStr}De{Mes} / Sello / {ID}{DiaSem} / 
+
+Todas las piezas son compradas en el extranjero.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+

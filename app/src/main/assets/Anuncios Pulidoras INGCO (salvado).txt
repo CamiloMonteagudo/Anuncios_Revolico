@@ -1,0 +1,469 @@
+// Url-Txt = https://www.revolico.com/servicios/construccion-mantenimiento/insertar-anuncio.html
+// Titulo-TagName = input
+// Titulo-AttrName = ad-title
+// Descripción-TagName = textarea
+// Descripción-AttrName = ad-description
+// Mail-TagName = input
+// Mail-AttrName = ad-email
+// Mail-Txt = c.monteagudo@gmail.com
+// Telef-TagName = input
+// Telef-AttrName = ad-phone
+// Telef-Txt = 7 832 8768, 5 331 7003
+// Precio-TagName = input
+// Precio-AttrName = ad-price
+// Precio-Txt = 120
+// WordsKey1-Txt = Pulidora, Incco, Ingco, Makita, Bosh, Llavin, Cerradura, Salten Electrico, Picadora de especies, Presurizador, Maquina, refrigeración, EquipSonia, Royal, Lampara, Recargable, {DiaStr}De{Mes}, {ID}{DiaSem}, Radio, Ducha, Tomacorriente, Regillas, Bombillos Led, llave de paso
+// Anuncio-Txt = 01Pulid --------------------------------------------------------------------------------------------------------------------------------
+{H}⭐⭐⭐Vendo Pulidoras INGCO, disco de 115 mm, sellada en su caja 0 kilometro ☎7.832.8768 ☎5.331.7003
+
+INGCO se dedican a hacer accesibles las herramientas de calidad profesional. El equipo INGCO presta gran atención a cada detalle para hacer que las herramientas
+INGCO se coloquen entre las mejores del mundo.
+
+Marca: INGCO
+Modelo: UAG10108-3
+Color: Amarilla
+Disco: 115 mm
+Velocidad: 12 500 rmp
+Voltaje: 110 volt
+Frecuencia: 60 Hz.
+Potencia: 1010 watts.
+
+Tambien tengo los siguientes productos:
+__5 cuc - BOMBILLOS LED EMERGENTES, funcionan como bombillos LED normales pero se pueden seguir utilizando cuando falta el fluido eléctrico. 
+_95 cuc - PRESURIZADOR AUTOMÁTICO, silencioso, marca Mizuzuki, aumenta la presión de agua en forma automática, New en Caja
+_10 cuc - PESA DIGITAL, pesa hasta 50 kg y da la medida en Kg, Libras y Onzas.
+_70 cuc - SARTEN ELÉCTRICO, marca Royal, color negro con tapa de cristal, cubierta de teflon.
+_25 cuc - PICADORA DE ESPECIES, marca Royal, color negro con vaso transparente
+160 cuc - MAQUINA DE REFRIGERACIÓN, marca Cowplandt, Modelo:CP62-YLBP/MHBP, 110 volt, 60hz, 1PH, LRA:13.3A.
+_15 cuc - LÁMPARA RECARGABLE, multipropósito apagones, excursiones, linterna, etc.
+_22 cuc - BOCINA PORTATIL, con Bluetooth, puerto USB y MicroSD para memorias, radio FM, 8 watts de potencia, bateria de litio de larga duración
+_15 cuc - RADIO PORTATIL, com FM, y puerto USB para memorias
+_30 cuc - DUCHA ELECTRICA, marca Federalli, 3 temperaturas, 110 volt, 40 amperes.
+_15 cuc - SET DE DUCHA HIGIENICA, plástica tipo teléfono, de 1.2 M; marca Federalli.
+__4 cuc - SILICONA PARA JUNTAS, resistente a alta temperaturas, al aceite, al agua y a la congelación.
+_15 cuc - LLAVINES PARA PUERTAS, marca Workey de doble cerrojo.
+__5 cuc - REGILLA PARA TRAGANTES, de acero inoxidable, con trampa para los olores.
+__4 cuc - REGILLA PARA TRAGANTES, de acero inoxidable.
+__4 cuc - LLAVE DE PASO, de tiro rapido, de 3/4 y 1 pulgada
+_40 cup - TOMA CORRIENTE, son dobles y tiene toma para tierra fisica.
+
+{WordsKey1/, }
+
+Me puede contactar por Whatapps por el +5 331 7003
+
+// Anuncio-Txt = 02Pulid --------------------------------------------------------------------------------------------------------------------------------
+{H}⭐⭐⭐Pulidoras de 4" 1/2 marca INGCO de 12500 rmp y 1010 Watts de potencia ☎7.832.8768 ☎5.331.7003
+
+Los productos INGCO se distinguen por hacer accesibles las herramientas de calidad profesional. 
+
+Marca: INGCO UAG10108-3 Amarilla
+Disco: 115 mm o 4 1/2
+Velocidad: 12 500 rmp a 110 volt 60 hz
+Potencia: 1010 watts.
+
+El equipo INGCO presta gran atención a cada detalle para hacer que las herramientas INGCO se coloquen entre las mejores del mundo.
+
+Ademas tengo tambiem:
+BOMBILLOS LED EMERGENTES a 5 cuc, funcionan como bombillos LED normales pero se pueden seguir utilizando cuando falta el fluido eléctrico. 
+PRESURIZADOR AUTOMÁTICO a 95 cuc, silencioso, marca Mizuzuki, aumenta la presión de agua en forma automática, New en Caja
+PESA DIGITAL a 10, pesa hasta 50 kg y da la medida en Kg, Libras y Onzas.
+SARTEN ELÉCTRICO a 70 cuc, marca Royal, color negro con tapa de cristal, cubierta de teflon.
+PICADORA DE ESPECIES a 25, marca Royal, color negro con vaso transparente.
+MAQUINA DE REFRIGERACIÓN a 160 cuc, marca Cowplandt, Modelo:CP62-YLBP/MHBP, 110 volt, 60hz, 1PH, LRA:13.3A.
+LÁMPARA RECARGABLE a 15 cuc, multipropósito apagones, excursiones, linterna, etc.
+BOCINA PORTATIL a 22 cuc, con Bluetooth, puerto USB y MicroSD para memorias, radio FM, 8 watts de potencia, bateria de litio de larga duración
+RADIO PORTATIL a 15 cuc, com FM, y puerto USB para memorias
+DUCHA ELECTRICA a 30 cuc, marca Federalli, 3 temperaturas, 110 volt, 40 amperes.
+SET DE DUCHA HIGIENICA a 15 cuc, plástica tipo teléfono, de 1.2 M; marca Federalli.
+SILICONA PARA JUNTAS a 4 cuc, resistente a alta temperaturas, al aceite, al agua y a la congelación.
+LLAVINES PARA PUERTAS a 15 cuc, marca Workey de doble cerrojo.
+REGILLA PARA TRAGANTES a 5 cuc, de acero inoxidable, con trampa para los olores.
+REGILLA PARA TRAGANTES a 4 cuc, de acero inoxidable.
+LLAVE DE PASO a 4 cuc, de tiro rapido, de 3/4 y 1 pulgada
+TOMA CORRIENTE a 40 cup, son dobles y tiene toma para tierra fisica.
+
+{WordsKey1/, }
+
+Whatapps +5 331 7003
+
+// Anuncio-Txt = 03Pulid --------------------------------------------------------------------------------------------------------------------------------
+{H}⭐⭐⭐Tengo Pulidoras INGCO, Celladas es su caja y buen precio, mas de 1000 watts de potencia ☎7.832.8768 ☎5.331.7003
+
+El equipo INGCO presta gran atención a cada detalle para hacer que las herramientas INGCO se coloquen entre las mejores del mundo.
+
+Marca: INGCO UAG10108-3, 4 1/2", 12 500 rpm, 110 volts, 60 hz, 1010 watts
+
+Ademas tambien vendo los siguentes equipos:
+BOMBILLOS LED EMERGENTES ------ 5 cuc (funcionan como bombillos LED normales pero se pueden seguir utilizando cuando falta el fluido eléctrico)
+PRESURIZADOR AUTOMÁTICO ------- 95 cuc (silencioso, marca Mizuzuki, aumenta la presión de agua en forma automática, New en Caja)
+PESA DIGITAL ------------------ 10 cuc (pesa hasta 50 kg y da la medida en Kg, Libras y Onzas)
+SARTEN ELÉCTRICO -------------- 70 cuc (marca Royal, color negro con tapa de cristal, cubierta de teflon)
+PICADORA DE ESPECIES ---------- 25 cuc (marca Royal, color negro con vaso transparente)
+MAQUINA DE REFRIGERACIÓN ------ 160 cuc (marca Cowplandt, Modelo:CP62-YLBP/MHBP, 110 volt, 60hz, 1PH, LRA:13.3A)
+LÁMPARA RECARGABLE ------------ 15 cuc (multipropósito apagones, excursiones, linterna, etc)
+BOCINA PORTATIL --------------- 22 cuc (con Bluetooth, puerto USB y MicroSD para memorias, radio FM, 8 watts de potencia, bateria de litio de larga duración)
+RADIO PORTATIL ---------------- 15 cuc (com FM, y puerto USB para memorias)
+DUCHA ELECTRICA --------------- 30 cuc (marca Federalli, 3 temperaturas, 110 volt, 40 amperes)
+SET DE DUCHA HIGIENICA -------- 15 cuc (plástica tipo teléfono, de 1.2 M; marca Federalli)
+SILICONA PARA JUNTAS ---------- 4 cuc  (resistente a alta temperaturas, al aceite, al agua y a la congelación)
+LLAVINES PARA PUERTAS --------- 15 cuc (marca Workey de doble cerrojo)
+REGILLA PARA TRAGANTES -------- 5 cuc  (de acero inoxidable, con trampa para los olores)
+REGILLA PARA TRAGANTES -------- 4 cuc  (de acero inoxidable)
+LLAVE DE PASO ----------------- 4 cuc  (de tiro rapido, de 3/4 y 1 pulgada)
+TOMA CORRIENTE ----------------45 cup  (son dobles y tiene toma para tierra fisica)
+
+{WordsKey1/, }
+
+Para más detalle Whatapps +5 331 7003
+
+// Anuncio-Txt = 04Pulid --------------------------------------------------------------------------------------------------------------------------------
+{H}⭐⭐⭐Pulidoras Nuevas sin abir, 1010 de potencia, marca INGCO, disco de 4.5 pulg. ☎Fijo:7.832.8768 ☎cell:5.331.7003
+
+El equipo INGCO presta gran atención a cada detalle para hacer que las herramientas INGCO se coloquen entre las mejores del mundo.
+
+Marca: INGCO
+Modelo: UAG10108-3
+Color: Amarilla
+Disco: 115 mm
+Velocidad: 12 500 rmp
+Voltaje: 110 volt
+Frecuencia: 60 Hz.
+Potencia: 1010 watts.
+
+Las herramientas de INGCO se dedican a hacer accesibles las herramientas de calidad profesional. 
+
+Tambien se ofertan los siguientes productos:
+PESA DIGITAL por 10 ⏩ pesa hasta 50 kg y da la medida en Kg, Libras y Onzas.
+SARTEN ELÉCTRICO por 70 cuc ⏩ marca Royal, color negro con tapa de cristal, cubierta de teflon.
+PICADORA DE ESPECIES por 25 ⏩ marca Royal, color negro con vaso transparente
+
+LÁMPARA RECARGABLE por 15 cuc ⏩ multipropósito apagones, excursiones, linterna, etc.
+BOMBILLOS LED EMERGENTES por 5 cuc ⏩ Bombillos LED normales, pero se cargan y pueden utilizarse cuando no hay electicidad
+
+BOCINA PORTATIL por 22 cuc ⏩ con Bluetooth, puerto USB y MicroSD para memorias, radio FM, 8 watts de potencia, bateria de litio de larga duración
+RADIO PORTATIL por 15 cuc ⏩ con FM, y puerto USB para memorias
+
+DUCHA ELECTRICA por 30 cuc ⏩ marca Federalli, 3 temperaturas, 110 volt, 40 amperes.
+SET DE DUCHA HIGIENICA por 15 cuc ⏩ plástica tipo teléfono, de 1.2 M; marca Federalli.
+PRESURIZADOR AUTOMÁTICO por 95 cuc ⏩ Silencioso y economico, aumentan la presión del agua autometicamente cuando se habre una llave.
+MAQUINA DE REFRIGERACIÓN por 160 cuc ⏩ marca Cowplandt, Modelo:CP62-YLBP/MHBP, 110 volt, 60hz, 1PH, LRA:13.3A.
+
+LLAVINES PARA PUERTAS por 15 cuc ⏩ marca Workey de doble cerrojo.
+REGILLA PARA TRAGANTES por 5 cuc ⏩ de acero inoxidable, con trampa para los olores.
+REGILLA PARA TRAGANTES por 4 cuc ⏩ de acero inoxidable.
+LLAVE DE PASO por 4 cuc ⏩ de tiro rapido, de 3/4 y 1 pulgada
+
+SILICONA PARA JUNTAS por 4 cuc ⏩ resistente a alta temperaturas, al aceite, al agua y a la congelación.
+
+TOMA CORRIENTE por 40 cup ⏩ son dobles y tiene toma para tierra fisica.
+
+{WordsKey1/, }
+
+Mi Whatapps es +5 331 7003 me pueden escribir para más detalles
+
+// Anuncio-Txt = 05Pulid --------------------------------------------------------------------------------------------------------------------------------
+{H}⭐⭐⭐Pulidoras profecionales de gran potencia marca INGCO con disco de cuatro pulgadas y media ☎7.832.8768 ☎5.331.7003
+
+Marca: INGCO
+Modelo: UAG10108-3
+Color: Amarilla
+Disco: 115 mm
+Velocidad: 12 500 rmp
+Voltaje: 110 volt
+Frecuencia: 60 Hz.
+Potencia: 1010 watts.
+
+Las herramientas de INGCO se dedican a hacer accesibles las herramientas de calidad profesional. El equipo INGCO presta gran atención a cada detalle para hacer que las herramientas
+INGCO se coloquen entre las mejores del mundo.
+
+Otras ofertas que tengo:
+SARTEN ELÉCTRICO a 70 cuc, marca Royal, color negro con tapa de cristal, cubierta de teflon.
+PICADORA DE ESPECIES a 25, marca Royal, color negro con vaso transparente.
+
+PRESURIZADOR AUTOMÁTICO a 95 cuc, silencioso, marca Mizuzuki, aumenta la presión de agua en forma automática, New en Caja
+MAQUINA DE REFRIGERACIÓN a 160 cuc, marca Cowplandt, Modelo:CP62-YLBP/MHBP, 110 volt, 60hz, 1PH, LRA:13.3A.
+
+BOMBILLOS LED EMERGENTES a 5 cuc, funcionan como bombillos LED normales pero se pueden seguir utilizando cuando falta el fluido eléctrico. 
+LÁMPARA RECARGABLE a 15 cuc, multipropósito apagones, excursiones, linterna, etc.
+
+BOCINA PORTATIL a 22 cuc, con Bluetooth, puerto USB y MicroSD para memorias, radio FM, 8 watts de potencia, bateria de litio de larga duración
+RADIO PORTATIL a 15 cuc, com FM, y puerto USB para memorias
+
+DUCHA ELECTRICA a 30 cuc, marca Federalli, 3 temperaturas, 110 volt, 40 amperes.
+SET DE DUCHA HIGIENICA a 15 cuc, plástica tipo teléfono, de 1.2 M; marca Federalli.
+
+PESA DIGITAL a 10, pesa hasta 50 kg y da la medida en Kg, Libras y Onzas.
+
+SILICONA PARA JUNTAS a 4 cuc, resistente a alta temperaturas, al aceite, al agua y a la congelación.
+
+LLAVINES PARA PUERTAS a 15 cuc, marca Workey de doble cerrojo.
+
+REGILLA PARA TRAGANTES a 5 cuc, de acero inoxidable, con trampa para los olores.
+REGILLA PARA TRAGANTES a 4 cuc, de acero inoxidable.
+LLAVE DE PASO a 4 cuc, de tiro rapido, de 3/4 y 1 pulgada
+
+TOMA CORRIENTE a 40 cup, son dobles y tiene toma para tierra fisica.
+
+{WordsKey1/, }
+
+Para más detalles Whatapps +5 331 7003
+
+// Anuncio-Txt = 06Pulid --------------------------------------------------------------------------------------------------------------------------------
+{H}⭐⭐⭐Vendo Pulidora profecional INGCO gran potencia y acabado, de color amarilla y 1010 watts ☎5.331.7003 ☎7.832.8768
+
+Marca: INGCO
+Modelo: UAG10108-3
+Color: Amarilla
+Disco: 115 mm
+Velocidad: 12 500 rmp
+Voltaje: 110 volt
+Frecuencia: 60 Hz.
+Potencia: 1010 watts.
+
+Las herramientas INGCO se colocan entre las mejores del mundo, porque el equipo presta atención al minimo detalle para complecer a sus clientes.
+
+BOMBILLOS LED EMERGENTES a 5 cuc (Siven para apagones, pero tambien como bombillos normales)
+PRESURIZADOR AUTOMÁTICO a 95 cuc(Aumenta la presión de agua en forma automática)
+PESA DIGITAL a 10 cuc (Tabaja con pilas y se puede pesar hasta 50 kg)
+SARTEN ELÉCTRICO a 70 cuc (Royal, color negro con tapa de cristal, cubierta de teflon)
+PICADORA DE ESPECIES a 25 cuc (Royal, color negro con vaso transparente)
+MAQUINA DE REFRIGERACIÓN a 160 cuc (110 volt, 60hz, 1PH, LRA:13.3A)
+LÁMPARA RECARGABLE a 15 cuc (Se puede usar como linterna, o lampara de noche)
+BOCINA PORTATIL a 22 cuc (Bluetooth, USB, MicroSD, FM, Bateriade larga duración)
+RADIO PORTATIL a 15 cuc (com FM, y puerto USB para memorias)
+DUCHA ELECTRICA a 30 cuc (3 temperaturas, 110 volt, 40 amperes)
+SET DE DUCHA HIGIENICA a 15 cuc (Tipo teléfono, para usar en la tasa)
+SILICONA PARA JUNTAS a 4 cuc (Para sellar la union entre 2 piezas, resiste altas temperaturas)
+LLAVINES PARA PUERTAS a 15 cuc (Marca Workey de doble cerrojo)
+REGILLA PARA TRAGANTES a 5 cuc (Acero inoxidable, con sifa)
+REGILLA PARA TRAGANTES a 4 cuc (Acero inoxidable, con sifa paltica)
+LLAVE DE PASO a 4 cuc (Tiro rapido, de 3/4 y 1 pulgada)
+TOMA CORRIENTE a 40 cup (Dobles y tiene toma para tierra fisica)
+
+{WordsKey1/, }
+
+Tambien estoy en Whatapps por el número +5 331 7003
+
+// Anuncio-Txt = 07Pulid --------------------------------------------------------------------------------------------------------------------------------
+{H}⭐⭐⭐Llame al ☎7.832.8768 ó al ☎5.331.7003, tengo PULIDORAS INGCO sin estrenar de color amatillo y machas cosas más
+
+Marca: INGCO
+Modelo: UAG10108-3
+Color: Amarilla
+Disco: 4.5 pulgadas
+Velocidad: 12 500 revoluciones
+Voltaje: 110 volt
+Frecuencia: 60 Hz.
+Potencia: 1010 watts.
+
+El equipo INGCO presta gran atención a cada detalle para hacer que las herramientas INGCO se coloquen entre las mejores del mundo. Las herramientas de INGCO se conciben para hacer accesibles las herramientas de calidad profesional. 
+
+BOMBILLOS LED EMERGENTES a 5 cuc, funcionan como bombillos LED normales pero se pueden seguir utilizando cuando falta el fluido eléctrico. 
+PRESURIZADOR AUTOMÁTICO a 95 cuc, silencioso, marca Mizuzuki, aumenta la presión de agua en forma automática, New en Caja
+PESA DIGITAL a 10, pesa hasta 50 kg y da la medida en Kg, Libras y Onzas.
+SARTEN ELÉCTRICO a 70 cuc, marca Royal, color negro con tapa de cristal, cubierta de teflon.
+PICADORA DE ESPECIES a 25, marca Royal, color negro con vaso transparente.
+MAQUINA DE REFRIGERACIÓN a 160 cuc, marca Cowplandt, Modelo:CP62-YLBP/MHBP, 110 volt, 60hz, 1PH, LRA:13.3A.
+LÁMPARA RECARGABLE a 15 cuc, multipropósito apagones, excursiones, linterna, etc.
+BOCINA PORTATIL a 22 cuc, con Bluetooth, puerto USB y MicroSD para memorias, radio FM, 8 watts de potencia, bateria de litio de larga duración
+RADIO PORTATIL a 15 cuc, com FM, y puerto USB para memorias
+DUCHA ELECTRICA a 30 cuc, marca Federalli, 3 temperaturas, 110 volt, 40 amperes.
+SET DE DUCHA HIGIENICA a 15 cuc, plástica tipo teléfono, de 1.2 M; marca Federalli.
+SILICONA PARA JUNTAS a 4 cuc, resistente a alta temperaturas, al aceite, al agua y a la congelación.
+LLAVINES PARA PUERTAS a 15 cuc, marca Workey de doble cerrojo.
+REGILLA PARA TRAGANTES a 5 cuc, de acero inoxidable, con trampa para los olores.
+REGILLA PARA TRAGANTES a 4 cuc, de acero inoxidable.
+LLAVE DE PASO a 4 cuc, de tiro rapido, de 3/4 y 1 pulgada
+TOMA CORRIENTE a 40 cup, son dobles y tiene toma para tierra fisica.
+
+{WordsKey1/, }
+
+Whatapps: +5 331 7003
+
+// Anuncio-Txt = 08Pulid --------------------------------------------------------------------------------------------------------------------------------
+{H}⭐⭐⭐Compre su Pulidoras INGCO profecional de mas de mil watts de potencia y 12500 revoluciones ☎7.832.8768 ☎5.331.7003
+
+Las herramientas INGCO se colocan entre las mejores del mundo, porque el equipo presta atención al minimo detalle para complecer a sus clientes.
+
+Marca: INGCO
+Modelo: UAG10108-3
+Color: Amarilla
+Disco: 115 mm
+Velocidad: 12 500 rmp
+Voltaje: 110 volt
+Frecuencia: 60 Hz.
+Potencia: 1010 watts.
+Precio: 130 cuc
+
+PESA DIGITAL ............................10 cuc (Tabaja con pilas y se puede pesar hasta 50 kg)
+SARTEN ELÉCTRICO ........................70 cuc (Royal, color negro con tapa de cristal, cubierta de teflon)
+PICADORA DE ESPECIES ....................25 cuc (Royal, color negro con vaso transparente)
+
+BOMBILLOS LED EMERGENTES .................5 cuc (Siven para apagones, pero tambien como bombillos normales)
+LÁMPARA RECARGABLE ......................15 cuc (Se puede usar como linterna, o lampara de noche)
+
+BOCINA PORTATIL .........................22 cuc (Bluetooth, USB, MicroSD, FM, Bateriade larga duración)
+RADIO PORTATIL ..........................15 cuc (com FM, y puerto USB para memorias)
+
+DUCHA ELECTRICA .........................30 cuc (3 temperaturas, 110 volt, 40 amperes)
+SET DE DUCHA HIGIENICA ..................15 cuc (Tipo teléfono, para usar en la tasa)
+
+SILICONA PARA JUNTAS .....................4 cuc (Para sellar la union entre 2 piezas, resiste altas temperaturas)
+
+LLAVINES PARA PUERTAS ...................15 cuc (Marca Workey de doble cerrojo)
+REGILLA PARA TRAGANTES ...................5 cuc (Acero inoxidable, con sifa)
+REGILLA PARA TRAGANTES ...................4 cuc (Acero inoxidable, con sifa paltica)
+LLAVE DE PASO ............................4 cuc (Tiro rapido, de 3/4 y 1 pulgada)
+TOMA CORRIENTE ..........................40 cup (Dobles y tiene toma para tierra fisica)
+
+PRESURIZADOR AUTOMÁTICO .................95 cuc (Aumenta la presión de agua en forma automática)
+MAQUINA DE REFRIGERACIÓN ...............160 cuc (110 volt, 60hz, 1PH, LRA:13.3A)
+
+{WordsKey1/, }
+
+Tambien me puedes llamar/escribir al +5 331 7003 por Whatapps.
+
+// Anuncio-Txt = 09Pulid --------------------------------------------------------------------------------------------------------------------------------
+{H}⭐⭐⭐Compra ahora que se acaban, PULIDORAS INGCO de 1010 watts de power y disco de 4.5" ☎7.832.8768 ☎5.331.7003
+
+El equipo INGCO presta gran atención a cada detalle para hacer accesibles las herramientas de calidad profesional y que se coloquen entre las mejores del mundo.
+
+Marca: INGCO
+Modelo: UAG10108-3
+Color: Amarilla
+Disco: 115 mm
+Velocidad: 12 500 rmp
+Voltaje: 110 volt
+Frecuencia: 60 Hz.
+Potencia: 1010 watts.
+
+BOMBILLOS LED EMERGENTES (Siven para apagones, pero tambien como bombillos normales) por 5 cuc 
+PRESURIZADOR AUTOMÁTICO (Aumenta la presión de agua en forma automática) por 95 cuc
+PESA DIGITAL (Tabaja con pilas y se puede pesar hasta 50 kg) por 10 cuc
+SARTEN ELÉCTRICO (Royal, color negro con tapa de cristal, cubierta de teflon) por 70 cuc
+PICADORA DE ESPECIES (Royal, color negro con vaso transparente) por 25 cuc
+MAQUINA DE REFRIGERACIÓN (110 volt, 60hz, 1PH, LRA:13.3A) por 160 cuc
+LÁMPARA RECARGABLE (Se puede usar como linterna, o lampara de noche) por 15 cuc
+BOCINA PORTATIL (Bluetooth, USB, MicroSD, FM, Bateriade larga duración) por 22 cuc
+RADIO PORTATIL (com FM, y puerto USB para memorias) por 15 cuc
+DUCHA ELECTRICA (3 temperaturas, 110 volt, 40 amperes) por 30 cuc
+SET DE DUCHA HIGIENICA (Tipo teléfono, para usar en la tasa) por 15 cuc
+SILICONA PARA JUNTAS (Para sellar la union entre 2 piezas, resiste altas temperaturas) por 4 cuc
+LLAVINES PARA PUERTAS (Marca Workey de doble cerrojo) por 15 cuc
+REGILLA PARA TRAGANTES (Acero inoxidable, con sifa) por 5 cuc
+REGILLA PARA TRAGANTES (Acero inoxidable, con sifa paltica) por 4 cuc
+LLAVE DE PASO (Tiro rapido, de 3/4 y 1 pulgada) por 4 cuc
+TOMA CORRIENTE (Dobles y tiene toma para tierra fisica) por 40 cup
+
+{WordsKey1/, }
+
+Si tienes Whatapps escribirme al +5 331 7003
+
+// Anuncio-Txt = 10Pulid --------------------------------------------------------------------------------------------------------------------------------
+{H}⭐⭐⭐No se la pierda, llame ya, PULIDORAS INGCO profecionales de un elgante color amarillo ☎7.832.8768 ☎5.331.7003
+
+Marca: INGCO
+Modelo: UAG10108-3
+Color: Amarilla
+Disco: 115 mm
+Velocidad: 12 500 rmp
+Voltaje: 110 volt
+Frecuencia: 60 Hz.
+Potencia: 1010 watts.
+
+Otras ofectas:
+5 cuc, BOMBILLOS LED EMERGENTES (Siven para apagones, pero tambien como bombillos normales)
+95 cuc, PRESURIZADOR AUTOMÁTICO (Aumenta la presión de agua en forma automática)
+10 cuc, PESA DIGITAL (Tabaja con pilas y se puede pesar hasta 50 kg)
+70 cuc, SARTEN ELÉCTRICO (Royal, color negro con tapa de cristal, cubierta de teflon)
+25 cuc, PICADORA DE ESPECIES (Royal, color negro con vaso transparente)
+160 cuc, MAQUINA DE REFRIGERACIÓN (110 volt, 60hz, 1PH, LRA:13.3A)
+15 cuc, LÁMPARA RECARGABLE (Se puede usar como linterna, o lampara de noche)
+22 cuc, BOCINA PORTATIL (Bluetooth, USB, MicroSD, FM, Bateriade larga duración)
+15 cuc, RADIO PORTATIL (com FM, y puerto USB para memorias)
+30 cuc, DUCHA ELECTRICA (3 temperaturas, 110 volt, 40 amperes)
+15 cuc, SET DE DUCHA HIGIENICA (Tipo teléfono, para usar en la tasa)
+4 cuc, SILICONA PARA JUNTAS (Para sellar la union entre 2 piezas, resiste altas temperaturas)
+15 cuc, LLAVINES PARA PUERTAS (Marca Workey de doble cerrojo)
+5 cuc, REGILLA PARA TRAGANTES (Acero inoxidable, con sifa)
+4 cuc, REGILLA PARA TRAGANTES (Acero inoxidable, con sifa paltica)
+4 cuc, LLAVE DE PASO (Tiro rapido, de 3/4 y 1 pulgada)
+40 cup, TOMA CORRIENTE (Dobles y tiene toma para tierra fisica)
+ 
+{WordsKey1/, }
+
+Tambien nos podemos comunicar por Whatapps en el +5 331 7003
+
+// Anuncio-Txt = 11Pulid --------------------------------------------------------------------------------------------------------------------------------
+{H}⭐⭐⭐Pulidoras INGCO UAG10108-3, Amarilla, 115 mm, 12 500 rmp, 1010 watts, 110 volt, 60 Hz ☎7.832.8768 ☎5.331.7003
+
+Marca: INGCO
+Modelo: UAG10108-3
+Color: Amarilla
+Disco: 115 mm
+Velocidad: 12 500 rmp
+Voltaje: 110 volt
+Frecuencia: 60 Hz.
+Potencia: 1010 watts.
+
+El equipo INGCO presta gran atención a cada detalle para hacer accesibles las herramientas de calidad profesional y que se coloquen entre las mejores del mundo.
+
+BOMBILLOS LED EMERGENTES .................5 cuc (Siven para apagones, pero tambien como bombillos normales)
+PRESURIZADOR AUTOMÁTICO .................95 cuc (Aumenta la presión de agua en forma automática)
+PESA DIGITAL ............................10 cuc (Tabaja con pilas y se puede pesar hasta 50 kg)
+SARTEN ELÉCTRICO ........................70 cuc (Royal, color negro con tapa de cristal, cubierta de teflon)
+PICADORA DE ESPECIES ....................25 cuc (Royal, color negro con vaso transparente)
+MAQUINA DE REFRIGERACIÓN ...............160 cuc (110 volt, 60hz, 1PH, LRA:13.3A)
+LÁMPARA RECARGABLE ......................15 cuc (Se puede usar como linterna, o lampara de noche)
+BOCINA PORTATIL .........................22 cuc (Bluetooth, USB, MicroSD, FM, Bateriade larga duración)
+RADIO PORTATIL ..........................15 cuc (com FM, y puerto USB para memorias)
+DUCHA ELECTRICA .........................30 cuc (3 temperaturas, 110 volt, 40 amperes)
+SET DE DUCHA HIGIENICA ..................15 cuc (Tipo teléfono, para usar en la tasa)
+SILICONA PARA JUNTAS .....................4 cuc (Para sellar la union entre 2 piezas, resiste altas temperaturas)
+LLAVINES PARA PUERTAS ...................15 cuc (Marca Workey de doble cerrojo)
+REGILLA PARA TRAGANTES ...................5 cuc (Acero inoxidable, con sifa)
+REGILLA PARA TRAGANTES ...................4 cuc (Acero inoxidable, con sifa paltica)
+LLAVE DE PASO ............................4 cuc (Tiro rapido, de 3/4 y 1 pulgada)
+TOMA CORRIENTE ..........................40 cup (Dobles y tiene toma para tierra fisica)
+
+{WordsKey1/, }
+
+Mi contacto por Whatapps es +5 331 7003
+
+// Anuncio-Txt = 12Pulid --------------------------------------------------------------------------------------------------------------------------------
+{H}⭐⭐⭐PULIDORAS marca INGCO, nuevas de pakete en su caja, de gran potencia al mejor precio ☎7.832.8768 ☎5.331.7003
+
+El equipo INGCO presta gran atención a cada detalle para hacer que las herramientas INGCO se coloquen entre las mejores del mundo. Las herramientas de INGCO se conciben para hacer accesibles las herramientas de calidad profesional. 
+
+Marca: INGCO
+Modelo: UAG10108-3
+Potencia: 1010 watts.
+Disco: 115 mm
+Color: Amarilla
+Velocidad: 12 500 rmp
+Voltaje: 110 volt
+Frecuencia: 60 Hz.
+
+5 cuc, BOMBILLOS LED EMERGENTES. 
+95 cuc, PRESURIZADOR AUTOMÁTICO.
+10 cuc, PESA DIGITAL.
+70 cuc, SARTEN ELÉCTRICO.
+25 cuc, PICADORA DE ESPECIES.
+160 cuc, MAQUINA DE REFRIGERACIÓN.
+15 cuc, LÁMPARA RECARGABLE.
+22 cuc, BOCINA PORTATIL.
+15 cuc, RADIO PORTATIL.
+30 cuc, DUCHA ELECTRICA.
+15 cuc, SET DE DUCHA HIGIENICA.
+4 cuc, SILICONA PARA JUNTAS.
+15 cuc, LLAVINES PARA PUERTAS.
+5 cuc, REGILLA PARA TRAGANTES.
+4 cuc, REGILLA PARA TRAGANTES.
+4 cuc, LLAVE DE PASO.
+40 cup, TOMA CORRIENTE.
+
+{WordsKey1/, }
+
+Tambien costesto preguntas po Whatapps +5 331 7003
+
+ 

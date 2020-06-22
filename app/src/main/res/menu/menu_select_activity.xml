@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+      android:id="@+id/mnuNewAnuncio"
+      android:icon="@drawable/ic_add_circle_black_24dp"
+      android:title="@string/mnuNewAnuncio"
+      app:showAsAction="ifRoom" />
+    <item
+      android:id="@+id/mnuDelAnuncio"
+      android:icon="@drawable/ic_delete_black_24dp"
+      android:title="@string/mnuDelAnuncio"
+      app:showAsAction="ifRoom" />
+    <item
+      android:id="@+id/mnuLoadAnuncFile"
+      android:icon="@drawable/ic_file_download_black_24dp"
+      android:title="@string/mnuLoadAnuncFile"
+      app:showAsAction="ifRoom" />
+    <item
+      android:id="@+id/mnuNewFileAnunc"
+      android:title="@string/mnuNewAnuncFile" />
+    <item
+      android:id="@+id/mnuRestoreAll"
+      android:title="@string/mnuRestoreAll" />
+    <item
+      android:id="@+id/mnuDelAnuncFile"
+      android:title="@string/mnuDelAnuncFile" />
+</menu>
