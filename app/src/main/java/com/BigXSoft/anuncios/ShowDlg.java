@@ -1,13 +1,9 @@
 package com.BigXSoft.anuncios;
 
 import android.app.Activity;
-import android.app.ActivityManager;
-import android.app.Application;
 import android.app.Dialog;
-import android.content.Context;
 import android.content.DialogInterface;
 import android.content.DialogInterface.OnClickListener;
-import android.content.pm.ApplicationInfo;
 import android.content.res.Resources;
 import android.os.Bundle;
 import android.view.View;
@@ -17,12 +13,12 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.DialogFragment;
 import androidx.fragment.app.FragmentActivity;
-import androidx.fragment.app.FragmentManager;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+@SuppressWarnings( { "WeakerAccess", "unused" } )
 public class ShowDlg extends DialogFragment
   //==============================================================================================================================================================================
   {
@@ -35,8 +31,8 @@ public class ShowDlg extends DialogFragment
   private int      mLstType;
   private int      mLayout;
 
-  private FragmentActivity fActv;
-  private OnClickListener mRetFun;
+  private final FragmentActivity Actv;
+  private       OnClickListener  mRetFun;
 
   private boolean[] mChecked;
   private View      mView;
@@ -141,40 +137,40 @@ public class ShowDlg extends DialogFragment
   /**  */
   ShowDlg( FragmentActivity fm )
     {
-    fActv = fm;
+    Actv = fm;
     }
 
   //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   /**  */
   public void setTitle( String Title) { mTitle = Title; }
-  public void setTitle( int IdTitle)  { mTitle = fActv.getString(IdTitle); }
+  public void setTitle( int IdTitle)  { mTitle = Actv.getString( IdTitle ); }
 
   //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   /**  */
   void setMessage( String Message) { mMessage = Message; }
-  void setMessage( int IdMessage ) { mMessage = fActv.getString(IdMessage); }
+  void setMessage( int IdMessage ) { mMessage = Actv.getString( IdMessage ); }
 
   //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   /**  */
   void setBnt1( String Title) { mPositive = Title; }
-  void setBnt1( int IdTitle ) { mPositive = fActv.getString(IdTitle); }
+  void setBnt1( int IdTitle ) { mPositive = Actv.getString( IdTitle ); }
 
   //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   /**  */
   void setBnt2( String Title) { mNegative = Title; }
-  void setBnt2( int IdTitle ) { mNegative = fActv.getString(IdTitle); }
+  void setBnt2( int IdTitle ) { mNegative = Actv.getString( IdTitle ); }
 
   //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   /**  */
   void setBnt3( String Title) { mNeutral = Title; }
-  void setBnt3( int IdTitle ) { mNeutral = fActv.getString(IdTitle); }
+  void setBnt3( int IdTitle ) { mNeutral = Actv.getString( IdTitle ); }
 
   //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   /**  */
   void setItemsList( String[] Lst ) { mLista = Lst; mLstType=0; }
   void setItemsList( int IdList  )
     {
-    Resources res = fActv.getResources();
+    Resources res = Actv.getResources();
     setItemsList( res.getStringArray( IdList ) );
     }
 
@@ -187,9 +183,9 @@ public class ShowDlg extends DialogFragment
     mChecked = checked;
     }
 
-  public void setCheckList( int IdList, boolean[] checked  )
+  public void setCheckList( int IdList, boolean[] checked )
     {
-    Resources res = fActv.getResources();
+    Resources res = Actv.getResources();
     setCheckList( res.getStringArray( IdList ), checked );
     }
 
@@ -198,7 +194,7 @@ public class ShowDlg extends DialogFragment
   public void setOptionsList( String[] Lst ) { mLista = Lst; mLstType=2; }
   public void setOptionsList( int IdList  )
     {
-    Resources res = fActv.getResources();
+    Resources res = Actv.getResources();
     setItemsList( res.getStringArray( IdList ) );
     }
 
@@ -213,7 +209,7 @@ public class ShowDlg extends DialogFragment
     {
     mRetFun = listener;
 
-    super.show( fActv.getSupportFragmentManager(), "ShowMessaje");
+    super.show( Actv.getSupportFragmentManager(), "ShowMessaje" );
     }
 
   //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
