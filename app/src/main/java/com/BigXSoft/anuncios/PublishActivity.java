@@ -1,8 +1,11 @@
 package com.BigXSoft.anuncios;
 
 import android.annotation.SuppressLint;
+import android.content.ClipData;
+import android.content.ClipboardManager;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
@@ -39,20 +42,20 @@ import java.util.regex.Pattern;
 
 import static java.lang.System.out;
 
+@SuppressWarnings( "UnusedReturnValue" )
 public class PublishActivity extends AppCompatActivity
   //==================================================================== PublishActivity =========================================================================================
   {
-  WebView      mWebPg;                        // Vista donde se muestran las páginas web
-  Toolbar      mAppBar;                       // Barra de herramientas de la aplicación
-  LinearLayout mLoadPanel;                    // Panel que se muestra durante la carga de las páginas
-  boolean      mUrlOut;                       // Define si la páginas se cargan dentro de la aplicación o no
-  String       mLastUrl = "";                 // Ultima URL editada
+  private WebView      mWebPg;                        // Vista donde se muestran las páginas web
+  private Toolbar      mAppBar;                       // Barra de herramientas de la aplicación
+  private LinearLayout mLoadPanel;                    // Panel que se muestra durante la carga de las páginas
+  private boolean      mUrlOut;                       // Define si la páginas se cargan dentro de la aplicación o no
+  private String       mLastUrl = "";                 // Ultima URL editada
 
   // Define los tipos de páginas que maneja el sistema
-                @SuppressWarnings("unused")
-                enum PGType {  INSERT                ,  INSERTED               ,  MODIFY                 ,  DELETE                ,  VIEW              ,  NONE  }
-  static String[] PGName  = { "insertar-anuncio.html", "anuncio-insertado.html", "modificar-anuncio.html", "eliminar-anuncio.html", ".html?token="              };
-  static int[]    PGTitle = { R.string.InsertAnunc   , R.string.InsertedAnunc  , R.string.ModifyAnunc    , R.string.DeleteAnunc   , R.string.ViewAnunc , R.string.ViewPage };
+  @SuppressWarnings("unused") enum PGType {  INSERT                ,  INSERTED               ,  MODIFY                 ,  DELETE                ,  VIEW              ,  NONE  }
+  private static final String[] PGName  = { "insertar-anuncio.html", "anuncio-insertado.html", "modificar-anuncio.html", "eliminar-anuncio.html", ".html?token="              };
+  private static final int[]    PGTitle = { R.string.InsertAnunc   , R.string.InsertedAnunc  , R.string.ModifyAnunc    , R.string.DeleteAnunc   , R.string.ViewAnunc , R.string.ViewPage };
   
 
   //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -93,9 +96,9 @@ public class PublishActivity extends AppCompatActivity
     //ShowDlg.Msg( this, getCookie( "https://www.revolico.com" ) );
     
     String      Url     = "file:///android_asset/PageTest.html";
-//    AnuncioData Anuncio = App.getActualAnunc();
-//    if( Anuncio != null )
-//      Url = (Anuncio.UrlUpd==null || Anuncio.UrlUpd.length()==0)? Anuncio.Url : Anuncio.UrlUpd;
+    AnuncioData Anuncio = App.getActualAnunc();
+    if( Anuncio != null )
+      Url = (Anuncio.UrlUpd==null || Anuncio.UrlUpd.length()==0)? Anuncio.Url : Anuncio.UrlUpd;
 
     registerForContextMenu( mWebPg );
     
@@ -117,27 +120,106 @@ public class PublishActivity extends AppCompatActivity
       {
       public boolean onMenuItemClick( MenuItem item )
         {
+        int Id = item.getItemId();
+        if( Id == 100 )
+          copyToClipboard( hitUrl );
+        else
+          launchABrowser( Browse.values()[Id], hitUrl );
         
-        // do the menu action
         return true;
         }
       };
 
     if( hitTyp == HitTestResult.SRC_ANCHOR_TYPE )
       {
-      menu.add( Menu.NONE, 1, 0, "Muetra en Navegador" ).setOnMenuItemClickListener( handler );
-      menu.add( Menu.NONE, 2 , 0, "Copia URL" ).setOnMenuItemClickListener( handler );
+      menu.add( Menu.NONE, Browse.DEFAULT.ordinal(), 0, R.string.ShowInDefault ).setOnMenuItemClickListener( handler );
+      
+      AddMenuItem( menu, Browse.CROME     , R.string.ShowInCrome     , handler );
+      AddMenuItem( menu, Browse.FIREFOX   , R.string.ShowInFireFox   , handler );
+      AddMenuItem( menu, Browse.OPERA     , R.string.ShowInOpera     , handler );
+      AddMenuItem( menu, Browse.OPERA_MINI, R.string.ShowInOperaMini , handler );
+      AddMenuItem( menu, Browse.ANDROID   , R.string.ShowInAndroid   , handler );
 
-      // 1. the picture must be focused, so we simulate a DPAD enter event to trigger the hyperlink
-      KeyEvent event1 = new KeyEvent(KeyEvent.ACTION_DOWN, KeyEvent.KEYCODE_DPAD_CENTER);
-      mWebPg.dispatchKeyEvent(event1);
-      KeyEvent event2 = new KeyEvent(KeyEvent.ACTION_UP, KeyEvent.KEYCODE_DPAD_CENTER);
-      mWebPg.dispatchKeyEvent(event2);
+      menu.add( Menu.NONE, 100 , 0, R.string.CopyUrl ).setOnMenuItemClickListener( handler );
+
+//      // 1. the picture must be focused, so we simulate a DPAD enter event to trigger the hyperlink
+//      KeyEvent event1 = new KeyEvent(KeyEvent.ACTION_DOWN, KeyEvent.KEYCODE_DPAD_CENTER);
+//      mWebPg.dispatchKeyEvent(event1);
+//      KeyEvent event2 = new KeyEvent(KeyEvent.ACTION_UP, KeyEvent.KEYCODE_DPAD_CENTER);
+//      mWebPg.dispatchKeyEvent(event2);
       
       }
 
     }
-  
+
+  //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  /** Adicina un item en el menu, de utilizar el tipo de navegador indicado */
+  private boolean AddMenuItem( ContextMenu menu, Browse bs, int idTitle, OnMenuItemClickListener handler )
+    {
+    if( !launchABrowser( bs, null ) ) return false;
+    
+    MenuItem mnu = menu.add( Menu.NONE, bs.ordinal(), 0, getString( idTitle ) );
+
+    mnu.setOnMenuItemClickListener( handler );
+    return true;
+    }
+
+  //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  /** Copia la cadena text en el portapapeles */
+  private boolean copyToClipboard( String text )
+    {
+    try
+      {
+      ClipData         clip      = ClipData.newPlainText( "label", text );
+      ClipboardManager clipboard = (ClipboardManager) getSystemService( CLIPBOARD_SERVICE );
+      
+      if( clipboard != null )
+        {
+        clipboard.setPrimaryClip( clip );
+        return true;
+        }
+      }
+    catch( Exception ignore ) {}
+    
+    return false;
+    }
+
+  //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                 enum Browse {  CROME                ,  FIREFOX           ,  OPERA             ,  OPERA_MINI             ,  ANDROID              ,  DEFAULT  }
+  private static final String[] KGsName = { "com.android.chrome", "org.mozilla.firefox", "com.opera.browser", "com.opera.mini.android", "com.android.browser" , null      };
+ 
+  //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  /** Abre la pagina web especificada en 'url' en el navegador especificado en 'bs', Si url es null solo verifica que el browse puese utilizarse */
+  private boolean launchABrowser( Browse bs, String url )
+    {
+    Intent itn = null;
+
+    if( bs != Browse.DEFAULT )
+      {
+      PackageManager pkgeMng = getPackageManager();
+
+      String pkgName = KGsName[ bs.ordinal() ];
+      itn = pkgeMng.getLaunchIntentForPackage( pkgName );
+
+      if( itn != null )
+        {
+        if( pkgeMng.queryIntentActivities( itn, 0 ).size() == 0 )
+          itn = null;
+        }
+      }
+
+    if( url == null ) return (bs==Browse.DEFAULT || itn!=null);
+
+    if( itn == null ) itn = new Intent( Intent.ACTION_VIEW );
+
+    itn.setData( Uri.parse( url ) );
+    itn.addFlags( Intent.FLAG_ACTIVITY_NEW_TASK );
+
+    startActivity( itn );
+    
+    return true;
+    }
+
   //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   /** Obtiene todos los cookies registrados para un dominio dado */
   @SuppressWarnings( "unused" )
@@ -153,7 +235,7 @@ public class PublishActivity extends AppCompatActivity
 
   //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   /** Borra los datos que guardan las páginas web en el lado cliente */
-  public static void clearWebData()
+  private static void clearWebData()
     {
     CookieManager ckMng = CookieManager.getInstance();
 
@@ -313,8 +395,27 @@ public class PublishActivity extends AppCompatActivity
     else
       mWebPg.loadUrl( Url );
     }
+
+  //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  /** Abre la url dada en el navegador especificado en pkg, si es nulo la abre en el navegador por defecto */
+  @SuppressWarnings( "unused" )
+  private void LoadUrlInBrowse( String sUrl, String pkg )
+    {
+    Intent intent = new Intent( Intent.ACTION_VIEW, Uri.parse( sUrl ) );
   
-  
+    intent.addFlags( Intent.FLAG_ACTIVITY_NEW_TASK );
+    intent.setPackage( pkg );
+    try
+      {
+      startActivity( intent );
+      }
+    catch( Exception ex )
+      {
+      intent.setPackage( null );
+      startActivity( intent );
+      }
+    }
+
   //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   /** Determina si es necesario y se puede obtener la informacion de las urls relacionadas con el anuncio o no */
   private boolean UrlsNeeded( boolean byScript )
@@ -336,10 +437,12 @@ public class PublishActivity extends AppCompatActivity
     }
 
   //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  String urlPag, urlUpd, urlDel;
-  Pattern Ptron1 = Pattern.compile( "\\.html\\?adid=([0-9]{8})&token=(\\w{12})" );
-  Pattern Ptron2 = Pattern.compile( "([0-9]{8})\\.html\\?token=(\\w{12})" );
-  Pattern Ptron3 = Pattern.compile( "\\.html\\?key=(\\w{20})" );
+  private String urlPag;
+  private String urlUpd;
+  private String urlDel;
+  private final Pattern Ptron1 = Pattern.compile( "\\.html\\?adid=([0-9]{8})&token=(\\w{12})" );
+  private final Pattern Ptron2 = Pattern.compile( "([0-9]{8})\\.html\\?token=(\\w{12})" );
+  private final Pattern Ptron3 = Pattern.compile( "\\.html\\?key=(\\w{20})" );
   //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   /** Obtine las urls de actualización y borrado analizando la URL de la página */
   private void GetURLsByUrl(  final boolean auto )
@@ -439,6 +542,7 @@ public class PublishActivity extends AppCompatActivity
 
   //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   /** Solicita una ULR y trata de navegar hacia ella */
+  @SuppressWarnings( "SameReturnValue" )
   private boolean LoadUserUrl()
     {
     ShowDlg msg = new ShowDlg( this );
@@ -474,7 +578,7 @@ public class PublishActivity extends AppCompatActivity
 
   //------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   /** Se llama al tocar el boton de detener la carga de la pagina */
-  public void OnStopPageLoad( View view )
+  public void OnStopPageLoad( @SuppressWarnings( "unused" ) View view )
     {
     mWebPg.stopLoading();
     }
@@ -620,7 +724,7 @@ public class PublishActivity extends AppCompatActivity
 
   //-----------------------------------------------------------------------------------------------------------------------------------
   /** Se llama cuando se termina de cargar una página */
-  public void OnPageLoaded()
+  private void OnPageLoaded()
     {
     mLoadPanel.setVisibility( View.GONE );
 

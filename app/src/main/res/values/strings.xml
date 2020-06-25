@@ -100,5 +100,12 @@
   <string name="ViewAnunc">Mostrando Anuncio</string>
   <string name="ViewPage">Mostrando Pagina Web</string>
   <string name="lbMostrar">Mostrar:</string>
+  <string name="ShowInCrome">Mostrar en el navegador Crome</string>
+  <string name="ShowInFireFox">Mostrar en el navegador Firefox</string>
+  <string name="ShowInOpera">Mostrar en el navegador Opera</string>
+  <string name="ShowInOperaMini">Mostrar en el navegador Opera Mini</string>
+  <string name="ShowInAndroid">Mostrar en el navegador de Android</string>
+  <string name="ShowInDefault">Muestrar en el navegador por defecto</string>
+  <string name="CopyUrl">Copia URL al Portapapeles</string>
 
 </resources>
